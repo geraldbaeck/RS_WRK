@@ -203,4 +203,107 @@
   * Basismaßnahmen
 
 
-### 34. 
+### 34. Welche Erste Hilfe Maßnahmen werden bei zu niedrigem Blutzucker durchgeführt?
+  * Hinsetzen oder Hinlegen
+  * Notruf
+  * Zuckerhaltiges Getränk bringen
+  * Basismaßnahmen
+
+
+### 35. Erste Hilfe umfasst:
+  ???
+
+
+### 36. Welche Erste Hilfe Maßnahmen werden bei Verschlucken durchgeführt?
+  * Ruhe bewahren, Person ansprechen
+  * Notruf veranlassen
+  * 5 mal auf zwischen die Schulterblätter klopfen
+  * bei keiner Besserung abwechselnd 5 mal Klopfen, 5 Heimlich Manöver (Heimlich mitzählen und dokumentieren)
+
+
+### 37. Erklären Sie den Unterschied zwischen Bewusstlosigkeit unf Atem-Kreislauf Stillstand.
+  * *Bewusstlosigkeit:* Person ist nicht bei Bewusstsein, atmet aber noch
+  * *Atem-Kreislauf Stillstand:* Person atmet nicht mehr
+
+
+### 38. Zählen Sie Informationen auf, die der Notruf enthalten muss.
+  * Wo
+  * Was
+  * Wie viele
+  * Wer
+
+
+### 39. Welche Erste Hilfe Maßnahmen sind bei Schlangenbissen durchzuführen?
+  * Körperteil ruhig stellen
+  * Wunde verbinden
+  * Wunde kühlen
+  * Arzt aufsuchen
+
+
+### 40. In welchem Lebensbereich passieren die meisten Unfälle?
+  Freizeit
+
+
+### 41. Ein Patient reagiert auf äußere Reize nicht situationsgerecht. Welche Schritte müssen Sie durchführen?
+  Notfallcheck???
+
+
+### 42. Welche Maßnahmen führen Sie bei einem vermuteten Sonnenstich durch?
+  * Person in den Schatten bringen
+  * Mit erhöhtem Oberkörper lagern
+  * Kalte Umschläge für den überhitzten Kopf
+  * Basismaßnahmen
+  * evt Arzt kontaktieren
+
+
+### 43. Welche Erste Hilfe Ausrüstung schützt den Helfer vor Infektion?
+  * Handschuhe
+  * Beatmungstuch
+
+
+### 44. Rettungskette: die richtige Reihenfolge der Kettenglieder.
+  * Absichern
+  * Notruf / Erste Hilfe
+  * Rettung
+  * Weitere Behandlung
+
+
+### 45. Welche Wundauflagen werden bei Verbrennungen bevorzugt verwendet?
+  * Metallbedampfte Wundauflagen
+
+
+### 46. Wie kann Verätzungen vorgebeugt werden?
+  * Chemikalien sicher aufbewahren
+  * Chemikalien nicht umfüllen
+  * Chemikalien ordnugsgemäß verwenden
+
+
+### 47. Was ist zu tun, nach der Ersthelfer die betroffene Person in die stabile Seitenlage gebracht hat?
+  * Atemkontrolle
+
+
+### 48. Wie können Sie Person aus der Gefahrenzone retten?
+  * Wegziehen
+  * Die Gefahr beseitigen
+  * ???
+
+
+### 49. Nennen Sie die richtigen Schritte zum Anlegen eines Druckverbands?
+  * Wunde hoch lagern
+  * Mit den Fingern Druck ausüben
+  * Wundauflage auflegen und andrücken
+  * Mit Mullbinde umwickeln
+  * Druckkörper anlegen
+  * Mit Mullbinde umwickeln
+
+
+### 50. Welche Erste Hilfe Maßnahmen sind bei einem Schlaganfall durchzuführen?
+  * Notruf
+  * Person ruhig ansprechen.
+  * Seitenlage
+  * laufende Bewusstseinskontrolle
+  * Basismaßnahmen
+
+
+### 51. Finden Sie die zusammengehörenden Begriffe.
+  ???
