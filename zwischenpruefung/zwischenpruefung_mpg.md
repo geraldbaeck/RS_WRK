@@ -17,7 +17,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Entsorgen.
-
+---
 
 ### 2. Blutdruckmessgerät:
   - ##### *Wozu dient das Gerät?*
@@ -35,7 +35,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Wischdesinfektion???
-
+---
 
 
 ### 4. Vakuummatratze mit Mehrkammersystem (Red Vac) - Seite 7 (159kg???):
@@ -54,6 +54,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Wischdesinfektion
+---
 
 
 ### 5. Vakuummatratze mit Einkammersystem - Seite 7 (159kg???):
@@ -72,6 +73,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Wischdesinfektion
+---
 
 
 ### 6. Tragsessel - Seite 3 (150kg):
@@ -90,6 +92,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Wischdesinfektion
+---
 
 
 ### 9. Pneumatische Beinschiene (Luftkammerschiene) - Seite 13:
@@ -108,6 +111,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Wischdesinfektion
+---
 
 
 ### 10. Stollenwerk Fahrtrage - Seite 1 (250kg):
@@ -126,7 +130,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Wischdesinfektion
-
+---
 
 
 ### 11. Ambu Perfit - Seite 7:
@@ -141,6 +145,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Wischdesinfektion oder Entsorgung
+---
 
 
 ### 12. Schaufeltrage Ferno - Seite 4 (159kg):
@@ -159,6 +164,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Wischdesinfektion
+---
 
 
 ### 13&14. Halbautomatischer Defibrilator & LP 1000:
@@ -177,6 +183,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Einrücken, auswerten, unter Umständen neuen Defi ausfassen
+---
 
 
 ### 16. Accuvac Basic - Seite 16:
@@ -195,6 +202,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Wischdesinfektion, Absaugbeutel und Katheder entsorgen, Absaugbeutel neu einlegen, Funktion und Dichte prüfen, aufladen
+---
 
 
 ### 17. Accuvac Rescue - Seite 15:
@@ -213,6 +221,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Wischdesinfektion, Absaugbeutel und Katheder entsorgen, Absaugbeutel neu einlegen, Funktion und Dichte prüfen, aufladen
+---
 
 
 ### 18. Sauerstoff - Seite 24:
@@ -231,6 +240,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Wischdesinfektion, Druckprüfung
+---
 
 
 ### 19. SAM Splint - Seite 14:
@@ -249,6 +259,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Wischdesinfektion, Oberflächenprüfung
+---
 
 
 ### 20. Stifneck Set - Seite ???:
@@ -263,6 +274,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     entsorgen
+---
 
 
 ### 21. Stifneck select - Seite ???:
@@ -277,6 +289,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     entsorgen
+---
 
 
 ### 22. Beinschiene Red Vac - Seite 8:
@@ -295,6 +308,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Wischdesinfektion
+---
 
 
 ### 24. Umbettungstuch:
@@ -305,6 +319,7 @@
   - ##### *Welche Überprüfungen muss ich bei der Wagenübernahme durchführen?*
 
    Existenzprüfung, Oberflächenprüfung, Griffe prüfen
+---
 
 
 ### 27. Harnflasche/Steckbecken:
@@ -317,6 +332,7 @@
  - ##### *Was hat nach Gebrauch zu erfolgen?*
 
    Ausschiedungen entsorgen, Desinfektion (am besten im Spital mit Maschine)
+---
 
 
 ### 28. Pulsoxymeter - Seite 44/45:
@@ -335,6 +351,7 @@
  - ##### *Was hat nach Gebrauch zu erfolgen?*
 
    Wischdesinfektion
+---
 
 
 ### 29. Blutzuckermessgerät (Freedon Lite) - Seite 46:
@@ -353,6 +370,7 @@
  - ##### *Was hat nach Gebrauch zu erfolgen?*
 
    Wischdesinfektion???
+---
 
 
 ### 31. Guedel Tubus - Seite 46:
@@ -371,6 +389,7 @@
 - ##### *Was hat nach Gebrauch zu erfolgen?*
 
   entsorgen
+---
 
 
 ### 31. Larynxtubus - Seite 52:
