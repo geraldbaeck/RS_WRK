@@ -8,7 +8,7 @@
 
   - ##### *Woraus besteht das Gerät?*
 
-    ???
+    Beutel, Reserve (für Sauerstoff), Ventil, Maske, evt. Peeper ???
 
   - ##### *Welche Überprüfungen muss ich bei der Wagenübernahme durchführen?*
 
@@ -18,7 +18,6 @@
 
     Entsorgen.
 
----
 
 ### 2. Blutdruckmessgerät:
   - ##### *Wozu dient das Gerät?*
@@ -37,7 +36,10 @@
 
     Wischdesinfektion???
 
----
+  - ##### *Welche Überprüfungen müssen nach der Reinigung durchgeführt werden?*
+
+    Maschette Dichtheitsprüfung???
+
 
 
 ### 4. Vakuummatratze mit Mehrkammersystem (Red Vac) - Seite 7 (159kg???):
@@ -51,13 +53,11 @@
 
   - ##### *Welche Überprüfungen muss ich bei der Wagenübernahme durchführen?*
 
-   Existenzprüfung, Dichtheitspfüfung???, Oberflächenprüfung
+    Existenzprüfung, Dichtheitspfüfung???, Oberflächenprüfung
 
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Wischdesinfektion
-
----
 
 
 ### 5. Vakuummatratze mit Einkammersystem - Seite 7 (159kg???):
@@ -77,8 +77,6 @@
 
     Wischdesinfektion
 
----
-
 
 ### 6. Tragsessel - Seite 3 (150kg):
   - ##### *Wozu dient das Gerät?*
@@ -96,8 +94,6 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Wischdesinfektion
-
----
 
 
 ### 9. Pneumatische Beinschiene (Luftkammerschiene) - Seite 13:
@@ -117,8 +113,6 @@
 
     Wischdesinfektion
 
----
-
 
 ### 10. Stollenwerk Fahrtrage - Seite 1 (250kg):
   - ##### *Wozu dient das Gerät?*
@@ -137,7 +131,6 @@
 
     Wischdesinfektion
 
----
 
 
 ### 11. Ambu Perfit - Seite 7:
@@ -152,8 +145,6 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Wischdesinfektion oder Entsorgung
-
----
 
 
 ### 12. Schaufeltrage Ferno - Seite 4 (159kg):
@@ -173,8 +164,6 @@
 
     Wischdesinfektion
 
----
-
 
 ### 13&14. Halbautomatischer Defibrilator & LP 1000:
   - ##### *Wozu dient das Gerät?*
@@ -192,8 +181,6 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Einrücken, auswerten, unter Umständen neuen Defi ausfassen
-
----
 
 
 ### 16. Accuvac Basic - Seite 16:
@@ -213,8 +200,6 @@
 
     Wischdesinfektion, Absaugbeutel und Katheder entsorgen, Absaugbeutel neu einlegen, Funktion und Dichte prüfen, aufladen
 
----
-
 
 ### 17. Accuvac Rescue - Seite 15:
   - ##### *Wozu dient das Gerät?*
@@ -233,13 +218,11 @@
 
     Wischdesinfektion, Absaugbeutel und Katheder entsorgen, Absaugbeutel neu einlegen, Funktion und Dichte prüfen, aufladen
 
----
-
 
 ### 18. Sauerstoff - Seite 24:
   - ##### *Wozu dient das Gerät?*
 
-    Zur Versorgung mit Suaerstoff.
+    Zur Versorgung mit Sauerstoff.
 
   - ##### *Woraus besteht das Gerät?*
 
@@ -253,17 +236,15 @@
 
     Wischdesinfektion, Druckprüfung
 
----
-
 
 ### 19. SAM Splint - Seite 14:
   - ##### *Wozu dient das Gerät?*
 
     Zum schienen/immobilisieren von Extremitäten.
 
-  - ##### *Woraus besteht das Gerät?*
+  - ##### *Welche Zusatzmaterialen benötigt man?*
 
-    Aluminiumkern, Schaumstoff
+    Mullbinden; evt. Scheere 
 
   - ##### *Welche Überprüfungen muss ich bei der Wagenübernahme durchführen?*
 
@@ -272,8 +253,6 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Wischdesinfektion, Oberflächenprüfung
-
----
 
 
 ### 20. Stifneck Set - Seite ???:
@@ -289,8 +268,6 @@
 
     entsorgen
 
----
-
 
 ### 21. Stifneck select - Seite ???:
   - ##### *Wozu dient das Gerät?*
@@ -304,8 +281,6 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     entsorgen
-
----
 
 
 ### 22. Beinschiene Red Vac - Seite 8:
@@ -325,8 +300,6 @@
 
     Wischdesinfektion
 
----
-
 
 ### 24. Umbettungstuch:
   - ##### *Wozu dient das Gerät?*
@@ -336,8 +309,6 @@
   - ##### *Welche Überprüfungen muss ich bei der Wagenübernahme durchführen?*
 
    Existenzprüfung, Oberflächenprüfung, Griffe prüfen
-
----
 
 
 ### 27. Harnflasche/Steckbecken:
@@ -350,8 +321,6 @@
  - ##### *Was hat nach Gebrauch zu erfolgen?*
 
    Ausschiedungen entsorgen, Desinfektion (am besten im Spital mit Maschine)
-
----
 
 
 ### 28. Pulsoxymeter - Seite 44/45:
@@ -371,8 +340,6 @@
 
    Wischdesinfektion
 
----
-
 
 ### 29. Blutzuckermessgerät (Freedon Lite) - Seite 46:
  - ##### *Wozu dient das Gerät?*
@@ -391,8 +358,6 @@
 
    Wischdesinfektion???
 
----
-
 
 ### 31. Guedel Tubus - Seite 46:
 - ##### *Wozu dient das Gerät?*
@@ -410,8 +375,6 @@
 - ##### *Was hat nach Gebrauch zu erfolgen?*
 
   entsorgen
-
----
 
 
 ### 31. Larynxtubus - Seite 52:
