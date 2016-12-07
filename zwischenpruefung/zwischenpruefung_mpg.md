@@ -4,7 +4,7 @@
 ### 1. Einwegbeatmungsbeutel Laerdal:
   - ##### *Wozu dient das Gerät?*
 
-    Zum Beatmen von Patienten mit Herz-Kreislaufstillstand.
+    Zum Beatmen von Patienten mit Atem-Kreislaufstillstand.
 
   - ##### *Woraus besteht das Gerät?*
 
@@ -168,7 +168,7 @@
 ### 13&14. Halbautomatischer Defibrilator & LP 1000:
   - ##### *Wozu dient das Gerät?*
 
-    Zur Defibrilation bei Patienten mit Herz-Kreislaufstillstand.
+    Zur Defibrilation bei Patienten mit Atem-Kreislaufstillstand.
 
   - ##### *Woraus besteht das Gerät?*
 
@@ -244,7 +244,7 @@
 
   - ##### *Welche Zusatzmaterialen benötigt man?*
 
-    Mullbinden; evt. Scheere 
+    Mullbinden; evt. Scheere
 
   - ##### *Welche Überprüfungen muss ich bei der Wagenübernahme durchführen?*
 
@@ -356,7 +356,7 @@
 
  - ##### *Was hat nach Gebrauch zu erfolgen?*
 
-   Wischdesinfektion???
+   Wischdesinfektion???, Stechhilfen fachgerecht entsorgen
 
 
 ### 31. Guedel Tubus - Seite 46:
