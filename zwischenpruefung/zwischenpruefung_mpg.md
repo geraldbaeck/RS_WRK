@@ -36,6 +36,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Wischdesinfektion???
+
 ---
 
 
@@ -55,6 +56,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Wischdesinfektion
+
 ---
 
 
@@ -74,6 +76,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Wischdesinfektion
+
 ---
 
 
@@ -93,6 +96,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Wischdesinfektion
+
 ---
 
 
@@ -112,6 +116,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Wischdesinfektion
+
 ---
 
 
@@ -131,6 +136,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Wischdesinfektion
+
 ---
 
 
@@ -146,6 +152,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Wischdesinfektion oder Entsorgung
+
 ---
 
 
@@ -165,6 +172,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Wischdesinfektion
+
 ---
 
 
@@ -184,6 +192,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Einrücken, auswerten, unter Umständen neuen Defi ausfassen
+
 ---
 
 
@@ -203,6 +212,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Wischdesinfektion, Absaugbeutel und Katheder entsorgen, Absaugbeutel neu einlegen, Funktion und Dichte prüfen, aufladen
+
 ---
 
 
@@ -222,6 +232,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Wischdesinfektion, Absaugbeutel und Katheder entsorgen, Absaugbeutel neu einlegen, Funktion und Dichte prüfen, aufladen
+
 ---
 
 
@@ -241,6 +252,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Wischdesinfektion, Druckprüfung
+
 ---
 
 
@@ -260,6 +272,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Wischdesinfektion, Oberflächenprüfung
+
 ---
 
 
@@ -275,6 +288,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     entsorgen
+
 ---
 
 
@@ -290,6 +304,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     entsorgen
+
 ---
 
 
@@ -309,6 +324,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Wischdesinfektion
+
 ---
 
 
@@ -320,6 +336,7 @@
   - ##### *Welche Überprüfungen muss ich bei der Wagenübernahme durchführen?*
 
    Existenzprüfung, Oberflächenprüfung, Griffe prüfen
+
 ---
 
 
@@ -333,6 +350,7 @@
  - ##### *Was hat nach Gebrauch zu erfolgen?*
 
    Ausschiedungen entsorgen, Desinfektion (am besten im Spital mit Maschine)
+
 ---
 
 
@@ -352,6 +370,7 @@
  - ##### *Was hat nach Gebrauch zu erfolgen?*
 
    Wischdesinfektion
+
 ---
 
 
@@ -371,6 +390,7 @@
  - ##### *Was hat nach Gebrauch zu erfolgen?*
 
    Wischdesinfektion???
+
 ---
 
 
@@ -390,6 +410,7 @@
 - ##### *Was hat nach Gebrauch zu erfolgen?*
 
   entsorgen
+
 ---
 
 
