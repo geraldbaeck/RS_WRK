@@ -8,11 +8,11 @@
 
   - ##### *Woraus besteht das Gerät?*
 
-    Beutel, Reserve (für Sauerstoff), Ventil, Maske, evt. Peeper ???
+    Beutel, Reservoir (für Sauerstoff), Ventil, Maske, evt. Peep-Ventil, 3 Größen
 
   - ##### *Welche Überprüfungen muss ich bei der Wagenübernahme durchführen?*
 
-    Existenzprüfung, ???
+    Existenzprüfung, Maske Luftpolster
 
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
@@ -34,15 +34,15 @@
 
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
-    Wischdesinfektion???
+    Wischdesinfektion
 
   - ##### *Welche Überprüfungen müssen nach der Reinigung durchgeführt werden?*
 
-    Maschette Dichtheitsprüfung???
+    Maschette Dichtheitsprüfung
 
 
 
-### 4. Vakuummatratze mit Mehrkammersystem (Red Vac) - Seite 7 (159kg???):
+### 4. Vakuummatratze mit Mehrkammersystem (Red Vac) - Seite 7 (170kg):
   - ##### *Wozu dient das Gerät?*
 
     Zur Immobilisation des Patienten speziell bei Wirbelsäulen- oder Oberschenkelverletzungen.
@@ -53,14 +53,14 @@
 
   - ##### *Welche Überprüfungen muss ich bei der Wagenübernahme durchführen?*
 
-    Existenzprüfung, Dichtheitspfüfung???, Oberflächenprüfung
+    Existenzprüfung, Dichtheitsprüfung, Oberflächenprüfung
 
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
-    Wischdesinfektion
+    Wischdesinfektion, Dichtheitsprüfung
 
 
-### 5. Vakuummatratze mit Einkammersystem - Seite 7 (159kg???):
+### 5. Vakuummatratze mit Einkammersystem - Seite 7:
   - ##### *Wozu dient das Gerät?*
 
     Zur Immobilisation des Patienten speziell bei Wirbelsäulen- oder Oberschenkelverletzungen.
@@ -71,7 +71,7 @@
 
   - ##### *Welche Überprüfungen muss ich bei der Wagenübernahme durchführen?*
 
-   Existenzprüfung, Dichtheitspfüfung???, Oberflächenprüfung
+   Existenzprüfung, Dichtheitspfüfung, Oberflächenprüfung
 
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
@@ -158,7 +158,7 @@
 
   - ##### *Welche Überprüfungen muss ich bei der Wagenübernahme durchführen?*
 
-   Existenzprüfung, Funktionsprüfung der Scharniere???
+   Existenzprüfung, Funktionsprüfung der Scharniere
 
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
@@ -255,7 +255,7 @@
     Wischdesinfektion, Oberflächenprüfung
 
 
-### 20. Stifneck Set - Seite ???:
+### 20. Stifneck Set:
   - ##### *Wozu dient das Gerät?*
 
     Zur Immobilisation der Halswirbelsäule.
@@ -269,7 +269,7 @@
     entsorgen
 
 
-### 21. Stifneck select - Seite ???:
+### 21. Stifneck select:
   - ##### *Wozu dient das Gerät?*
 
     Zur Immobilisation der Halswirbelsäule.
@@ -294,7 +294,7 @@
 
   - ##### *Welche Überprüfungen muss ich bei der Wagenübernahme durchführen?*
 
-   Existenzprüfung, Dichtheitspfüfung???, Oberflächenprüfung
+   Existenzprüfung, Dichtheitspfüfung, Oberflächenprüfung
 
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
@@ -356,7 +356,7 @@
 
  - ##### *Was hat nach Gebrauch zu erfolgen?*
 
-   Wischdesinfektion???, Stechhilfen fachgerecht entsorgen
+   Wischdesinfektion, Stechhilfen fachgerecht entsorgen
 
 
 ### 31. Guedel Tubus - Seite 46:
