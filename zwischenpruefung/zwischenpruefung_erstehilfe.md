@@ -107,7 +107,16 @@
 
 
 ### 18. Wunden, bei denen auf jeden Fall der Arzt aufgesucht werden muss?
-  ???
+  * wenn keine Tetanusimpfung vorhanden ist
+  * große Wunden
+  * Bisse
+  * Wunden in Gelenksnähe
+  * Wunden mit Fremdkörpern
+  * Augenverletzungen
+  * Stichwunden im Rumpfbereich
+  * Insektenstiche im Mund und Rachenbereich oder bei allergischer Reaktion
+  * Schusswunden
+  * Wunden im Bereich der Geschlechtsorgane
 
 
 ### 19. Beschreiben Sie den Unterschied zwischen einer Verrenkung und einer Verstauchung.
@@ -211,7 +220,12 @@
 
 
 ### 35. Erste Hilfe umfasst:
-  ???
+  * Ruhe bewahren
+  * Gefahren erkennen und absichern
+  * lebensrettende Sofortmaßnahmen
+  * Notruf
+  * Wundversorgung
+  * Basismaßnahmen.
 
 
 ### 36. Welche Erste Hilfe Maßnahmen werden bei Verschlucken durchgeführt?
