@@ -17,6 +17,7 @@
   - ##### *Was hat nach Gebrauch zu erfolgen?*
 
     Entsorgen.
+
 ---
 
 ### 2. Blutdruckmessgerät:
