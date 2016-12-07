@@ -4,4 +4,4 @@ Hier findest Du Unterlagen und Notizen zur Ausbildung zum Rettungssanitäter bei
 
 + [Erste Hilfe Slides](zwischenpruefung/Erste_Hilfe_Grundkurs_Version-Juni-2016.pdf)
 + [Zwischenprüfung MPG](zwischenpruefung/zwischenpruefung_mpg.md)
-+ Zwischenprüfung Erste Hilfe
++ [Zwischenprüfung Erste Hilfe](zwischenpruefung/zwischenpruefung_erstehilfe.md)
