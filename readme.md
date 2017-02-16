@@ -8,4 +8,5 @@ Hier findest Du Unterlagen und Notizen zur Ausbildung zum Rettungssanitäter bei
 + [Zwischenprüfung Erste Hilfe Fragen](zwischenpruefung/zwischenpruefung_erstehilfe.md)
 
 ## RS Kurs
++ [Sanitätshilfe Videos](https://www.youtube.com/user/Sanitaetshilfe/videos)
 + [Slides Anatomie](SAN_Kurs/rs_ausbildung_d_anatomiephysiologie.pdf)
