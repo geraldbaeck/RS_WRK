@@ -18,8 +18,8 @@ Die Fragen stammen aus dem [Fragesystem des ABZ](https://intranet.wrk.at/conflue
 + [Rechtliche Grundlagen](abschlusspruefung/recht.md)
 + [Notfälle bei verschiedenen Krankheitsbildern](abschlusspruefung/notfaelle.md)
 + [Spezielle Notfälle](abschlusspruefung/speziellenotfaelle.md)
-+ [Gerätelehre und Sanitätstechnik]
-+ [Stressverarbeitung nach belstenden Einsätzen]
++ [Gerätelehre und Sanitätstechnik](abschlusspruefung/geraete.md)
++ [Stressverarbeitung nach belastenden Einsätzen]
 
 ### Slides
 + Anatomie - Lucas Gabriel | [github](SAN_Kurs/rs_ausbildung_d_anatomiephysiologie.pdf) | [dropbox](https://www.dropbox.com/s/vrb2yez4bpm7dwx/rs_ausbildung_d_anatomiephysiologie.pdf)
