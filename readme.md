@@ -25,9 +25,10 @@ Die Fragen stammen aus dem [Fragesystem des ABZ](https://intranet.wrk.at/conflue
 + Anatomie - Lucas Gabriel | [github](SAN_Kurs/rs_ausbildung_d_anatomiephysiologie.pdf) | [dropbox](https://www.dropbox.com/s/vrb2yez4bpm7dwx/rs_ausbildung_d_anatomiephysiologie.pdf)
 + Anatomie - Lisbeth Notter | [github](SAN_Kurs/rs_ausbildung_anatomie-lisbethnotter.pdf) | [dropbox](https://www.dropbox.com/s/iu5nw30ynzgercv/RS%20Kurs%20Pr%C3%A4si%20Jan2014%20ANATOMIE.pdf?dl=0)
 
-### Videos
+### Media
 + [Sanitätshilfe Videos](https://www.youtube.com/user/Sanitaetshilfe/videos)
 + [Réanimation LIVE Bondi Rescue](https://www.youtube.com/watch?v=YOkCEuK5lK0)
++ [Auskultation Hörbeispiele](https://www.dropbox.com/home/RS%20Kurs%202017/Auskultation%20RS%20Kurs)
 
 ### Links
 + [Dropbox](https://www.dropbox.com/l/scl/AAANRwGYrxrbJaYWTZiSU-5h3YlcixrPorg)
