@@ -22,7 +22,8 @@ Die Fragen stammen aus dem [Fragesystem des ABZ](https://intranet.wrk.at/conflue
 + [Stressverarbeitung nach belstenden Einsätzen]
 
 ### Slides
-+ [Anatomie - Lucas Gabriel](SAN_Kurs/rs_ausbildung_d_anatomiephysiologie.pdf)
++ Anatomie - Lucas Gabriel | [github](SAN_Kurs/rs_ausbildung_d_anatomiephysiologie.pdf) | [dropbox](https://www.dropbox.com/s/vrb2yez4bpm7dwx/rs_ausbildung_d_anatomiephysiologie.pdf)
++ Anatomie - Lisbeth Notter | [github](SAN_Kurs/rs_ausbildung_anatomie-lisbethnotter.pdf) | [dropbox](https://www.dropbox.com/s/iu5nw30ynzgercv/RS%20Kurs%20Pr%C3%A4si%20Jan2014%20ANATOMIE.pdf?dl=0)
 
 ### Videos
 + [Sanitätshilfe Videos](https://www.youtube.com/user/Sanitaetshilfe/videos)
