@@ -14,7 +14,7 @@ Die Fragen stammen aus dem [Fragesystem des ABZ](https://intranet.wrk.at/conflue
 + [Anatomie](abschlusspruefung/anatomie.md)
 + [Störungen der Lebensfunktionen](abschlusspruefung/stoerungen_der_lebensfunktionen.md)
 + [Der Sanitäter, der Patient](abschlusspruefung/sanitaeter.md)
-+ [Hygiene]
++ [Hygiene](abschlusspruefung/hygiene.md)
 + [Rechtliche Grundlagen]
 + [Notfälle bei verschiedenen Krankheitsbildern]
 + [Spezielle Notfälle]
