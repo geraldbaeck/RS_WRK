@@ -16,7 +16,7 @@ Die Fragen stammen aus dem [Fragesystem des ABZ](https://intranet.wrk.at/conflue
 + [Der Sanitäter, der Patient](abschlusspruefung/sanitaeter.md)
 + [Hygiene](abschlusspruefung/hygiene.md)
 + [Rechtliche Grundlagen](abschlusspruefung/recht.md)
-+ [Notfälle bei verschiedenen Krankheitsbildern]
++ [Notfälle bei verschiedenen Krankheitsbildern](abschlusspruefung/notfaelle.md)
 + [Spezielle Notfälle]
 + [Gerätelehre und Sanitätstechnik]
 + [Stressverarbeitung nach belstenden Einsätzen]
