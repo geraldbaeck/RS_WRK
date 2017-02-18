@@ -17,7 +17,7 @@ Die Fragen stammen aus dem [Fragesystem des ABZ](https://intranet.wrk.at/conflue
 + [Hygiene](abschlusspruefung/hygiene.md)
 + [Rechtliche Grundlagen](abschlusspruefung/recht.md)
 + [Notfälle bei verschiedenen Krankheitsbildern](abschlusspruefung/notfaelle.md)
-+ [Spezielle Notfälle]
++ [Spezielle Notfälle](abschlusspruefung/speziellenotfaelle.md)
 + [Gerätelehre und Sanitätstechnik]
 + [Stressverarbeitung nach belstenden Einsätzen]
 
