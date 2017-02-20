@@ -3,10 +3,50 @@
 
 
 ### Was bedeuten die Buchstaben C und D im Rahmen der Patientenbeurteilung?
+  + ##### *C - Circulation | Kreislauf*
+    + Blutstillung
+    + Pulsbeurteilung (Tastbarkeit, Frequenz, Rythmus)
+    + Hautbeurteilung (Farbe, Rekapillarisationszeit)
+    + evt. Lagerung
+
+  + ##### *D - Disability | Defizit - neurologischer Status*
+    Patientenorientierung prüfen:
+      + zeitlich
+      + zur Person
+      + situativ
+      + örtlich
+
+    Bei Auffälligkeiten Schlaganfallerfassungssystem FAST anweden:
+      + *Face* - lächeln lassen
+      + *Arms* - beide Armenach vorne strecken, Handflächen nach oben zeigen, Augen schließen
+      + *Speech* - Satz nachsprechen (Achtung auf Vorerkrankungen)
+      + *Time* - Seit wann bestehen die Symptome?
+
+    Weitere Anzeichen:
+      + Schwindel
+      + Gangunsicherheit
+      + Verwirrtheit
 
 ### Welche Warnzeichen in der strukturierten Untersuchung hat der Puls?
+  + &lt; 40 - zu langsam / bradykard - Schockgefahr
+  + &gt; 140 - zu schnell / tachykard - Schockgefahr
+  + periphär nicht tastbar
 
 ### Was bedeuten die Buchstaben A und B im Rahmen der Patientenbeurteilung?
+  + ##### *A - Airway | Atemwege*
+    + Atemwege prüfen
+    + ggf Klopfen zw. Schulterblätter, Heimlich-Manöver
+    + ggf. Mundhöhle ausräumen od. Absaugen
+    + ggf. Kopf überstrecken od. [Esmarch Handgriff](https://www.youtube.com/watch?v=XNZed1oBeTA) bei vermuteter Wirbelsäulenverletzung
+
+  + ##### *B - Breathing | Beurteilung der Atmung*
+    + keine normale Atmung, keine Lebenszeichen =>  Wiederbelebung starten
+    + Qualität der Atmung beurteilen:
+      + Atemfrequenz
+      + Atemtiefe
+      + Bewegung des Brustkorbs (symetrisch, beidseitig)
+      + Abnorme Atemgeräusche
+      + Einsatz der Atemhilfsmuskulatur
 
 ### Welche Warnzeichen gibt es im Rahmen der ABC-D-E Schemas?
 
