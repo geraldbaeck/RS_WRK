@@ -49,8 +49,20 @@
       + Einsatz der Atemhilfsmuskulatur
 
 ### Welche Warnzeichen gibt es im Rahmen der ABC-D-E Schemas?
+  + Starke Schmerzen
+  + Atemfrequenz < 10 bzw. > 30 / min
+  + spO&sup2; < 94% unter O&sup2; Gabe
+  + Puls < 40 bzw > 140
+  + Blutdruck systolisch < 90mmHg
+  + Blutzucker < 40 bzw. > 300 mg/dl
+  + Körpertemperatur > 39
 
 ### Was ist beim Umgang mit Kindern als Patienten zu beachten?
+  + Mit Vornamen ansprechen
+  + Alle Handgriffe erklären
+  + Spielzeug mitnehmen (lassen)
+  + Auf Gemeinsamkeiten hinweisen
+  + uU. Angehörige einbeziehen
 
 ### Was ist beim Umgang mit älteren Patienten zu beachten?
 
