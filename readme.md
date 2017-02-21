@@ -28,7 +28,7 @@ Die Fragen stammen aus dem [Fragesystem des ABZ](https://intranet.wrk.at/conflue
 ### Media
 + [Sanitätshilfe Videos](https://www.youtube.com/user/Sanitaetshilfe/videos)
 + [Réanimation LIVE Bondi Rescue](https://www.youtube.com/watch?v=YOkCEuK5lK0)
-+ [Auskultation Hörbeispiele](https://www.dropbox.com/home/RS%20Kurs%202017/Auskultation%20RS%20Kurs)
++ [Auskultation Hörbeispiele](other/auskultation_hoerbeispiele/)
 
 ### Links
 + [Dropbox](https://www.dropbox.com/l/scl/AAANRwGYrxrbJaYWTZiSU-5h3YlcixrPorg)
