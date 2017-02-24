@@ -10,7 +10,7 @@ Hier findest Du Unterlagen und Notizen zur Ausbildung zum Rettungssanitäter bei
 ## SAN Kurs
 
 ### Prüfungshilfen
-Die Fragen stammen aus dem [Fragesystem des ABZ](https://intranet.wrk.at/confluence/display/FWuV/Fragenprogramm+RS-Mappe#FragenprogrammRS-Mappe-Wiekommeichhinein?) und decken das gesamte Spektrum ab, die Prüfungsfragen sind jedoch von anderer Zusammensetzung, werden aber nicht publiziert.
+Die Fragen stammen aus dem [Fragesystem des ABZ](https://intranet.wrk.at/confluence/display/FWuV/Fragenprogramm+RS-Mappe#FragenprogrammRS-Mappe-Wiekommeichhinein?) und decken das gesamte Spektrum ab, die Prüfungsfragen sind jedoch von anderer Zusammensetzung, werden aber nicht publiziert. Ebenfalls vorhanden ist der [Fragenkatalog von 2015](abschlusspruefung/fragenkatalog_abschlusspruefung_RS.pdf).
 + Anatomie | [Fragen](abschlusspruefung/anatomie.md) | [Multiple Coice](abschlusspruefung/anatomie_ms.md)
 + Störungen der Lebensfunktionen | [Fragen](abschlusspruefung/stoerungen_der_lebensfunktionen.md) | [Multiple Choice](abschlusspruefung/stoerungen_der_lebensfunktionen_ms.md)
 + [Der Sanitäter, der Patient](abschlusspruefung/sanitaeter.md)
