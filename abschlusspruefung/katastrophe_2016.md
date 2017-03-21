@@ -18,32 +18,32 @@
 ### PatientenInnen im Großschadensfall - *Weg von der Schadensstelle ins Krankenhaus*
 
 ### Triage - *Welche Bedeutung haben diese Kennzeichnungen?*
-![T](https://intranet.wrk.at/confluence/download/thumbnails/83230772/Triage2.jpg?version=1&modificationDate=1454050595053&api=v2)
-![BT](https://intranet.wrk.at/confluence/download/thumbnails/83230772/Bergetriage.jpg?version=1&modificationDate=1454050595257&api=v2)
+![T](/img/triage.png)
+![BT](/img/bt.png)
 
 ### Behandlung - *Welche Bedeutung haben diese Kennzeichnungen?*
-![Behandlung](https://intranet.wrk.at/confluence/download/thumbnails/83230772/Behandlung.jpg?version=1&modificationDate=1454050595273&api=v2)
-![I](https://intranet.wrk.at/confluence/download/thumbnails/83230772/T1.jpg?version=1&modificationDate=1454050595150&api=v2)
-![II](https://intranet.wrk.at/confluence/download/thumbnails/83230772/T2.jpg?version=1&modificationDate=1454050595117&api=v2)
-![III](https://intranet.wrk.at/confluence/download/thumbnails/83230772/T3.jpg?version=1&modificationDate=1454050595107&api=v2)
-![IV](https://intranet.wrk.at/confluence/download/thumbnails/83230772/T4.jpg?version=1&modificationDate=1454050595093&api=v2)
+![Behandlung](/img/behandlung.png)
+![I](/img/i.png)
+![II](/img/ii.png)
+![III](/img/iii.png)
+![IV](/img/iv.png)
 
 ### Transport - *Welche Bedeutung haben diese Kennzeichnungen?*
-![Rettungsauto]
-![Transport]
-![Trage mit Rettungsauto](https://intranet.wrk.at/confluence/download/thumbnails/83230772/verladestelle.jpg?version=1&modificationDate=1454050594873&api=v2)
-![Hubschrauber]
+![Rettungsauto](/img/rettungsauto.png)
+![Transport](/img/transport.png)
+![Trage mit Rettungsauto](/img/verladestelle.png)
+![Hubschrauber](/img/hubsi.png)
 
 ### PLS (Patientenleitsystem) - *Definition und Zweck*
 
 ### Sonstige Kennzeichnungen - *Welche Bedeutung haben diese Kennzeichnungen?*
-![Betreuung]
-![EL]
-![Notarzt](https://intranet.wrk.at/confluence/download/thumbnails/83230772/Notarzt.jpg?version=1&modificationDate=1454050595197&api=v2)
-![i](https://intranet.wrk.at/confluence/download/thumbnails/83230772/info.jpg?version=1&modificationDate=1454050595213&api=v2)
-![U](https://intranet.wrk.at/confluence/download/thumbnails/83230772/Unverletzt.jpg?version=1&modificationDate=1454050595037&api=v2)
-![t](https://intranet.wrk.at/confluence/download/thumbnails/83230772/tot.jpg?version=1&modificationDate=1454050595077&api=v2)
-![M](https://intranet.wrk.at/confluence/download/thumbnails/83230772/M.jpg?version=1&modificationDate=1454066594050&api=v2)
+![Betreuung](/img/betreuung.png)
+![EL](/img/el.png)
+![Notarzt](/img/notarzt.png)
+![i](/img/inf.png)
+![U](/img/u.png)
+![t](/img/t.png)
+![M](/img/m.png)
 
 ### Verhalten am Unfallort - *Gefahren, Vorbeugungsmaßnahmen*
 
