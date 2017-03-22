@@ -27,11 +27,11 @@ Jeder 3. Schlaganfall kündigt sich durch flüchtige Durchblutungsstörungen an 
 Folge von spontaner Zerreißung von Hirngefäßen und Einblutung ins Gewebe. Führt zu Erhöhung des Hirndrucks und Behinderung des venösen Abflusses.
 
 #### Intrazerebrale Blutung
-Blutung im Gehirn, häufig Folge von Bluthochdruck
+Blutung im Gehirn, häufig Folge von Bluthochdruck  
 Symptome: wie ischämischer Insult
 
 #### Subarachnoidalblutung
-Blutung unter Hirnhaut, Grund: geplatztes Aneurysma
+Blutung unter Hirnhaut, Grund: geplatztes Aneurysma  
 Symptome:
 + plötzlich, starker Kopfschmerz
 + Übelkeit, Erbrechen
@@ -60,7 +60,7 @@ Eine Unterscheidung zwischen Ischämischen und Häorragischen Insult kann nur du
 
 ### Anamnese
 + Immer abklären: Neue oder alte Symptomatik
-+ Ereigiszeitpunkt, möglichste genau, wichtig für Lyse < 4.5h
++ Ereigniszeitpunkt, möglichste genau, wichtig für Lyse < 4.5h
 + Vorerkrankungen: Zucker, Bluthochdruck, Vorhofflimmern, Herzklappenerkrankungen
 + Medikament, va Blutverdünner zb Marcumar
 
@@ -76,6 +76,44 @@ Eine Unterscheidung zwischen Ischämischen und Häorragischen Insult kann nur du
 
 
 ## Meningitis und Enzephalitis - *Ursachen, Symptome, Komplikationen, Maßnahmen*
+
+**Meningitis**: durch Krankheitserreger ausgelöste Entzündung der Hirnhäute bzw. des Gehirns.  
+
+**Enzephalitis**: Entzündung des Gehirns
+
+**Ursachen**
++ Bakterien (zb Streptokokken, Meningokokken, Pneumokokken, Tuberkulose)
++ Viren (Herpesviren, FSME)
++ Parasiten (Ratten-Lungenwurm, Fadenwürmer)
++ Nichtinfektiöse Formen (Krebszellen)
+
+**Symptome**
++ Fieber, Kopfweh, Nackensteife (sog. Meningismus)
++ Übel, Erbrechen
++ Bewusstseinsstörungen
++ Krampfanfälle
++ (Lichtscheu und Geräuschempfindlichkeit)
++ (Die klassische Symptom-Trias einer Meningitis besteht aus Nackensteifigkeit, hohem Fieber und Bewusstseinsminderung)
++ („jolt accentuation maneuver“: Wenn die Patienten den Kopf horizontal schnell hin- und herschütteln (wie beim „Neinsagen“) und dies den Kopfschmerz nicht verschlimmert, ist eine Meningitis unwahrscheinlich)
+
+**Komplikationen**
++ Ansteigen des Hirndrucks
++ Bewusstlosigkeit
+
+**Maßnahmen**
++ erhöhter Oberkörper
++ Absaugbereitschaft
++ Allg. Maßnahmen
+
+**Ansteckungsgefahr => Hygienemaßnahmen!**
++ Handschuhe!!111elf
++ Mundschutz für Patient und RS
++ Spital vorinformieren (evt anderer Eingang)
+
+**Differentialdiagnosen**
++ Subarachnoidalblutung (plötzlicher Vernichtungskopfschmerz, Meningismus, aber kein Fieber)
++ Sonnenstich (erfragen, roter Kopf)
++ lokale Muskelverspannung (kein Fieber, verwechslung Möglich)
 
 ## Krampfanfälle - *Ursachen, Symptome, Komplikationen, Maßnahmen*
 
