@@ -115,9 +115,140 @@ Eine Unterscheidung zwischen Ischämischen und Häorragischen Insult kann nur du
 + Sonnenstich (erfragen, roter Kopf)
 + lokale Muskelverspannung (kein Fieber, verwechslung Möglich)
 
-## Krampfanfälle - *Ursachen, Symptome, Komplikationen, Maßnahmen*
+## Krampfanfälle
+
+### Definition
+
+Zerebraler Krampfanfall beruht auf einer anfallsartigen Störung des Gehirns durch plötzliche **exzessive synchrone elektrische Entladung vieler Nervenzellen** des zentralen Nervensystems.
+
+Die chronische Neigung zu zerebralen Krampfanfällen nennt man **Epilepsie** (mind 2 Anfälle innerhalb 24h).
+
+Man unterscheidet zwischen zwei Anfallsformen:
+
+### Fokaler Krampfanfall:
+Betrifft bestimmten Teil des Körpers, Patient wach und ansprechbar. zb Jackson-Anfall (z.B. an einer Hand beginnen und sich auf den Arm ausbreiten)
+
+### Generalisierter Krampfanfall:
+Gesamter Körper krampft, Patient nicht ansprechbar. Auch hier gibt es wieder verschiedene Formen:
+
+#### Grand-mal-Anfall (Großer tonisch-klonischer Anfall)
++ *Tonische Phase* (10-30s):
+  + Muskulatur angespannt => Überstreckung der Gliedmaßen
+  + Atmung setzt aus
+  + Patient wird zyanotisch (meist nur einige Sekunden)
++ *Klonische Phase*:
+  + Zuckungen der Gesichtsmuskulatur = > Ausbreitung auf ganzen Körper
+  + evt. Schaum vor dem Mund
+  + evt Zungenbiss
+  + evt Stuhl- und Harnentleerung
++ *Nach dem Anfall*:
+  + Erschlaffen der Muskulatur
+  + postiktaler Dämmerzustand
+  + Amnäsie für die Dauer des Anfalls
+  + evt Todd-Parese (Lähmung der Beteiligten Muskeln)
+  + evt Forellenphänomen (punktförmige Einblutung in den Augenliedern)
+
+#### Petit-mal-Anfall
+Leichtere Anfallsform mit spezifischer Symptomatik. i.d.R. keine Akkuttherapie nötig
+
+## Ursachen
+
+Ursachen haben eine breites Spekrum:
++ *genetisch* = angeboren
++ *erworben*: zb hypoxischer Hirnschaden bei Geburt, Hirnblutung, Hirnverletzung, Tumor, Durchblutungsstörung
++ *genuin* = keine (bisher) fassbare Ursache
++ *strukturell/metabolisch*: Folge von Erkrankungen, deren Therapie weitere Anfälle verhindert (zb durch hohes Fieber/Fieberkrämpfe) oder Eklampsie (während Schwangerschaft)
+
+Auslöser:
++ Alkohol- oder Medikamentenmissbrauch
++ akustische u. visuelle Reize zb Stroboskop
++ Stress
+
+### Symptome
++ evt Ankündigung durch Prodomalsymptome (Aura): komische Gefühl, Magenbeschwerden, Übelkeit, Angst, abnorme Wahrnehmungen
++ Muskelstarre (tonisch)
++ Muskelzuckungen (klonisch)
++ Atemstillstand und Zyanose
++ Stuhl- & Harnentleerung, blutiger Schaum vorm Mund
++ Nach Anfall: Bewusstseinsstörung, evtl. Unruhe, Erinnerungslücke während Anfall
+
+### Komplikationen
++ Aspiration
++ Verletzungen durch Sturz
++ Verletzungen durch extreme Muskelkräfte (zb Schulterluxation)
+
+### Maßnahmen
+Während dem Anfall:
++ Anfall abklingen lassen
++ Verletzungsschutz
++ Kontrolle der Lebensfunktionen und lebensrettende Maßnahmen
+
+Nach dem Anfall:
++ Auf Verletzungen achten und entsprechend versorgen
++ Bei Bewussstein Seitenlage, leicht erhöhter Oberkörper 30°
++ allgemeine Maßnahmen
+
+#### Status epilepticus
++ Grand mal Anfall länger als 5 Minuten
++ oder Serie von Anfällen oder ein Anfall in Form von Absencen oder ein fokaler Anfall länger als 20 Minuten
++ potenziell lebensbedrohlich => NOTARZT
+
+### Anamnese
++ Ist Patient als Anfallspatient bekannt?
++ Wie häufig hat er Anfälle, sind Ursachen bekannt?
++ Patient deshalb in Behandlung und womit wird er behandelt?
++ Hat Patient vorgeschriebene Medikamente genommen?
++ Besondere Umstände die dem Anfall vorgegangen sind? (Alkohol, Streit, Fieber, Sonnenbestrahlung, Unfall-SHT….)
++ Wie ist Anfall verlaufen? (Bewusstsein, Atmung, Kopfhaltung, Art und Lokalisation der Krämpfe, Anzahl, Zungenbiss….)
++ Wie war Zustand des Patienten danach?
+
+### Differentialdiagnosen
+#### Tetanie
+Tetanische Krämpfe sind durch Übererregbarkeit des Nervensystem auftretende anfallsartige Muskelkrämpfe, die meist durch Störung des Elektrolythaushaltes (=Kalziummangel) oder zentralen Störungen bzw. Schädigungen auftreten können.
+
+#### Hyperventilationssyndrom
+Können psychisch ausgelöst werden (Erhöhung der Atemfrequenz und AZV über physiologische Bedürfnisse hinaus. Durch vermehrtes Abatmen von CO2 entsteht in Folge ein Kalziummangel, der zu Kontraktion der Muskeln führt. Bevor Maßnahmen ergriffen werden muss ausgeschlossen sein, dass andere Gründe verantwortlich sind wie SHT, hohes Fieber, O2-Mangel aufgrund von Verletzungen….
+
+##### Symptome:
++ beschleunigte vertiefte Atmung
++ Kribbeln in Armen, Beinen, Gesicht
++ Symmetrische Pfötchenstellung
++ Grimassieren (Karpfenmund)
+
+##### Maßnahmen:
++ Patienten beruhigen
++ Lagerung mit leicht erhöhtem Oberkörper, beengende Kleidung öffnen
++ keine O2-Abgabe
++ Patienten zu Rückatmung anleiten => O2 Maske ohne Sauerstoffgabe aufsetzen.
+
+#### Synkope
++ beginnt mit Schwarz werden vor den Augen
++ eher blasse Haut
++ RR erniedrigt
++ kurze Dauer < 60s
++ schnell wieder "voll da"
++ zB durch langes Stehen oder durch Ekel (zb Blut) verursacht
+
+#### Psychogener Anfall
++ tritt in emotional sehr belastenden Situationen auf
++ oft Dämmerzustand
++ starke Verbiegungen des Körpers mit Zuckungen
++ Wälzbewegungen oder Totstellreflex
++ Haut rosig
++ kein Sturz, kein Urinabgang, kein Zungenbiss, keine Amnesie
++ präklinisch nicht einfach zu diagnostizieren
+
 
 ## Asthma - *Ursachen, Symptome, Komplikationen, Maßnahmen*
+
+### Definition
+### Ursachen
+### Symptome
+### Komplikationen
+### Maßnahmen
+### Anamnese
+### Differentialdiagnosen
+### Zu beachten
 
 ## COPD - *Ursachen, Symptome, Komplikationen, Maßnahmen*
 
@@ -151,6 +282,6 @@ Eine Unterscheidung zwischen Ischämischen und Häorragischen Insult kann nur du
 
 ## Psychiatrische Notfälle - *Ursachen, Symptome, Komplikationen, Maßnahmen*
 
-## Normale Geburt Phasen und Ablauf
+## Normale Geburt - *Phasen und Ablauf*
 
 ## Akutes Abdomen - *Ursachen, Symptome, Komplikationen, Maßnahmen*
