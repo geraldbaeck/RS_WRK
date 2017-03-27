@@ -269,53 +269,246 @@ Krampf der kleinen Bronchien (Bronchospasmus) mit Schwellung der Bronchialschlei
 + Patient gemeinsam zu atmen anleiten (Lippenbremse)
 + SpO2 < 92% lebensbedrohlich
 
+
+## COPD
+
+### Definition
+Chronic Obstructive Pulmonary Disease ist eine chronische Lungenerkrankung, mit einer **fortschreitenden Atemwegsobstruktion**.
+
+### Ursachen
+COPD entwickelt sich durch das jahrelange Einatmen schädlicher Stoffe und fasst zwei Krankheitsbilder zusammen:
+
+#### Chronische Bronchitis
+Lang andauernde Entzündung der Bronchialschleimhaut
+
+#### Lungenemphysem
+Irreversible "Überblähung" der Lunge in den Endaufzweigungen des Bronchialsystems
+
+### Symptome
++ Husten am Morgen
++ Auswurf von zähem, glasigem Schleim
++ Ateminssuffizienz, Atemnot
++ verlängerte Ausatmung
++ Rechtsherzinsuffizienz = massiv gestaute Halsvenen, Beinödeme
++ evt Zyanose
++ evt Pfeiffen beim Ausatmen
++ SpO2 niedrig
+
+### Komplikationen
++ Ateminssuffizienz
+
+### Maßnahmen
++ keine körperliche Anstrengung
++ maximal erhöhter Oberkörper, mit Armen abstützen
++ Kleidung öffnen
++ Patient zu ruhiger Atmung anleiten
+
+### Anamnese
+Krankheitsgeschichte besonders wichtig um Asthma asuzuschließen
+
+### Differentialdiagnosen
+Asthma und COPD sind ähnliche Krankheits bilder, allerdings entwickelt sich COPD erst im höheren Alter, Asthma beginnt meist in der Kindheit. Im Notfall ist eine Unterscheidung nur durch die Krankengeschichte möglich.
+
+
+## Lungenödem - *Ursachen, Symptome, Komplikationen, Maßnahmen*
+
+### Definition
+### Ursachen
+### Symptome
+### Komplikationen
+### Maßnahmen
 ### Anamnese
 ### Differentialdiagnosen
 ### Zu beachten
 
 
-
-Symptome:
-
-
-Komplikationen:
-
-
-Maßnahmen:
-
-
-## COPD - *Ursachen, Symptome, Komplikationen, Maßnahmen*
-
-## Lungenödem - *Ursachen, Symptome, Komplikationen, Maßnahmen*
-
 ## Lungenembolie - *Ursachen, Symptome, Komplikationen, Maßnahmen*
+
+### Definition
+### Ursachen
+### Symptome
+### Komplikationen
+### Maßnahmen
+### Anamnese
+### Differentialdiagnosen
+### Zu beachten
+
 
 ## Lungenentzündung - *Ursachen, Symptome, Komplikationen, Maßnahmen*
 
+### Definition
+### Ursachen
+### Symptome
+### Komplikationen
+### Maßnahmen
+### Anamnese
+### Differentialdiagnosen
+### Zu beachten
+
+
 ## Hyperventilationssyndrom - *Ursachen, Symptome, Komplikationen, Maßnahmen*
+
+### Definition
+### Ursachen
+### Symptome
+### Komplikationen
+### Maßnahmen
+### Anamnese
+### Differentialdiagnosen
+### Zu beachten
+
 
 ## Herzversagen - *Ursachen, Symptome, Komplikationen, Maßnahmen*
 
+### Definition
+### Ursachen
+### Symptome
+### Komplikationen
+### Maßnahmen
+### Anamnese
+### Differentialdiagnosen
+### Zu beachten
+
+
 ## Akuter Brustschmerz und Herzinfakt - *Ursachen, Symptome, Komplikationen, Maßnahmen*
+
+### Definition
+### Ursachen
+### Symptome
+### Komplikationen
+### Maßnahmen
+### Anamnese
+### Differentialdiagnosen
+### Zu beachten
+
 
 ## Gefäßerkrankungen - *Ursachen, Symptome, Komplikationen, Maßnahmen*
 
+### Definition
+### Ursachen
+### Symptome
+### Komplikationen
+### Maßnahmen
+### Anamnese
+### Differentialdiagnosen
+### Zu beachten
+
+
 ## Hyperglykämie - *Ursachen, Symptome, Komplikationen, Maßnahmen*
+
+### Definition
+### Ursachen
+### Symptome
+### Komplikationen
+### Maßnahmen
+### Anamnese
+### Differentialdiagnosen
+### Zu beachten
+
 
 ## Hypoglykämie - *Ursachen, Symptome, Komplikationen, Maßnahmen*
 
+### Definition
+### Ursachen
+### Symptome
+### Komplikationen
+### Maßnahmen
+### Anamnese
+### Differentialdiagnosen
+### Zu beachten
+
+
 ## Hochdruckkrise - *Ursachen, Symptome, Komplikationen, Maßnahmen*
+
+### Definition
+### Ursachen
+### Symptome
+### Komplikationen
+### Maßnahmen
+### Anamnese
+### Differentialdiagnosen
+### Zu beachten
+
 
 ## Schädel-Hirntrauma - *Ursachen, Symptome, Komplikationen, Maßnahmen*
 
+### Definition
+### Ursachen
+### Symptome
+### Komplikationen
+### Maßnahmen
+### Anamnese
+### Differentialdiagnosen
+### Zu beachten
+
+
 ## Brustkorbverletzung - *Ursachen, Symptome, Komplikationen, Maßnahmen*
+
+### Definition
+### Ursachen
+### Symptome
+### Komplikationen
+### Maßnahmen
+### Anamnese
+### Differentialdiagnosen
+### Zu beachten
+
 
 ## Bauchverletzung - *Ursachen, Symptome, Komplikationen, Maßnahmen*
 
+### Definition
+### Ursachen
+### Symptome
+### Komplikationen
+### Maßnahmen
+### Anamnese
+### Differentialdiagnosen
+### Zu beachten
+
+
 ## Vergiftung - *Ursachen, Symptome, Komplikationen, Maßnahmen*
+
+### Definition
+### Ursachen
+### Symptome
+### Komplikationen
+### Maßnahmen
+### Anamnese
+### Differentialdiagnosen
+### Zu beachten
+
 
 ## Psychiatrische Notfälle - *Ursachen, Symptome, Komplikationen, Maßnahmen*
 
+### Definition
+### Ursachen
+### Symptome
+### Komplikationen
+### Maßnahmen
+### Anamnese
+### Differentialdiagnosen
+### Zu beachten
+
+
 ## Normale Geburt - *Phasen und Ablauf*
 
+### Definition
+### Ursachen
+### Symptome
+### Komplikationen
+### Maßnahmen
+### Anamnese
+### Differentialdiagnosen
+### Zu beachten
+
+
 ## Akutes Abdomen - *Ursachen, Symptome, Komplikationen, Maßnahmen*
+
+### Definition
+### Ursachen
+### Symptome
+### Komplikationen
+### Maßnahmen
+### Anamnese
+### Differentialdiagnosen
+### Zu beachten
