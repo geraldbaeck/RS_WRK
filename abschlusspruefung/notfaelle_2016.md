@@ -310,16 +310,36 @@ Krankheitsgeschichte besonders wichtig um Asthma asuzuschließen
 Asthma und COPD sind ähnliche Krankheits bilder, allerdings entwickelt sich COPD erst im höheren Alter, Asthma beginnt meist in der Kindheit. Im Notfall ist eine Unterscheidung nur durch die Krankengeschichte möglich.
 
 
-## Lungenödem - *Ursachen, Symptome, Komplikationen, Maßnahmen*
+## Lungenödem
 
 ### Definition
+Übertritt von Flüssigkeit aus den Lungenkapillaren in die Alveolen. Mischung mit Atemluft bildet sich bläschenreicher Schaum der den Gasaustausch behindert und zu Atemnot führt.
+
 ### Ursachen
+#### Kardiales Lungenödem (am häufigsten)
+Linksherzinssufizienz mit Druckanstieg im Lungenkreislauf. Durch die Lungenstauung kommt es zum Übertritt von Flüssigkeit in den Zwischenzellraum und den Alleveollarraum.
+#### Toxisch allergisches Lungenödem
+Durch toxische Stoffe (zb Reizgas, Rauchgas, auch bei Niereninsuffizienz) kommt es zu einer höheren Durchlässigkeit der Lungenkapillarmembranen und damit zum Übertritt von Flüssigkeit.
+
+Andere Ursachen können der Aufenthalt in großer Höhe oder akute Überwässerung zb  durch eine Dialyse sein.
+
 ### Symptome
++ Akute Atemnot
++ Rasselnde, brodelnde Atemgeräusche
++ Unruhe, Angst
++ Zyanose
++ (Kaltschweißigkeit)
++ (Puls erhöht evt arrhythmisch)
+
 ### Komplikationen
++ Atem-Kreislauf-Stillstand
+
 ### Maßnahmen
-### Anamnese
-### Differentialdiagnosen
-### Zu beachten
++ Keine körp. Anstrengung
++ erhöhter Oberkörper und tiefe Beine
++ Kleidung öffnen
++ zu ruhigem Atem anleiten
++ Maximale O2-Gabe
 
 
 ## Lungenembolie - *Ursachen, Symptome, Komplikationen, Maßnahmen*
