@@ -115,6 +115,7 @@ Eine Unterscheidung zwischen Ischämischen und Häorragischen Insult kann nur du
 + Sonnenstich (erfragen, roter Kopf)
 + lokale Muskelverspannung (kein Fieber, verwechslung Möglich)
 
+
 ## Krampfanfälle
 
 ### Definition
@@ -406,16 +407,36 @@ Erreger primärer Lungenentzündungen sind meistens Pneumokokken, Staphylokokken
 + allg. Maßnahmen
 
 
-## Hyperventilationssyndrom - *Ursachen, Symptome, Komplikationen, Maßnahmen*
+## Hyperventilationssyndrom
 
 ### Definition
+Unter (alveolärer) Hyperventilation versteht man die **verstärkte Abatmung von CO&#8322;**, die auf einem **verstärktem Atemantrieb (Hyperpnoe)** beruht.Durch vermehrtes Abatmen von CO&#8322; entsteht in Folge ein Kalziummangel, der zu Kontraktion der Muskeln führt. Bevor Maßnahmen ergriffen werden, muss ausgeschlossen sein, dass andere Gründe verantwortlich sind, wie SHT, hohes Fieber, O&#8322;-Mangel aufgrund von Verletzungen….
+
 ### Ursachen
-### Symptome
++ Psychogenes Hyperventilationssyndrom: durch eine emotionale Stresssituation wie Angst, Aufregeung, Extase od Schmerz
+
+### Symptome:
++ schnelle Atmung, vom Patienten real empfundene Atemnot
++ Kribbeln in Armen, Beinen (perphär Aufsteigend), Gesicht und Lippen
++ Symmetrische Pfötchenstellung
++ Grimassieren (Karpfenmund)
+
 ### Komplikationen
-### Maßnahmen
++ Synkopen
+
+### Maßnahmen:
++ Patienten beruhigen
++ Lagerung mit leicht erhöhtem Oberkörper, beengende Kleidung öffnen
++ keine O&#8322;-Abgabe
++ Zu **Rückatmung** anleiten => O&#8322; Maske ohne Sauerstoffgabe aufsetzen.
+
 ### Anamnese
++ Befragung der Awnwesenden nach dem Hergang
+
 ### Differentialdiagnosen
-### Zu beachten
+Eine Verwechslung mit der Tachypnoe bei der Lungenembolie ist leicht möglich! Ein mögliche Unterscheid ist der niedrige S<sub>p</sub>O&#8322; Wert bei der Lungenembolie.
+
+Bevor Maßnahmen ergriffen werden, muss ausgeschlossen sein, dass andere Gründe verantwortlich sind, wie SHT, hohes Fieber, O&#8322;-Mangel aufgrund von Verletzungen…. Wichtig ist hier die Befragung der Anwesenden nach dem Hergang.
 
 
 ## Herzversagen - *Ursachen, Symptome, Komplikationen, Maßnahmen*
