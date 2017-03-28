@@ -207,7 +207,7 @@ Nach dem Anfall:
 Tetanische Krämpfe sind durch Übererregbarkeit des Nervensystem auftretende anfallsartige Muskelkrämpfe, die meist durch Störung des Elektrolythaushaltes (=Kalziummangel) oder zentralen Störungen bzw. Schädigungen auftreten können.
 
 #### Hyperventilationssyndrom
-Können psychisch ausgelöst werden (Erhöhung der Atemfrequenz und AZV über physiologische Bedürfnisse hinaus. Durch vermehrtes Abatmen von CO2 entsteht in Folge ein Kalziummangel, der zu Kontraktion der Muskeln führt. Bevor Maßnahmen ergriffen werden muss ausgeschlossen sein, dass andere Gründe verantwortlich sind wie SHT, hohes Fieber, O2-Mangel aufgrund von Verletzungen….
+Können psychisch ausgelöst werden (Erhöhung der Atemfrequenz und AZV über physiologische Bedürfnisse hinaus. Durch vermehrtes Abatmen von CO&#8322; entsteht in Folge ein Kalziummangel, der zu Kontraktion der Muskeln führt. Bevor Maßnahmen ergriffen werden muss ausgeschlossen sein, dass andere Gründe verantwortlich sind wie SHT, hohes Fieber, O&#8322;-Mangel aufgrund von Verletzungen….
 
 ##### Symptome:
 + beschleunigte vertiefte Atmung
@@ -218,8 +218,8 @@ Können psychisch ausgelöst werden (Erhöhung der Atemfrequenz und AZV über ph
 ##### Maßnahmen:
 + Patienten beruhigen
 + Lagerung mit leicht erhöhtem Oberkörper, beengende Kleidung öffnen
-+ keine O2-Abgabe
-+ Patienten zu Rückatmung anleiten => O2 Maske ohne Sauerstoffgabe aufsetzen.
++ keine O&#8322;-Abgabe
++ Patienten zu Rückatmung anleiten => O&#8322; Maske ohne Sauerstoffgabe aufsetzen.
 
 #### Synkope
 + beginnt mit Schwarz werden vor den Augen
@@ -267,7 +267,7 @@ Krampf der kleinen Bronchien (Bronchospasmus) mit Schwellung der Bronchialschlei
 + beengende Kleidungsstücke öffnen
 + beruhigen
 + Patient gemeinsam zu atmen anleiten (Lippenbremse)
-+ SpO2 < 92% lebensbedrohlich
++ S<sub>p</sub>O&#8322; < 92% lebensbedrohlich
 
 
 ## COPD
@@ -292,7 +292,7 @@ Irreversible "Überblähung" der Lunge in den Endaufzweigungen des Bronchialsyst
 + Rechtsherzinsuffizienz = massiv gestaute Halsvenen, Beinödeme
 + evt Zyanose
 + evt Pfeiffen beim Ausatmen
-+ SpO2 niedrig
++ S<sub>p</sub>O&#8322; niedrig
 
 ### Komplikationen
 + Ateminssuffizienz
@@ -339,31 +339,71 @@ Andere Ursachen können der Aufenthalt in großer Höhe oder akute Überwässeru
 + erhöhter Oberkörper und tiefe Beine
 + Kleidung öffnen
 + zu ruhigem Atem anleiten
-+ Maximale O2-Gabe
++ Maximale O&#8322;-Gabe
 
 
 ## Lungenembolie - *Ursachen, Symptome, Komplikationen, Maßnahmen*
 
 ### Definition
+Einschwemmen von Blutgerinnseln (Thromben) aus tiefen Bein- bzw. Beckenvenen in Lunge führt Verschluss von Lungenarterien und damit zum Lungeninfarkt.
+
+Besonders gefährdet: ältere Personen, Bettlägrige, nach Langstreckenflügen, übergewichtige Raucherinnen, die die Pille nehmen
+
 ### Ursachen
++ Verschleppung von Thromben aus Bein-/Beckenvenen
++ Fettembilien (selten): frei gesetzte Gewebsfette (zb dr Knochenbrüche mit Knochenmarksbeteiligung, nach großen chir Eingriffen)
++ Fruchtwasserembolie: fruchtwasser gelangt in den venösen Kreislauf und führt zur Thrombenbildung
++ Luftembolie: nach eindringen von Luft in den venösen Kreislauf (zb Suizid)
+
 ### Symptome
++ Atemnot
++ atemabhängige Brustschmerzen
++ Bluthusten
++ Blutdruckabfall
++ evt initaler Kollaps, Synkopen (15%)
+
 ### Komplikationen
++ Atem-Kreislauf-Stillstand
+
 ### Maßnahmen
-### Anamnese
++ Keine körp. Anstrengung
++ erhöhter Oberkörper und tiefe Beine
++ Kleidung öffnen
++ zu ruhigem Atem anleiten
++ Maximale O&#8322;-Gabe
+
 ### Differentialdiagnosen
-### Zu beachten
+Wegen der sehr unspezifischen Symptomatik wird nur jede 3.-5. Lungenembolie erkannt. Bei ausgerägter Zyanose trotz 100% O&#8322; Gabe muss immer ein Verdacht auf Lungenembolie entstehen.
 
 
-## Lungenentzündung - *Ursachen, Symptome, Komplikationen, Maßnahmen*
+## Lungenentzündung
 
 ### Definition
+(Pneumonie) = Entzündung des Lungengewebes
+
 ### Ursachen
+Man unterscheidet primäre und sekundäre Pneumonie: Erkrankt ein gesunder Mensch an einer Lungenentzündung, ohne dass er besondere Risikofaktoren aufweist, spricht man von einer primären Pneumonie. Im Gegensatz dazu findet sich bei der sekundären Pneumonie ein prädisponierender Faktor oder ein auslösendes Ereignis für die Krankheit (siehe Risikogruppen).
+
+Erreger primärer Lungenentzündungen sind meistens Pneumokokken, Staphylokokken, Haemophilus influenzae, Mykoplasmen, Chlamydien, Legionellen (Legionella pneumophila) und Viren wie das Grippevirus, Adenovirus und Parainfluenzaviren. Das Erregerspektrum verschiebt sich bei sekundären Pneumonien zu Herpesviren (CMV, HSV), Pilzen, Pneumocystis jirovecii, Protozoen (Toxoplasmose) sowie anaeroben Bakterien.
+
 ### Symptome
++ Hohes Fieber, Schüttelfrost
++ Husten
++ Atemnot
++ Brustschmerz
++ Schweißausbruch
++ Bewusstseinstrübung
++ Schwere Störung des Allgemeinbefindens
+
 ### Komplikationen
++ eingeschränkte Atmung (respiratorische Insuffizienz)
++ Blutvergiftung (Sepsis)
++ Pleuraerguss (Flüssigkeit zw. Lunge & Rippen)
+
 ### Maßnahmen
-### Anamnese
-### Differentialdiagnosen
-### Zu beachten
++ erhöhter Oberkörper
++ SpO2-Gabe 10-15 Liter
++ allg. Maßnahmen
 
 
 ## Hyperventilationssyndrom - *Ursachen, Symptome, Komplikationen, Maßnahmen*
