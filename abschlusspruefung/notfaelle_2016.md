@@ -545,16 +545,42 @@ Symptome treten nicht immer gleich oder gemeinsam auf. Außerdem gibt es sog. st
 + Medikamente (Blutverdünner!!!)
 
 
-## Hochdruckkrise (hypertensive Krise)
+## Hochdruckkrise (Hypertensive Krise)
 
 ### Definition
-### Ursachen
+Starker Anstieg des Blutdrucks (>200mm Hg systholisch)
+
+## Verlauf
++ Hypertonie kann zu bedrohlichem Anstieg des Blutdrucks (>200mm Hg) führen
++ => höherer Widerstand im Gefäßsystem
++ => Mehrarbeit des Herzens mit erhöhtem Sauerstoffverbrauch
+Wenn Herzkranzgefäße Bedarf nicht decken können, kann es zu Angina-Pectoris-Anfall kommen. Kann auch zu Schlaganfall aufgrund einer Gefäßzerreißung kommen. Durch Überbelastung kann akutes Linksherzversage mit Lungenödem ausgelöst werden.
+
 ### Symptome
++ Schwindel, Sehstörungen
++ Kopfschmerzen
++ Gesichtsrötung
++ Angst
++ Verwirrtheit
++ Übelkeit, Erbrechen
+Alle Symptome von Schlaganfall, Angina Pectoris und Herzinfarkt können auftreten.
+
 ### Komplikationen
++ Schlaganfall
++ Angina Pectoris
++ Lungenödem
+
 ### Maßnahmen
++ Keine körperl. Anstrengung
++ Lagerung erhöhter Oberkörper
++ Beengende Kleidungsstücke öffnen
++ zu ruhiger Atmung anleiten
++ allg. Maßnahmen
+
 ### Anamnese
-### Differentialdiagnosen
-### Zu beachten
++ Krankengeschichte
++ Blutdruckprotokoll
++ Medikamentenliste
 
 
 ## Gefäßerkrankungen - *Ursachen, Symptome, Komplikationen, Maßnahmen*
