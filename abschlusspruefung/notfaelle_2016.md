@@ -207,20 +207,7 @@ Nach dem Anfall:
 #### Tetanie
 Tetanische Krämpfe sind durch Übererregbarkeit des Nervensystem auftretende anfallsartige Muskelkrämpfe, die meist durch Störung des Elektrolythaushaltes (=Kalziummangel) oder zentralen Störungen bzw. Schädigungen auftreten können.
 
-#### Hyperventilationssyndrom
-Können psychisch ausgelöst werden (Erhöhung der Atemfrequenz und AZV über physiologische Bedürfnisse hinaus. Durch vermehrtes Abatmen von CO&#8322; entsteht in Folge ein Kalziummangel, der zu Kontraktion der Muskeln führt. Bevor Maßnahmen ergriffen werden muss ausgeschlossen sein, dass andere Gründe verantwortlich sind wie SHT, hohes Fieber, O&#8322;-Mangel aufgrund von Verletzungen….
-
-##### Symptome:
-+ beschleunigte vertiefte Atmung
-+ Kribbeln in Armen, Beinen, Gesicht
-+ Symmetrische Pfötchenstellung
-+ Grimassieren (Karpfenmund)
-
-##### Maßnahmen:
-+ Patienten beruhigen
-+ Lagerung mit leicht erhöhtem Oberkörper, beengende Kleidung öffnen
-+ keine O&#8322;-Abgabe
-+ Patienten zu Rückatmung anleiten => O&#8322; Maske ohne Sauerstoffgabe aufsetzen.
+#### [Hyperventilationssyndrom](#hyperventilationssyndrom-1)
 
 #### Synkope
 + beginnt mit Schwarz werden vor den Augen
@@ -437,6 +424,29 @@ Unter (alveolärer) Hyperventilation versteht man die **verstärkte Abatmung von
 Eine Verwechslung mit der Tachypnoe bei der Lungenembolie ist leicht möglich! Ein mögliche Unterscheid ist der niedrige S<sub>p</sub>O&#8322; Wert bei der Lungenembolie.
 
 Bevor Maßnahmen ergriffen werden, muss ausgeschlossen sein, dass andere Gründe verantwortlich sind, wie SHT, hohes Fieber, O&#8322;-Mangel aufgrund von Verletzungen…. Wichtig ist hier die Befragung der Anwesenden nach dem Hergang.
+
+## Herzrhythmusstörungen
+
+### Definition
+Können mit Tachykardie oder Bradykardie des Herzschlags oder unregelmäßiger Herztätigkeit einhergehen, auch Zusatzschläge (Extrasystole) sind möglich. Führen zu Minderdurchblutung des Gehirns, des Herzmuskels sowie auch anderer Organe. Die genaue Art der Störung ist nur mittels EKG feststellbar.
+
+### Ursachen
+### Symptome
++ Bradykardie oder Tachykardie/Arryhthmie
++ Schockzeichen
+
+### Komplikationen
++ Atem-Kreislauf-Stillstand
+
+### Maßnahmen
++ Lagerung mit erhöhtem Oberkörper
++ Beengende Kleidungsstücke öffnen
++ Allg. Maßnahmen
++ Evtl. vorhandene Schrittmacherpass ins KH mitnehmen
+
+### Anamnese
++ Herzschrittmacher vorhanden?
++ Krankengeschichte
 
 
 ## Herzversagen - *Ursachen, Symptome, Komplikationen, Maßnahmen*
