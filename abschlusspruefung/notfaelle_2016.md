@@ -655,28 +655,91 @@ Patient muss für wahrscheinliche OP nüchtern bleiben.
 | `Schmerzen` | plötzlich, oft Peitschenschlagartig | Druckschmerz |
 
 
-## Hyperglykämie - *Ursachen, Symptome, Komplikationen, Maßnahmen*
+## Diabetes Mellitus
 
 ### Definition
-### Ursachen
-### Symptome
-### Komplikationen
-### Maßnahmen
-### Anamnese
-### Differentialdiagnosen
-### Zu beachten
+Störung des Kohlehydratstoffwechsels. Körper benötigt für Funktion seiner Organe ausreichend Energie, die zum Großteil von im Blut vorhandenem Zucker (aufgenommen mit Nahrung) stammt. Um Zucker richtig verwerten zu können, ist das in Bauchspeicheldrüse gebildete Hormon Insulin notwendig. Blutzucker und Insulin normal in ausgewogenem Verhältnis. Bei Diabetes ist Verhältnis gestört. Blutzuckerspiegel erhöht sich und Zucker, wenn die sog. Nierenschwelle (>160-180 mg/dl) überschritten ist, wird dann über Nieren ausgeschieden.
+
+#### Typ I:
+Insulin fehlt aufgrund einer Produktionsstörung der Bauchspeicheldrüse. Insulin muss immer von außen zugeführt werden. Entwicklet sich hauptsächlich im Kinder- und Jugendalter.
+
+#### Typ II:
+Insulin wird produziert aber nicht in Zellen eingeschleust (Insulinresistenz). Weitere Folge: Insulinproduktion erschöpft sich und führt schließlich dazu das auch Insulin zugeführt werden muss. Entsteht meist ab 40 wegen Überernährung und zu wenig Bewegung.
+
+**Normwert bei erwachsenem Mensch: <110mg/dl**
 
 
-## Hypoglykämie - *Ursachen, Symptome, Komplikationen, Maßnahmen*
+## Hyperglykämie (Überzuckerung / Diabetisches Koma)
 
 ### Definition
+Durch einen stark erhöhten Blutzuckerspiegel entsteht eine langsame Bewussseineintrübung.
+Am häufigsten bei bekannter Zuckerkrankheit (Werte bis 250mg/dl bei Diabetikern oft ohne Symptome.) durch Infektionen oder Insulinunterdosierung aber auch Erstmanifestation. Der Insulinmangel bewirkt eine hormonelle Gegenreaktion durch Stresshormone.
+
+Kann dauerhaft zur Schädigung von Gefäßen und Nerven führen. Führt zu Durchblutungsstörungen in Augen, Nieren und Extremitäten und Blutgerinnung.
+
 ### Ursachen
++ erhöhte Kohlenhydrataufnahme bei geringer körperlicher Aktivität
++ falsche/fehlende Medikamenteneinnahme/Insulindosierung
++ langsame Entwicklung,
+
 ### Symptome
++ Durstgefühl
++ vermehrte Harnausscheidung
++ trockene, rote Haut\Schleimhäute
++ Bewusstseinseintrübung
++ Bewusstlosigkeit
++ Ausatmung riecht nach Azeton (selten)
++ Kußmaul’sche Atmung
+
 ### Komplikationen
++ Somnolenz bis Bewusstlosigkeit
+
 ### Maßnahmen
++ o.   Bw: Kontrolle der Lebensfunktionen, lebensrettende Sofortmaßnahmen
++ m. Bw: erhöhter Oberkörper, Absaugbereitschaft, Diabetikerausweis und Medikamente mitnehmen
+
 ### Anamnese
++ Diabetikerausweis und Medikamente mitnehmen
++ Krankengeschichte
+
+
+## Hypoglykämie (Unterzuckerung / Hypoglykämischer Schock)
+
+### Definition
+Werte unter 40mg/dl. Erste Symptome oft schon bei <70mg/dl.
+
+### Ursachen
++ zu geringe Aufnahme von Kohlenhydraten
++ realtive Insulin Überdosierung
++ Erniedrigung des Insulinbedarfs zb durch körperliche Belastung, nach Gewichtsreduktion, nach Entbindung
++ Alkoholintoxikation
++ Nebenniereninsuffizienz
+
+### Symptome
++ Heißhunger
++ Müdigkeit, Schwäche
++ Schweißausbruch, Zittern, evt Doppelbilder
++ Aggr. Gereiztheit
++ Bewusstseinseintrübung, Bewusstseinsveränderung
++ Desorientiertheit
+
+### Komplikationen
++ Somnolenz od Bewusstlosigkeit
+
+### Maßnahmen
++ o.  Bw: Kontrolle des Lebensfunktionen, lebensrettende Sofortmaßnahmen
++ m. Bw: Zucker geben, Absaugbereitschaft, Blutzuckermessung
+
+### Anamnese
++ Zuckerpass
++ Letzte Mahlzeit
+
 ### Differentialdiagnosen
 ### Zu beachten
++ Messtoleranzen von bis 20% können vorkommen. Daher muss bei Messwerten <60mg/dl  mit entspr. Symptomatik gehandelt werden (Glykosezufuhr oral).
++ längere hyoglykömische Bewusstlosigkeit kann zu Hirnschäden führen. Bei Auufälligkeiten Klinik mit Schädel-CT anfahren.
++ Patienten können verwirrt und aggressiv sein und enorme Kärfte entwickeln => Eingenschutz
++ Ersthelfer könnten schon eine Zuckergabe durchgeführt haben.
 
 
 ## Hochdruckkrise - *Ursachen, Symptome, Komplikationen, Maßnahmen*
