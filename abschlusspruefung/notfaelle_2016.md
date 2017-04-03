@@ -240,7 +240,7 @@ Krampf der kleinen Bronchien (Bronchospasmus) mit Schwellung der Bronchialschlei
 ### Symptome
 + plötzlich auftretende hochgradige Atemnot
 + verlängerte erschwerte Atmung
-+ Pfeifende Atemgeräusche
++ Pfeifende Atemgeräusche (Stridor)
 + evt Zyanose
 + evt prall gefüllte Halsvenen
 
@@ -284,6 +284,7 @@ Irreversible "Überblähung" der Lunge in den Endaufzweigungen des Bronchialsyst
 
 ### Komplikationen
 + Ateminssuffizienz
++ COPD Exacerbation: Akute Atemnot verursacht durch einen Infekt zb Bronchitis
 
 ### Maßnahmen
 + keine körperliche Anstrengung
@@ -296,6 +297,17 @@ Krankheitsgeschichte besonders wichtig um Asthma asuzuschließen
 
 ### Differentialdiagnosen
 Asthma und COPD sind ähnliche Krankheits bilder, allerdings entwickelt sich COPD erst im höheren Alter, Asthma beginnt meist in der Kindheit. Im Notfall ist eine Unterscheidung nur durch die Krankengeschichte möglich.
+
+### Zu beachten
++ Die Schwere von COPD wird in vier Gold-Stadien eingeteilt.
+
+## Asthma vs COPD
+| &nbsp; | Astma | COPD |
+| --- | --- | --- |
+| Beginn | meist Kindheit/Jugend | >40 |
+| Auslöser | Allergie, Stress, Infekt | Noxen |
+| Dsypnoe | anfallsartig | bestaltungsabhängig |
+| Verlauf | gleichbleibend | progredient |
 
 
 ## Lungenödem
@@ -312,10 +324,11 @@ Durch toxische Stoffe (zb Reizgas, Rauchgas, auch bei Niereninsuffizienz) kommt 
 Andere Ursachen können der Aufenthalt in großer Höhe oder akute Überwässerung zb  durch eine Dialyse sein.
 
 ### Symptome
-+ Akute Atemnot
++ Akute Atemnot (Dyspnoe bis Orthopnoe)
 + Rasselnde, brodelnde Atemgeräusche
 + Unruhe, Angst
-+ Zyanose
++ evt. Zyanose
++ Reizhusten beim toxischen Ödem
 + (Kaltschweißigkeit)
 + (Puls erhöht evt arrhythmisch)
 
@@ -330,7 +343,7 @@ Andere Ursachen können der Aufenthalt in großer Höhe oder akute Überwässeru
 + Maximale O&#8322;-Gabe
 
 
-## Lungenembolie - *Ursachen, Symptome, Komplikationen, Maßnahmen*
+## Lungenembolie (Pulmonalembolie)
 
 ### Definition
 Einschwemmen von Blutgerinnseln (Thromben) aus tiefen Bein- bzw. Beckenvenen in Lunge führt Verschluss von Lungenarterien und damit zum Lungeninfarkt.
@@ -339,8 +352,8 @@ Besonders gefährdet: ältere Personen, Bettlägrige, nach Langstreckenflügen, 
 
 ### Ursachen
 + Verschleppung von Thromben aus Bein-/Beckenvenen
-+ Fettembilien (selten): frei gesetzte Gewebsfette (zb dr Knochenbrüche mit Knochenmarksbeteiligung, nach großen chir Eingriffen)
-+ Fruchtwasserembolie: fruchtwasser gelangt in den venösen Kreislauf und führt zur Thrombenbildung
++ Fettembolien (selten): frei gesetzte Gewebsfette (zb dr Knochenbrüche mit Knochenmarksbeteiligung, nach großen chir Eingriffen)
++ Fruchtwasserembolie: Fruchtwasser gelangt in den venösen Kreislauf und führt zur Thrombenbildung
 + Luftembolie: nach eindringen von Luft in den venösen Kreislauf (zb Suizid)
 
 ### Symptome
@@ -364,10 +377,10 @@ Besonders gefährdet: ältere Personen, Bettlägrige, nach Langstreckenflügen, 
 Wegen der sehr unspezifischen Symptomatik wird nur jede 3.-5. Lungenembolie erkannt. Bei ausgerägter Zyanose trotz 100% O&#8322; Gabe muss immer ein Verdacht auf Lungenembolie entstehen.
 
 
-## Lungenentzündung
+## Lungenentzündung (Pneumonie)
 
 ### Definition
-(Pneumonie) = Entzündung des Lungengewebes
+Entzündung des Lungengewebes
 
 ### Ursachen
 Man unterscheidet primäre und sekundäre Pneumonie: Erkrankt ein gesunder Mensch an einer Lungenentzündung, ohne dass er besondere Risikofaktoren aufweist, spricht man von einer primären Pneumonie. Im Gegensatz dazu findet sich bei der sekundären Pneumonie ein prädisponierender Faktor oder ein auslösendes Ereignis für die Krankheit (siehe Risikogruppen).
@@ -425,15 +438,17 @@ Eine Verwechslung mit der Tachypnoe bei der Lungenembolie ist leicht möglich! E
 
 Bevor Maßnahmen ergriffen werden, muss ausgeschlossen sein, dass andere Gründe verantwortlich sind, wie SHT, hohes Fieber, O&#8322;-Mangel aufgrund von Verletzungen…. Wichtig ist hier die Befragung der Anwesenden nach dem Hergang.
 
+
 ## Herzrhythmusstörungen
 
 ### Definition
-Können mit Tachykardie oder Bradykardie des Herzschlags oder unregelmäßiger Herztätigkeit einhergehen, auch Zusatzschläge (Extrasystole) sind möglich. Führen zu Minderdurchblutung des Gehirns, des Herzmuskels sowie auch anderer Organe. Die genaue Art der Störung ist nur mittels EKG feststellbar.
+Können mit Tachykardie oder Bradykardie des Herzschlags oder unregelmäßiger Herztätigkeit (Arryhthmie) einhergehen, auch Zusatzschläge (Extrasystole) sind möglich. Führen zu Minderdurchblutung des Gehirns, des Herzmuskels sowie auch anderer Organe. Die genaue Art der Störung ist nur mittels EKG feststellbar. Die häufgste Störung ist das Vorhofflimmern.
 
 ### Ursachen
 ### Symptome
-+ Bradykardie oder Tachykardie/Arryhthmie
-+ Schockzeichen
++ Herzstolpern (Palpitationen)
++ Bradykardie oder Tachykardie oder Arryhthmie
++ Schockzeichen (kardiogener Schock)
 
 ### Komplikationen
 + Atem-Kreislauf-Stillstand
@@ -458,9 +473,9 @@ Leistungseinschränkung des Herzens mit Verminderung der Pumpleistung bei ausrei
 Blut kann nicht mehr ausreichend in den Körper gepumpt werden. Blut wird in Lungenstrombahn zurückgestaut, was zum (kardialen) Lungenödem führt.
 
 ##### Symptome
-+ Atemnot
++ Atemnot (Dyspnoe)
 + Tachykardie (Herzrasen)
-+ Blutdruckabfall
++ Blutdruckabfall (Hypotonie)
 + Zyanose
 
 ##### Maßnahmen
@@ -469,7 +484,7 @@ Blut kann nicht mehr ausreichend in den Körper gepumpt werden. Blut wird in Lun
 + Kleidung öffnen, ruhiges Atmen
 
 #### Rechtsherzschwäche (Rechtsherzinsuffizienz)
-Chronische Lungenstauung. Wirkt sich auf rechte Herzkammer aus. Kommt zu einer Leistungsminderung mit Ausweitung des rechten Herzens. Blut staut sich in Venen zurück, wird an Halsvenen sichtbar. Dadurch sammelt sich Wasser im Gewebe (Ödeme). Da dadurch gesamte Herzleistung eingeschränkt ist = **Globalinsuffizienz**.
+Oft eine Folge der Linksherzinssufizienz. Chronische Lungenstauung. Wirkt sich auf rechte Herzkammer aus. Kommt zu einer Leistungsminderung mit Ausweitung des rechten Herzens. Blut staut sich in Venen zurück, wird an Halsvenen sichtbar. Dadurch sammelt sich Wasser im Gewebe (Ödeme). Da dadurch gesamte Herzleistung eingeschränkt ist = **Globalinsuffizienz**.
 
 ##### Akutes Rechtsherzversagen
 Lebensbedrohlicher Zustand. Recht Herz wird akut überlastet. Ursachen können Lungenembolie oder schwere Asthmaanfälle sein.
@@ -497,7 +512,7 @@ Lebensbedrohlicher Zustand. Recht Herz wird akut überlastet. Ursachen können L
 Angina Pectoris und Herzversagen werden unter Überbegriff **„akutes Koronarsyndrom“** zusammengefasst. Missverhältnis zwischen Sauerstoffbedarf und -angebot des Herzmuskels, Leitsymptom: Brustschmerz
 
 ##### Angina Pectoris
-Auftreten eines drückenden, beengenden Brutschmerzes. Verengte Herzkranzgefäße verursachen eine Minderversorgung des Herzmuskels mit Sauerstoff. Ausgelöst wird Schmerzattacke meist durch körperliche oder seelische Belastung, Kälte oder Nikotinmissbrauch. Wenn Symptome sehr intensiv sind und vom Arzt verabreichte Medikamente nicht reagieren kann ein Herzinfarkt vorliegen.
+Auftreten eines drückenden, beengenden Brutschmerzes. Verengte Herzkranzgefäße verursachen eine Minderversorgung des Herzmuskels mit Sauerstoff. Ausgelöst wird Schmerzattacke meist durch körperliche oder seelische Belastung, Kälte oder Nikotinmissbrauch. Wenn Symptome sehr intensiv sind und vom Arzt verabreichte Medikamente (Nitro) nicht reagieren kann ein Herzinfarkt vorliegen.
 
 Ursache für Herzinfarkt ist ein kompl. verschlossenes Herzkranzgefäß. Dadurch kommt es zum Absterben von Herzmuskelgewebe. Häufigste lebensbedrohliche Komplikation wie zb Kammerflimmern.
 
@@ -521,7 +536,7 @@ Ursache für Herzinfarkt ist ein kompl. verschlossenes Herzkranzgefäß. Dadurch
 + Stress
 
 ### Symptome
-+ Brustschmerz
++ Brustschmerz (atemunabhängig)
 + Engegefühl in Brust
 + Ausstrahlung in Arme, Hals, Kiefer, Oberbauch & Rücken
 + Kaltschweißigkeit
@@ -554,7 +569,7 @@ Starker Anstieg des Blutdrucks (>200mm Hg systholisch)
 + Hypertonie kann zu bedrohlichem Anstieg des Blutdrucks (>200mm Hg) führen
 + => höherer Widerstand im Gefäßsystem
 + => Mehrarbeit des Herzens mit erhöhtem Sauerstoffverbrauch
-Wenn Herzkranzgefäße Bedarf nicht decken können, kann es zu Angina-Pectoris-Anfall kommen. Kann auch zu Schlaganfall aufgrund einer Gefäßzerreißung kommen. Durch Überbelastung kann akutes Linksherzversage mit Lungenödem ausgelöst werden.
+Wenn Herzkranzgefäße Bedarf nicht decken können, kann es zu Angina-Pectoris-Anfall kommen. Kann auch zu Schlaganfall aufgrund einer Gefäßzerreißung kommen. Durch Überbelastung kann akutes Linksherzversage mit Lungenödem ausgelöst werden. Erfolgt eine Organschädigung auf Grund einer Hypertensiven Krise spricht man vom **Hypertsensiven Notfall**.
 
 ### Symptome
 + Schwindel, Sehstörungen
@@ -569,6 +584,7 @@ Alle Symptome von Schlaganfall, Angina Pectoris und Herzinfarkt können auftrete
 + Schlaganfall
 + Angina Pectoris
 + Lungenödem
++ Einblutung ins Auge
 
 ### Maßnahmen
 + Keine körperl. Anstrengung
@@ -742,9 +758,101 @@ Werte unter 40mg/dl. Erste Symptome oft schon bei <70mg/dl.
 + Ersthelfer könnten schon eine Zuckergabe durchgeführt haben.
 
 
-## Hochdruckkrise - *Ursachen, Symptome, Komplikationen, Maßnahmen*
+## Schädel-Hirntrauma (SHT)
 
 ### Definition
+
+Als Schädel-Hirn-Trauma (SHT) bezeichnet man jede Verletzung des Gehirns aufgrund einer äußeren Ursache (Krafteinwirkung). Der Begriff bezieht sich jedoch nicht auf ggf. damit verbundene Schädelfrakturen oder Kopfplatzwunden.
+
+### Schädeldachbruch
+Geschlossener Schädeldachbruch sowie Knochenrisse im Schädeldach sind kaum zu erkennen. Bei vertikaler Verschiebung von Bruchstücken ist Delle erkennbar. Offene Schädelbrüche können anhand von Knochensplittern oder Austritt von Hirngewebe erkannt werden.
+
+### Schädelbasisbruch
+Austritt von Blut und/oder Liquor aus Mund, Nase, Ohr. evt. Bluterguss in Augenhöhle.
+
+### Gesichtsschädelverletzungen
+Durch Blut, Fremdkörper, Zähne oder Frakturen kann Atmung beeinträchtigt sein. Vordergründig also Freimachung der Atemwege wichtig. Aisgeschlagene Zähne in die Zahnrettungsbox, jedenfall vor dem Austrocknen schützen.
+
+### Verletzungen des Gehirns
+
+#### Primäre Verletzungen:
+=mechanische Verletzungen des Gehirns als direkte Folge eines Traumas. Werden in fokale und difuse Verletzungen eingeteilt
+
+#### Fokale Verletzungen:
+Rindenprellungen sind umschrieben Verletzungen der Gehirnoberfläche, durch stumpfe Gewalteinwirkung, vor allem infolge einer breitflächigen Krafteinwirkung auf Schädel. Bei abruptem Abbremsen nach Sturz oder massiver Beschleunigung des ruhenden Schädels
+Folge: lokale Gewebszerstörung àneurologische Defizite
+
+#### Diffuse Verletzungen
+bei leichter bis mittelschwerer Gewalteinwirkung auf Schädel. Folge: vorrübergehende Funktionsstörung des Gehirns mit Leitsymptomen wie kurze Bewusstlosigkeit, Erinnerungslücken, Kopfschmerzen und Übelkeit = Gehirnerschütterung
+
+#### Sekundäre Verletzungen:
+Kann zu Zerreißen von Blutgefäßen kommen und dadurch zu Blutungen im Schädelinneren.
+Intracerebrale Blutung: Blutungen im Hirngewebe
+Epidurales, subdurales Hämatom: zwischen Schädeldach und Schädelhirn
+
+#### Traumatische Hirnblutung
+Es kann auch zum Zerreißen von Blutgefäßen im Schädelinneren kommen
+
+#### Hirndrucksteigerung
+Anstieg des intrakraniellen Drucks (Hirndrucks) über den Normwert. Ursache kann sein: Hirnschwellung im Rahmen einer schweren Hirnverletzung, ausgedehnte Blutungen. Hirn kann sich nur sehr begrenzt ausdehnen, daher schnell Gewebsquetschung bzw. Durchblutungsstörung bei Hirndrucksteigerung.
+Folgen: Störungen des Bewusstseins, Atmung und Kreislauffunktion.
+
+Symptome:
+
+Komplikationen:
+
+Maßnahmen:
+allg. Maßnahmen
+### Symptome
++ Kopfschmerzen
++ Übelkeit
++ Erbrechen
++ Schwindel
++ Sehstörungen, Pupillenveränderungen (seitendifferenz, fehlende Lichtreaktion)
++ Bewusstseinsstörung
++ absinkende Pulsfrequenz
++ evt. Krämpfe
++ Atemstörungen
+### Komplikationen
++ Bewusstlosigkeit
++ Krämpfe
++ Atem-Kreislauf-Stillstand
+### Maßnahmen
+o. BW:
++ max . O2-Gabe
++ Kontrolle der Lebensfunktionen
++ lebensrettende Sofortmaßnahmen
++ nach Möglichkeit Lagerung mit HWS Schiene
+
+b. BW:
++ max O2-Gabe 10-15l
++ Trauma Drillinge
++ Seitenlage
++ Lagerung mit erh. Oberkörper
++ Absaugbereitschaft
+
+### Zu beachten
+Die Lagerung muss der Gesamtsituation angepasst sein vor allem wegen zusätzlicher Verletzungen.
+
+## Halswirbelsäule, Wirbelsäulendrama
+
+### Definition
+Stürze (ab ca 1,5m) und Schleudervorgänge
+=> Verletzungen der Wirbelsäule
+=> zb Wirbelkörperbrüche, Verrenkungen od beides (Luxationsfraktur)
+=> 
+Symptome (MDS kontrollieren!)
+• Schmerzen im Bereich der Wirbelsäule
+• Kraftlosigkeit bis zur Bewegungsunfähigkeit
+• Taubheitsgefühl bis zur Empfindungslosigkeit
+
+Komplikationen
+Je nach Höhe der Querschnittslähmung (zB Ausfall der Atmung)
+Schock
+
+Maßnahmen
+o. BW: Kontrolle der Lebensfunktionen, Lebensrettende Sofortmaßnahmen (bei Bewusstlosigkeit: achsengerechte stabile Seitenlage – wenn möglich mit HWS-Schiene)
+m. BW: HWS-Schienung, Schaufeltrage, Vakuummatratze, traumatologischer Notfallcheck, Absaugbereitschaft, allg. Maßnahmen
 ### Ursachen
 ### Symptome
 ### Komplikationen
@@ -752,19 +860,6 @@ Werte unter 40mg/dl. Erste Symptome oft schon bei <70mg/dl.
 ### Anamnese
 ### Differentialdiagnosen
 ### Zu beachten
-
-
-## Schädel-Hirntrauma - *Ursachen, Symptome, Komplikationen, Maßnahmen*
-
-### Definition
-### Ursachen
-### Symptome
-### Komplikationen
-### Maßnahmen
-### Anamnese
-### Differentialdiagnosen
-### Zu beachten
-
 
 ## Brustkorbverletzung - *Ursachen, Symptome, Komplikationen, Maßnahmen*
 
