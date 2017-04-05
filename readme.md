@@ -35,7 +35,6 @@ Die Fragen stammen aus dem [Fragesystem des ABZ](https://intranet.wrk.at/conflue
 + [Bedienungsanleitungen](https://intranet.wrk.at/confluence/display/RD/RD+Bedienungsanleitungen)
 + [Sanitätshilfe Videos](https://www.youtube.com/user/Sanitaetshilfe/videos)
 + [Réanimation LIVE Bondi Rescue](https://www.youtube.com/watch?v=YOkCEuK5lK0)
-+ [Auskultation Hörbeispiele](other/auskultation_hoerbeispiele/)
 
 ### Links
 + [Dropbox](https://www.dropbox.com/l/scl/AAANRwGYrxrbJaYWTZiSU-5h3YlcixrPorg)
