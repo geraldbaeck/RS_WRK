@@ -271,9 +271,17 @@ Krampf der kleinen Bronchien (Bronchospasmus) mit Schwellung der Bronchialschlei
 ## COPD
 
 ### Definition
-Chronic Obstructive Pulmonary Disease ist eine chronische Lungenerkrankung, mit einer **fortschreitenden Atemwegsobstruktion**. COPD wird in GOLD-Stadien eingeteilt:
+Chronic Obstructive Pulmonary Disease ist eine chronische Lungenerkrankung, mit einer **fortschreitenden Atemwegsobstruktion**.
 
-TODO GOLD Stadien:
+COPD wird in GOLD-Stadien eingeteilt. Wichtigstes Kriterium für die Einteilung der COPD-GOLD-Stadien sind zwei Werte der Lungenfunktion: der FEV1-Wert (Einsekundenkapazität, engl. Forced Expiratory Pressure in 1 Second) und die forcierte Vitalkapazität (FVC). Diese Werte lassen sich durch einen Lungenfunktionstest bestimmen.
+
+| COPD-Stadium | FEV1 (Sollwert = 100%) | FEV1/FVC |
+| --- | --- | --- |    
+| I (leicht) | ≥ 80% Soll | < 70% |
+| II (mittel) | 50% - 80% Soll | < 70% |
+| III (schwer) | 30% Soll - 50% Soll	< 70% |
+| IV (sehr schwer) | ≤ 30% Soll oder <br/>< 50% Soll plus chronische respiratorische
+Insuffizienz | < 70% |
 
 ### Ursachen
 COPD entwickelt sich durch das jahrelange Einatmen schädlicher Stoffe und fasst zwei Krankheitsbilder zusammen:
@@ -311,9 +319,6 @@ Krankheitsgeschichte besonders wichtig um Asthma asuzuschließen
 
 ### Differentialdiagnosen
 Asthma und COPD sind ähnliche Krankheits bilder, allerdings entwickelt sich COPD erst im höheren Alter, Asthma beginnt meist in der Kindheit. Im Notfall ist eine Unterscheidung nur durch die Krankengeschichte möglich.
-
-### Zu beachten
-+ Die Schwere von COPD wird in vier Gold-Stadien eingeteilt.
 
 
 ## Asthma vs COPD
