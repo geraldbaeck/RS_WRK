@@ -7,7 +7,7 @@ Plötzliches Auftreten von neurologischen Ausfällen, kann durch Durchblutungsst
 ### Durchblutungsstörung (Ischämischer Insult)
 Sauerstoffmangel aufgrund von plötzlichen Durchblutungsstörung. Minderdurchblutung verursacht ein Absterben von angeschlossenen Nerven- und Bindegewebe im Gehirn.
 
-#### TIA
+#### TIA (transitorisch ischämische Attacke)
 Jeder 3. Schlaganfall kündigt sich durch flüchtige Durchblutungsstörungen an (transitorisch ischämische Attacke = TIA), 90% dauern weniger als 10 Minuten. Die Ausfallserscheinungen bilden sich innerhalb von 24 Stunden vollständig zurück. Bildet sich die Symptomatik nicht vollständig zurück, so handelt es sich definitionsgemäß um einen Insult. Im Akutstadium (solange die Symptome noch bestehen) kann zwischen einer TIA und einem Schlaganfall nicht unterschieden werden. Die Akutbehandlung muss sich deshalb am Vorgehen beim Schlaganfall orientieren, insbesondere ist eine rasche Diagnose zwingend.
 
 #### Ursachen
@@ -29,6 +29,7 @@ Folge von spontaner Zerreißung von Hirngefäßen und Einblutung ins Gewebe. Fü
 #### Intrazerebrale Blutung
 Blutung im Gehirn, häufig Folge von Bluthochdruck  
 Symptome: wie ischämischer Insult
+Einziger Unterschied zu ischämischer Insult zusätzlich möglicherweise Kopfweh
 
 #### Subarachnoidalblutung
 Blutung unter Hirnhaut, Grund: geplatztes Aneurysma  
@@ -39,6 +40,9 @@ Symptome:
 + Nackensteifigkeit
 + Bewusstseinstrübung
 + Unterschiedlich große Pupillen
+
+#### Subduralblutug
+#### Epiduralblutung
 
 Eine Unterscheidung zwischen Ischämischen und Häorragischen Insult kann nur durch ein CT getroffen werden, deshalb kein Unterschied in der Versorgung.
 
@@ -132,7 +136,7 @@ Betrifft bestimmten Teil des Körpers, Patient wach und ansprechbar. zb Jackson-
 ### Generalisierter Krampfanfall:
 Gesamter Körper krampft, Patient nicht ansprechbar. Auch hier gibt es wieder verschiedene Formen:
 
-#### Grand-mal-Anfall (Großer tonisch-klonischer Anfall)
+#### Beispiel: Großer tonisch-klonischer Anfall (früher: Grand-mal-Anfall)
 + *Tonische Phase* (10-30s):
   + Muskulatur angespannt => Überstreckung der Gliedmaßen
   + Atmung setzt aus
@@ -144,13 +148,11 @@ Gesamter Körper krampft, Patient nicht ansprechbar. Auch hier gibt es wieder ve
   + evt Stuhl- und Harnentleerung
 + *Nach dem Anfall*:
   + Erschlaffen der Muskulatur
+  + evt. Nachschlafphase
   + postiktaler Dämmerzustand
   + Amnäsie für die Dauer des Anfalls
   + evt Todd-Parese (Lähmung der Beteiligten Muskeln)
   + evt Forellenphänomen (punktförmige Einblutung in den Augenliedern)
-
-#### Petit-mal-Anfall
-Leichtere Anfallsform mit spezifischer Symptomatik. i.d.R. keine Akkuttherapie nötig
 
 ## Ursachen
 
@@ -161,7 +163,7 @@ Ursachen haben eine breites Spekrum:
 + *strukturell/metabolisch*: Folge von Erkrankungen, deren Therapie weitere Anfälle verhindert (zb durch hohes Fieber/Fieberkrämpfe) oder Eklampsie (während Schwangerschaft)
 
 Auslöser:
-+ Alkohol- oder Medikamentenmissbrauch
++ Alkohol- oder Medikamentenmissbrauch oder -entzug
 + akustische u. visuelle Reize zb Stroboskop
 + Stress
 
@@ -226,6 +228,11 @@ Tetanische Krämpfe sind durch Übererregbarkeit des Nervensystem auftretende an
 + kein Sturz, kein Urinabgang, kein Zungenbiss, keine Amnesie
 + präklinisch nicht einfach zu diagnostizieren
 
+### zu beachten
++ interne mit Neuro im Hintergrund
++ bei Verletzungen zuerst Unfall
++ Reversfähigkeit checken
+
 
 ## Asthma
 
@@ -235,6 +242,7 @@ Krampf der kleinen Bronchien (Bronchospasmus) mit Schwellung der Bronchialschlei
 ### Ursachen
 + allergische Reaktion
 + Stress
++ körperliche Anstrengung
 + Infektion
 
 ### Symptome
@@ -257,11 +265,15 @@ Krampf der kleinen Bronchien (Bronchospasmus) mit Schwellung der Bronchialschlei
 + Patient gemeinsam zu atmen anleiten (Lippenbremse)
 + S<sub>p</sub>O&#8322; < 92% lebensbedrohlich
 
+### zu beachten
++ interne
 
 ## COPD
 
 ### Definition
-Chronic Obstructive Pulmonary Disease ist eine chronische Lungenerkrankung, mit einer **fortschreitenden Atemwegsobstruktion**.
+Chronic Obstructive Pulmonary Disease ist eine chronische Lungenerkrankung, mit einer **fortschreitenden Atemwegsobstruktion**. COPD wird in GOLD-Stadien eingeteilt:
+
+TODO GOLD Stadien:
 
 ### Ursachen
 COPD entwickelt sich durch das jahrelange Einatmen schädlicher Stoffe und fasst zwei Krankheitsbilder zusammen:
@@ -285,12 +297,14 @@ Irreversible "Überblähung" der Lunge in den Endaufzweigungen des Bronchialsyst
 ### Komplikationen
 + Ateminssuffizienz
 + COPD Exacerbation: Akute Atemnot verursacht durch einen Infekt zb Bronchitis
++ Spontanpneumothorax
 
 ### Maßnahmen
 + keine körperliche Anstrengung
 + maximal erhöhter Oberkörper, mit Armen abstützen
 + Kleidung öffnen
 + Patient zu ruhiger Atmung anleiten
++ Vorsicht bei der Sauerstoffgabe, zu viel Sauerstoff macht atemdeppressiv
 
 ### Anamnese
 Krankheitsgeschichte besonders wichtig um Asthma asuzuschließen
@@ -300,6 +314,7 @@ Asthma und COPD sind ähnliche Krankheits bilder, allerdings entwickelt sich COP
 
 ### Zu beachten
 + Die Schwere von COPD wird in vier Gold-Stadien eingeteilt.
+
 
 ## Asthma vs COPD
 | &nbsp; | Astma | COPD |
@@ -317,7 +332,7 @@ Asthma und COPD sind ähnliche Krankheits bilder, allerdings entwickelt sich COP
 
 ### Ursachen
 #### Kardiales Lungenödem (am häufigsten)
-Linksherzinssufizienz mit Druckanstieg im Lungenkreislauf. Durch die Lungenstauung kommt es zum Übertritt von Flüssigkeit in den Zwischenzellraum und den Alleveollarraum.
+Linksherzinsuffizienz mit Druckanstieg im Lungenkreislauf. Durch die Lungenstauung kommt es zum Übertritt von Flüssigkeit in den Zwischenzellraum und den Alleveollarraum.
 #### Toxisch allergisches Lungenödem
 Durch toxische Stoffe (zb Reizgas, Rauchgas, auch bei Niereninsuffizienz) kommt es zu einer höheren Durchlässigkeit der Lungenkapillarmembranen und damit zum Übertritt von Flüssigkeit.
 
@@ -506,7 +521,7 @@ Lebensbedrohlicher Zustand. Recht Herz wird akut überlastet. Ursachen können L
 + ruhiges Atmen
 
 
-## Akuter Brustschmerz und Herzinfarkt
+## Angina Pectoris und Herzinfarkt - akutes Koronarsyndrom
 
 ### Definition
 Angina Pectoris und Herzversagen werden unter Überbegriff **„akutes Koronarsyndrom“** zusammengefasst. Missverhältnis zwischen Sauerstoffbedarf und -angebot des Herzmuskels, Leitsymptom: Brustschmerz
@@ -609,6 +624,16 @@ Folge von Gefäßwandschäden (Krampfadern), verlangsamter Blutströmung und ver
 + Bettlägrigkeit
 + Teilimmobilisation
 
+### Risikofaktoren
++ Rauchen
++ Übergergewicht
++ Frauen
++ Medikamente (Pille)
++ Schwangerschaft
++ Krebs
++ Operationen
++ Genetisch bedingt
+
 ### Symptome
 + Blau-rötliche Verfärbung der Gliedmaße
 + Schmerz, Schwellung, Spannungsgefühl, Druckschmerz
@@ -633,7 +658,10 @@ Folge von Gefäßwandschäden (Krampfadern), verlangsamter Blutströmung und ver
 Verschleppung von Thromben (gebildet Infolge von Entzündungen oder Herzrhythmusstörungen zb Vorhofflimmern, Mitralklappenfehler) meist aus dem linken Herzen. Kann zuführende Arterie verstopfen.
 
 ### Ursachen
-+ Thromben
++ Vorhofflimmern
++ künstliche Herzklappen
++ Periphere arterielle Verschlusskrankheit (pAVK)
++ Verletzungen / Operationen
 
 ### Symptome
 "6 x P" nach Pratt (an der betroffenen Extremität):
@@ -701,17 +729,17 @@ Kann dauerhaft zur Schädigung von Gefäßen und Nerven führen. Führt zu Durch
 ### Symptome
 + Durstgefühl
 + vermehrte Harnausscheidung
-+ trockene, rote Haut\Schleimhäute
++ trockene, rote Haut/Schleimhäute
 + Bewusstseinseintrübung
 + Bewusstlosigkeit
 + Ausatmung riecht nach Azeton (selten)
-+ Kußmaul’sche Atmung
++ Kußmaul’sche Atmung (Atmung wie Steve bei Malcolm in the Middle)
 
 ### Komplikationen
 + Somnolenz bis Bewusstlosigkeit
 
 ### Maßnahmen
-+ o.   Bw: Kontrolle der Lebensfunktionen, lebensrettende Sofortmaßnahmen
++ o. Bw: Kontrolle der Lebensfunktionen, lebensrettende Sofortmaßnahmen
 + m. Bw: erhöhter Oberkörper, Absaugbereitschaft, Diabetikerausweis und Medikamente mitnehmen
 
 ### Anamnese
@@ -834,13 +862,13 @@ b. BW:
 ### Zu beachten
 Die Lagerung muss der Gesamtsituation angepasst sein vor allem wegen zusätzlicher Verletzungen.
 
-## Halswirbelsäule, Wirbelsäulendrama
+## Halswirbelsäule, Wirbelsäulentrauma
 
 ### Definition
 Stürze (ab ca 1,5m) und Schleudervorgänge
 => Verletzungen der Wirbelsäule
 => zb Wirbelkörperbrüche, Verrenkungen od beides (Luxationsfraktur)
-=> 
+=>
 Symptome (MDS kontrollieren!)
 • Schmerzen im Bereich der Wirbelsäule
 • Kraftlosigkeit bis zur Bewegungsunfähigkeit
@@ -854,6 +882,10 @@ Maßnahmen
 o. BW: Kontrolle der Lebensfunktionen, Lebensrettende Sofortmaßnahmen (bei Bewusstlosigkeit: achsengerechte stabile Seitenlage – wenn möglich mit HWS-Schiene)
 m. BW: HWS-Schienung, Schaufeltrage, Vakuummatratze, traumatologischer Notfallcheck, Absaugbereitschaft, allg. Maßnahmen
 ### Ursachen
++ direktes Traum (Stich, Schuss)
++ indirektes Traum durch Zug - und Scherkräfte => Schleudertrauma
++ pathologische Frakturen (zb bei Tumor, Metstasen)
+
 ### Symptome
 ### Komplikationen
 ### Maßnahmen
@@ -933,6 +965,10 @@ Gruppe von Erkrankungen im Bauchraum, die vor allem durch heftige Bauchschmerzen
 + Darmverschlüsse (keine Darmgeräusche)
 + Blutungen im Magen-Darm-Trakt oder in Speiseröhre
 + Lebensmittelvergiftung (Gastroenteritis)
++ Meteorismus (verzwickter Schaß)
++ Gynekologische Erkrankungen
++ Abdominaltrauma (Bauchschlag)
++ Mesenterialinfarkt (Verschluss im Gekröse)
 
 ### Symptome
 + Bauchschmerzen
