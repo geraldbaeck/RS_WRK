@@ -280,8 +280,7 @@ COPD wird in GOLD-Stadien eingeteilt. Wichtigstes Kriterium für die Einteilung 
 | I (leicht) | ≥ 80% Soll | < 70% |
 | II (mittel) | 50% - 80% Soll | < 70% |
 | III (schwer) | 30% Soll - 50% Soll	< 70% |
-| IV (sehr schwer) | ≤ 30% Soll oder <br/>< 50% Soll plus chronische respiratorische
-Insuffizienz | < 70% |
+| IV (sehr schwer) | ≤ 30% Soll oder <br/>< 50% Soll plus chronische respiratorische Insuffizienz | < 70% |
 
 ### Ursachen
 COPD entwickelt sich durch das jahrelange Einatmen schädlicher Stoffe und fasst zwei Krankheitsbilder zusammen:
