@@ -7,7 +7,7 @@ Hier findest Du Unterlagen und Notizen zur Ausbildung zum Rettungssanitäter bei
 + [Zwischenprüfung MPG](zwischenpruefung/zwischenpruefung_mpg.md)
 + [Zwischenprüfung Erste Hilfe Fragen](zwischenpruefung/zwischenpruefung_erstehilfe.md)
 
-## SAN Kurs
+## RS Kurs
 
 ### Fragenkataloge
 + [Fragenkatalog 2015](abschlusspruefung/fragenkatalog_abschlusspruefung_RS.pdf)
@@ -18,6 +18,7 @@ Hier findest Du Unterlagen und Notizen zur Ausbildung zum Rettungssanitäter bei
   + [Notfälle bei verschiedenen Krankheitsbildern, spezielle Notfälle](abschlusspruefung/notfaelle_2016.md)
   + [Rechtliche Grundlagen](abschlusspruefung/recht_2016.md)
   + [Rettungswesen](abschlusspruefung/rettungswesen_2016.md)
++ [MPG](abschlusspruefung/mpg.md) - keine Prüfungsfragen, aber Querschnittsmaterie
 
 ### Prüfungshilfen
 Die Fragen stammen aus dem [Fragesystem des ABZ](https://intranet.wrk.at/confluence/display/FWuV/Fragenprogramm+RS-Mappe#FragenprogrammRS-Mappe-Wiekommeichhinein?) und decken das gesamte Spektrum ab, die Prüfungsfragen sind jedoch von anderer Zusammensetzung, werden aber voraussichtlich nicht publiziert.
