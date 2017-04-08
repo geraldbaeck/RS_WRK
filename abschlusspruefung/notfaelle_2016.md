@@ -2,20 +2,23 @@
 
 ## Schlaganfall - *Ursachen, Symptome, Komplikationen, Maßnahmen*
 
+### Definition
 Plötzliches Auftreten von neurologischen Ausfällen, kann durch Durchblutungsstörung oder eine Blutung im Hirn ausgelöst werden.
-
-### Durchblutungsstörung (Ischämischer Insult)
-Sauerstoffmangel aufgrund von plötzlichen Durchblutungsstörung. Minderdurchblutung verursacht ein Absterben von angeschlossenen Nerven- und Bindegewebe im Gehirn.
 
 #### TIA (transitorisch ischämische Attacke)
 Jeder 3. Schlaganfall kündigt sich durch flüchtige Durchblutungsstörungen an (transitorisch ischämische Attacke = TIA), 90% dauern weniger als 10 Minuten. Die Ausfallserscheinungen bilden sich innerhalb von 24 Stunden vollständig zurück. Bildet sich die Symptomatik nicht vollständig zurück, so handelt es sich definitionsgemäß um einen Insult. Im Akutstadium (solange die Symptome noch bestehen) kann zwischen einer TIA und einem Schlaganfall nicht unterschieden werden. Die Akutbehandlung muss sich deshalb am Vorgehen beim Schlaganfall orientieren, insbesondere ist eine rasche Diagnose zwingend.
 
-#### Ursachen
+=> Minor Stroke (leichte Defizite, Rückbildung innerhalb von 7 Tagen) => Progressive Stroke => Maligner Infarkt
+
+#### Durchblutungsstörung (Ischämischer Insult)
+Sauerstoffmangel aufgrund von plötzlichen Durchblutungsstörung. Minderdurchblutung verursacht ein Absterben von angeschlossenen Nerven- und Bindegewebe im Gehirn.
+
+##### Ursachen
 + Thromboembolisches Geschehen: durch losgelöste arterosklerotische Plaques aus großen Hirnarterien oder Thromboembolien, die Ursprung im Herz haben (zB bei Vorhofflimmern).
 + [Hämodynamisch](https://de.wikipedia.org/wiki/H%C3%A4modynamik) verursachte Infarkte: bei Engstellen von zuführenden Gefäßen außerhalb des Gehirns (selten)
 + Selten: Hirngefäßentzündungen, [Hirnvenenthrombose](https://de.wikipedia.org/wiki/Hirnvenenthrombose)(1%)
 
-#### Symptome
+##### Symptome
 + Schwäche, Gefühlsstörung, Lähmung einer Körperseite (Lähmung, Taubheit, Kribbeln)
 + Löhmung einer Gesichtshälfte, hängender Mundwinkel
 + Sprechschwierigkeiten, Sprachverständnisschwierigkeiten
@@ -23,15 +26,15 @@ Jeder 3. Schlaganfall kündigt sich durch flüchtige Durchblutungsstörungen an 
 + Plötzlicher Schwindel, Gangunsicherheit
 + beinbetont, evt. Inkontinenz
 
-### Hirnblutung (hämorrhagischer Insult)
+#### Hirnblutung (hämorrhagischer Insult)
 Folge von spontaner Zerreißung von Hirngefäßen und Einblutung ins Gewebe. Führt zu Erhöhung des Hirndrucks und Behinderung des venösen Abflusses.
 
-#### Intrazerebrale Blutung
+##### Intrazerebrale Blutung
 Blutung im Gehirn, häufig Folge von Bluthochdruck  
 Symptome: wie ischämischer Insult
 Einziger Unterschied zu ischämischer Insult zusätzlich möglicherweise Kopfweh
 
-#### Subarachnoidalblutung
+##### Subarachnoidalblutung
 Blutung unter Hirnhaut, Grund: geplatztes Aneurysma  
 Symptome:
 + plötzlich, starker Kopfschmerz
@@ -41,8 +44,8 @@ Symptome:
 + Bewusstseinstrübung
 + Unterschiedlich große Pupillen
 
-#### Subduralblutug
-#### Epiduralblutung
+##### Subduralblutug
+##### Epiduralblutung
 
 Eine Unterscheidung zwischen Ischämischen und Häorragischen Insult kann nur durch ein CT getroffen werden, deshalb kein Unterschied in der Versorgung.
 
@@ -77,6 +80,12 @@ Eine Unterscheidung zwischen Ischämischen und Häorragischen Insult kann nur du
 + Göttlicher Heiland
 + AKH
 + SMZ Ost - Donauspital Wien
+
+### Media
++ [Kurzwiederholung Apoplex/Schlaganfall/Hirninfarkt/Ischämischer Insult](https://www.youtube.com/watch?v=_GP93m6QJw4)
++ [Ischämischer Schlaganfall I](https://www.youtube.com/watch?v=QniNVDOPdPo)
++ [Ischämischer Schlaganfall II](https://www.youtube.com/watch?v=MPUFU12R7RI)
++ [Subarachnoidalblutung](https://www.youtube.com/watch?v=ucWF8AwS_H8)
 
 
 ## Meningitis und Enzephalitis - *Ursachen, Symptome, Komplikationen, Maßnahmen*
@@ -782,7 +791,6 @@ Werte unter 40mg/dl. Erste Symptome oft schon bei <70mg/dl.
 + Zuckerpass
 + Letzte Mahlzeit
 
-### Differentialdiagnosen
 ### Zu beachten
 + Messtoleranzen von bis 20% können vorkommen. Daher muss bei Messwerten <60mg/dl  mit entspr. Symptomatik gehandelt werden (Glykosezufuhr oral).
 + längere hyoglykömische Bewusstlosigkeit kann zu Hirnschäden führen. Bei Auufälligkeiten Klinik mit Schädel-CT anfahren.
@@ -829,12 +837,6 @@ Es kann auch zum Zerreißen von Blutgefäßen im Schädelinneren kommen
 Anstieg des intrakraniellen Drucks (Hirndrucks) über den Normwert. Ursache kann sein: Hirnschwellung im Rahmen einer schweren Hirnverletzung, ausgedehnte Blutungen. Hirn kann sich nur sehr begrenzt ausdehnen, daher schnell Gewebsquetschung bzw. Durchblutungsstörung bei Hirndrucksteigerung.
 Folgen: Störungen des Bewusstseins, Atmung und Kreislauffunktion.
 
-Symptome:
-
-Komplikationen:
-
-Maßnahmen:
-allg. Maßnahmen
 ### Symptome
 + Kopfschmerzen
 + Übelkeit
@@ -845,10 +847,12 @@ allg. Maßnahmen
 + absinkende Pulsfrequenz
 + evt. Krämpfe
 + Atemstörungen
+
 ### Komplikationen
 + Bewusstlosigkeit
 + Krämpfe
 + Atem-Kreislauf-Stillstand
+
 ### Maßnahmen
 o. BW:
 + max . O2-Gabe
@@ -865,6 +869,7 @@ b. BW:
 
 ### Zu beachten
 Die Lagerung muss der Gesamtsituation angepasst sein vor allem wegen zusätzlicher Verletzungen.
+
 
 ## Halswirbelsäule, Wirbelsäulentrauma
 
@@ -947,13 +952,11 @@ m. BW: HWS-Schienung, Schaufeltrage, Vakuummatratze, traumatologischer Notfallch
 
 ## Normale Geburt - *Phasen und Ablauf*
 
-### Definition
-### Ursachen
-### Symptome
-### Komplikationen
-### Maßnahmen
 ### Anamnese
-### Differentialdiagnosen
++ Mutter-Kind-Pass!!!!!!!!!!!!!
++ die wie vielte Geburt
++ wie verliefen die Geburten vorher
+
 ### Zu beachten
 
 
