@@ -1083,6 +1083,86 @@ Kommt es zu Verletzungen durch die unsachgemäße Verwendung von künstlichen Ba
 + Flachlagerung auf Vakuummatratze mit angezogenen Beinen oder nach Wunsch des Patienten
 
 
+## Extremitätentrauma - Quetschung, Prellung (Kontusion)
+
+### Definition
+Eine Prellung oder Kontusion ist die Schädigung durch Gewalt von außen, die nicht mit sichtbaren Hautverletzungen einhergehen müssen. Die Folge sind Ödeme des Gewebes und Blutaustritt aus beschädigten Kapillaren in das umliegende Gewebe, was als Bluterguss oder Prellmarke sichtbar werden kann und mit Schmerzen und Schwellung der betroffenen Region verbunden ist.
+
+### Symptome
++ Schmerzen
++ Schwellung
++ Hämatom
+
+### Komplikationen
++ Blutverlust ins Gewebe
+
+### Maßnahmen
++ hoch lagern
++ ruhig stellen
++ kühle Umschläge
+
+
+## Extremitätentrauma - Gelenksverletzung - Verstauchung (Distorsion)
+
+### Definition
+Wenn die gelenkbildenden Knochen durch Krafteinwirkung kurz gegeneinander verschoben werden, aber sofort wieder in ihre ursprüngliche Stellung zurückkehren.
+
+### Symptome
++ Schmerzen
++ Schwellung
++ Bluterguss (Hämatom)
+
+### Komplikationen
++ Einreißen der Gelenkskapsel
++ Zerrung oder Riss der Bänder
++ Blutung ins Gelenk
+
+### Maßnahmen
++ MDS-Kontrolle
+  + Motorik
+  + Durchblutung
+  + Sensibilität
++ hoch lagern
++ ruhig stellen
++ kühle Umschläge
+
+
+## Extremitätentrauma - Gelenksverletzung - Verrenkung (Luxation)
+
+### Definition
+Wenn die gelenkbildenden Knochen durch Krafteinwirkung ihren Zusammenhalt verlieren und in dieser abnormen Stellung bleiben.
+
+### Symptome
++ Schmerzen
++ Schwellung
++ Bluterguss (Hämatom)
++ Abnorme Stellung des Gelenks
++ Störung der Motorik, Durchblutung, Sensibilität
+
+### Komplikationen
++ Überdehen und Zerreißen der Gelenkskapsel und der Bänder
++ Blutung ins Gelenk
+
+### Maßnahmen
++ MDS-Kontrolle
+  + Motorik
+  + Durchblutung
+  + Sensibilität
++ ruhig stellen
+
+
+## Extremitätentrauma - Frakturen
+
+### Definition
+### Ursachen
+### Symptome
+### Komplikationen
+### Maßnahmen
+### Anamnese
+### Differentialdiagnosen
+### Zu beachten
+
+
 ## Vergiftung - *Ursachen, Symptome, Komplikationen, Maßnahmen*
 
 ### Definition
