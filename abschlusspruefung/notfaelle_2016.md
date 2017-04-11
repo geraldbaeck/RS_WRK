@@ -877,53 +877,210 @@ Die Lagerung muss der Gesamtsituation angepasst sein vor allem wegen zusätzlich
 Stürze (ab ca 1,5m) und Schleudervorgänge
 => Verletzungen der Wirbelsäule
 => zb Wirbelkörperbrüche, Verrenkungen od beides (Luxationsfraktur)
-=>
-Symptome (MDS kontrollieren!)
-• Schmerzen im Bereich der Wirbelsäule
-• Kraftlosigkeit bis zur Bewegungsunfähigkeit
-• Taubheitsgefühl bis zur Empfindungslosigkeit
+=> dabei kann es zur Schädigung des Rückenmarks kommen
+=> Lähmung, Querschnittslähmung
 
-Komplikationen
-Je nach Höhe der Querschnittslähmung (zB Ausfall der Atmung)
-Schock
+#### Beschleunigungstrauma der HWS (Schleudertrauma)
+zb bei PKW Heckaufprall
 
-Maßnahmen
-o. BW: Kontrolle der Lebensfunktionen, Lebensrettende Sofortmaßnahmen (bei Bewusstlosigkeit: achsengerechte stabile Seitenlage – wenn möglich mit HWS-Schiene)
-m. BW: HWS-Schienung, Schaufeltrage, Vakuummatratze, traumatologischer Notfallcheck, Absaugbereitschaft, allg. Maßnahmen
+##### Grad I (leicht):
++ Dehnung des HWS-Band /Gelenkskapselapparats
++ Nackenschmerz, "steifer Hals"
++ Symptome erst 1 bis 48h nach Ereignis
+
+##### Grad II (mittel):
++ Zusätzlich Kapsel-/Gefäßeinrisse (Hämatome), Muskelzerrungen
++ Schmerzen im Hinterkopf oder Mundboden
++ Gefühlsstörungen der Arme möglich
++ selten symptomfreies Intervall
+
+##### Grad III (schwer):
++ Schäden an Bandscheiben und Bändern
++ Wirbelfrakturen od. -luxationen
++ Nerven- od. Rückenmarksschäden
++ Unfähigkeiten den Kopf in Position zu halten
++ Sensibilitätsstörungen
++ evt. Lähmungen
++ evt. kurze initiale Bewusstlosigkeit
+
+##### Grad IV (tödlich):
++ hoher Querschnitt (Tetraparese, Atemstörung) (C3 - C5)
++ Schädigung der [Medulla oblongata](https://de.wikipedia.org/wiki/Medulla_oblongata) (Übergang zwischen Hirn und Rückenmark)
++ [Bulbärhirnsyndrom](https://de.wikipedia.org/wiki/Bulb%C3%A4rhirnsyndrom) (Einklemmung des Kleinhirns)
++ meistens tödlich
+
 ### Ursachen
 + direktes Traum (Stich, Schuss)
 + indirektes Traum durch Zug - und Scherkräfte => Schleudertrauma
 + pathologische Frakturen (zb bei Tumor, Metstasen)
 
 ### Symptome
-### Komplikationen
-### Maßnahmen
-### Anamnese
-### Differentialdiagnosen
-### Zu beachten
++ Schmerzen im Bereich der Wirbelsäule
++ Kraftlosigkeit bis zur Bewegungsunfähigkeit
++ Taubheitsgefühl bis zur Empfindungslosigkeit
++ unwillkürlicher Harn- und Stuhabgang
++ Atemstörungen bei hohem Querschnitt (C3 - C5)
 
-## Brustkorbverletzung - *Ursachen, Symptome, Komplikationen, Maßnahmen*
+### Komplikationen
++ Je nach Höhe der Querschnittslähmung (zB Ausfall der Atmung)
++ Schock
+
+### Maßnahmen
+o. BW:
++ Kontrolle der Lebensfunktionen
++ Lebensrettende Sofortmaßnahmen (bei Bewusstlosigkeit: achsengerechte stabile Seitenlage – wenn möglich mit HWS-Schiene)
+
+m. BW:
++ HWS-Schienung
++ Schaufeltrage
++ Vakuummatratze
++ traumatologischer Notfallcheck
++ Absaugbereitschaft
++ allg. Maßnahmen
+
+
+## Geschlossene Brustkorbverletzungen (Thoraxtrauma)
 
 ### Definition
-### Ursachen
+Gewalteinwirkung kann zu
++ Brustkorbprellung bzw. –quetschung mit Weichteilverletzungen
++ (Serien-)Rippenbrüchen => paradoxe Atmung
++ Lungenverletzung
++ Blutansammlung im Brustkorb (Hämatothorax Verletzung der Lunge durch Rippenbruchstücke oder Zerreißung großer Lungengefäße)
++ Blutansammlung im Herzbeutel (Herzbeuteltamponade)
++ und Pneumothorax (Lungengewebe löst sich von Rippenfell, Luft kann aus Atemwegen in den Pleuraspalt (Spalt zw. Rippen- und Lungenfell)) führen
+
+#### Hämatothorax
++ Frakturen (Rippenbrüche) od Gefäßrupturen führen zu
++ Eindringen von Blut in den Pleuraspalt
++ => Thoraxdrainage
+
+#### Pneumothorax
++ Eintritt von Luft in den Pleuraspalt
++ führt zum Kollabieren eines Lungenflügels
+
+#### Spannungspneumothorax
++ Pneumothorax, bei dem die Luft nicht mehr entwichen kann (Ventilmechanismus)
+=> beu Inspiration strömt Luft nach
+=> Kompression der Restlunge
+=> Abknicken/-drücken der Hohlvenen (Cava-Kompressionssyndrom) mit Füllungsbehinderung des Herzens
+=> akute Lebensgefahr
+
 ### Symptome
++ Schmerzen im Brustbereich
++ Paradoxe Atmung, abnorme Brustkorbbewegungen
++ atemabhängiger Schmerz, gut lokalisierbar, oft einseitig
++ Atemnot, Reizhusten
++ Zyanose
++ Abschürfungen, Prellmarken
++ Venenstauung im Halsbereich
++ Hautknistern beim Betasten => Spannungspneumothorax
+
 ### Komplikationen
++ hochgradige Atemnot
++ Schock
+
 ### Maßnahmen
-### Anamnese
-### Differentialdiagnosen
-### Zu beachten
++ Lagerung mit erh. Oberkörper, Stabilisierung durch Handauflegen
++ Pat. beruhigen zu ruhiger Atmung verhelfen
++ SPO2-Gabe 10-15l
++ Absaugbereitschaft
++ Allg. Maßnahmen
 
-
-## Bauchverletzung - *Ursachen, Symptome, Komplikationen, Maßnahmen*
+## Offene Brustkorbverletzungen
 
 ### Definition
-### Ursachen
+Durch Schuss-, Stich- und Pfählungsverletzungen kann es zu Öffnung des Brustkorbs kommen. Spezielles Problem stellt offener Pneumothorax dar. Bei offener Brustkorbwand kann Luft in Brustfellraum eindringen und die Lunge der betroffenen Seite fällt zusammen.
+
 ### Symptome
++ Austritt von schaumigen Blut aus Wunde
++ Zyanose
++ Halsvenenstauung
+
 ### Komplikationen
++ hochgradige Atemnot
++ Schock
+
 ### Maßnahmen
-### Anamnese
-### Differentialdiagnosen
-### Zu beachten
++ keimfreie Wundversorung
+  + nicht abkleben, eine Seite immer offen lassen
+  + Fremskörper belassen evt fixieren
++ Lagerung mit erh. Oberkörper, Stabilisierung durch Handauflegen
++ Pat. beruhigen zu ruhiger Atmung verhelfen
++ SPO2-Gabe 10-15l
++ Absaugbereitschaft
++ Allg. Maßnahmen
+
+
+## Bauchverletzungen - Beckenverletzung
+
+### Definition
+Durch Verkehrsunfälle, Sturz aus großer Höhe. Knöcherne Struckturen, große Gefäße, Nerven und im Becken liegende Organe können verletzt werden. Beckenverletzungen können präklinisch nur auf Grund er Unfallmechanik und der Schmerzsymptomatik vermutet werden.
+
+### Symptome
++ Schmerzen
++ Bewegungseinschränkung
+
+### Komplikationen
++ starke (innere) Blutung
+
+### Maßnahmen
++ (HWS-Schiene), Schaufeltrage, Vakuummatratze
++ allg. Maßnahmen
+
+
+## Bauchverletzungen (Abdominaltrauma) - Stumpfe Bauchverletzung
+
+### Definition
+Durch stumpfe Gewalteinwirkung, Verletzung von Milz, Leber, Niere, Darm, Zwerchfell, Blase. Aber auch Beckenbruch
+
+### Symptome
++ starke Bauchschmerzen
++ Prellmarken
++ Bretthart gespannt Bauchdecke, Abwehrspannung
++ Übelkeit, Erbrechen
+
+### Komplikationen
++ innere Blutung
++ Einriss/Perforation eines Bauchorgans
++ Prellung eines Organs (Kontusion)
++ Gefäßverletzung oder Verletzung des Mesenteriums (Gekröse)
+
+### Maßnahmen
++ vorsichtige Flachlagerung auf Vakuummatratze mit angezogenen Beinen oder Lagerung nach Wunsch des Patienten
++ allg. Maßnahmen
+
+
+## Bauchverletzungen (Abdominaltrauma) - Offene Bauchverletzung
+
+### Definition
+Bauchverletzung in Folge von Gewalteinwirkung von außen durch scharfen oder spitzen Gegenstand. (zb Stich- & Schusswaffen, Pfählungsverletzungen, herausgerissene Sonde)
+
+#### durch Stoma, PEG-Sonde & Suprabubischen Katheter
+Kommt es zu Verletzungen durch die unsachgemäße Verwendung von künstlichen Bauchausgängen, ist prinzipiell wie bei einem offenen Bauchtraum vorzugehen.
++ Stoma (künstliche Öffnung des Verdauungstraktes)
++ PEG-Sonde (künstliche Ernährung durch die Bauchdecke)
++ Suprabubischer Katheter (Harnableitung über die Bauchdecke)
+
+### Symptome
++ Wunde im Bereich der Bauchdecke
++ evt. Austreten von Darmschlingen
++ starke Schmerzen
+
+### Komplikationen
++ starke Blutung
++ Einriss/Perforation eines Bauchorgans
++ Gefäßverletzung oder Verletzung des Mesenteriums (Gekröse)
+
+### Maßnahmen
++ keimfreie Wundversorgung
++ evt ausgetretene Eingeweide belassen
+  + mit sterilen Wundauflagen bedecken
+  + mit Ringer-Lösung vor Austrocknung schützen
+  + zusätzlich Rettungsdecke
++ Sonden belassen, evt ausgetreten Körpersubstanzen vorsichtig entfernen
++ Gegenstände in Wunde belassen und fixieren
++ Flachlagerung auf Vakuummatratze mit angezogenen Beinen oder nach Wunsch des Patienten
 
 
 ## Vergiftung - *Ursachen, Symptome, Komplikationen, Maßnahmen*
