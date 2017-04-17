@@ -1154,13 +1154,125 @@ Wenn die gelenkbildenden Knochen durch Krafteinwirkung ihren Zusammenhalt verlie
 ## Extremitätentrauma - Frakturen
 
 ### Definition
-### Ursachen
+Ein Knochenbruch ist die Unterbrechung der Kontinuität eines Knochens unter Bildung zweier oder mehrerer Bruchstücke (Fragmente) mit oder ohne Verschiebung (Dislokation) durch Krafteinwirkung.
+
+#### Offene Knochenbrüche
+Bei offenen Knochebrüchen besteht eine Verbindung zwichen der Wunde und der Bruchstelle. Offene Frakturen werden nach Schweregrad eingeteilt:
+
+| Grad |  |
+| --- | --- |
+| 1 | Hautdurchtrennung, Durchspießung, geringe Quetschung, unbedeutende Verschmutzung (Kontamination), einfache Frakturform |
+| 2 | Hautdurchtrennung, Haut- und Weichteilquetschung, Verunreinigung, alle Frakturformen |
+| 3 | Hautdurchtrennung, ausgedehnte Weichteil-, Gefäß- und Nervenvereltzung, starke Wundkontamination, ausgedehnte Knochenzertrümmerung |
+| 4 | Amputation oder Teilamputation |
+
+#### Geschlossene Knochenbrüche
+
+| Grad |  |
+| --- | --- |
+| 1 | Keine oder unbedeutende Weichteilverletzung, indirekte Gewalteinwirkung, einfache Frakturform |
+| 2 | Oberflächliche Hautabschürfung oder Quetschung (Kontusion) durch Fragmentdruck von innen, einfache bis mittelschwere Frakturform |
+| 3 | Tiefe, verschmutzte Hautabschürfung, Kontusion durch direkte Gewalteinwirkung, drohendes Kompartmentsyndrom, mittelschwere bis schwere Frakturform |
+| 4 | Ausgedehnte Hautkontusion oder Zerstörung der Muskulatur, subkutanes Decollement, manifestes Kompartmentsyndrom, Verletzung eines Hauptgefäßes |
+
 ### Symptome
+Man unterschiedet zwischen sicheren und unsicheren Frakturzeichen:
+
+#### Sichere Frakturzeichen
++ Dislokation wie
+  + Achsenfehlstellungen (z. B. Fuß zeigt in die falsche Richtung)
+  + aus der Wunde ragende Knochenteile
+  + Stufenbildungen in der Knochenkontur
+  + Knochenlücken (Diastasen)
++ abnorme Beweglichkeit
++ Knirschen der Bruchstelle (Krepitation)
+
+Alle klinischen Zeichen, die auch ohne Knochenbruch auftreten können, sind also nicht beweisend und gelten als unsichere Frakturzeichen. Dies sind insbesondere die fünf Entzündungszeichen:
+
+#### Unsichere Frakturzeichen:
++ Schmerz (Dolor)
++ Schwellung (Tumor)
++ Röte (Rubor)
++ Wärme (Calor)
++ eingeschränkte Beweglichkeit (Functio laesa)
+Ein weiteres unsicheres Frakturzeichen ist der Bluterguss (Hämatom).
+
 ### Komplikationen
++ Überdehen und Zerreißen der Gelenkskapsel und der Bänder
++ Blutung ins Gelenk
+
 ### Maßnahmen
++ Blutstillung
++ Wundversorgung
++ evt Amputatversorgung
++ MDS-Kontrolle
+  + Motorik
+  + Durchblutung
+  + Sensibilität
++ ruhig stellen
++ Allgemeine Maßnahmen
+
 ### Anamnese
-### Differentialdiagnosen
-### Zu beachten
++ Wie kam es zu dem Unfall?
++ Medikamente besonders Blutverdünner
+
+
+## Extremitätentrauma - Allgemein
+
+### TODO einarbeiten
+
+### Algorithmus
++ Vorher Lebensfunktionen sicherstellen
++ Blutungen stillen
++ betroffenen Extremität soll möglichst ohne Unterbrechung unter Zug gehalten werden
+  + Zug und Gegenzug am Arm
+  + Stiefelgriff am Bein
++ immer Schmuck entfernen
++ Beinbruch: Schuhe unter Zug ausziehen
++ Kleidung entfernen oder aufschneiden
++ anschließened MDS Kontrolle
++ Offene Brüche keimfrei verbinden, Fremdkörper fixieren
+
+## Schienung
++ Unterarm => Armtragetuch, Dreieckstuch, evt Schienen
++ Oberarm => Tragetuch, Innenseite vorher polstern
++ Handgelenk => Schienen plus Tragetuch
++ Immer beachbarte Gelenke mitschienen
++ Unterschenkel => Sam splint, Vakuumschiene
++ Oberschenkel & Schenkelhals => Schaufeltrage, Vakuummatratze
++ anschließend MDS Kontrolle
+
+
+## Polytrauma
+
+### Definition
+Gleichzeitige Verletzung mehrerer Körperregionen oder Organe, wobei midestens eine oder die Kombinatin lebensbedrohlich ist.
+
+### Komplikationen
++ Atem-Kreislaufstillstand
+
+Insbesondere verdienen die "5 tödlichen Hypotheken" nach Dinkel eine besondere Beachtung
++ Hypoxie (Sauerstoffmangel)
++ Hypovolämie (Volumenmangel)
++ Hypoperfusion (Minderdurchblutung)
++ Hypothermie (Wärmemangel)
++ Hypotherapie (stellt die Gefahr durch einen zu zaghaften oder zu zögerlichen Notarzt dar. Kaum eine notärztliche Maßnahme richtet - korrekt ausgeführt - wesentlichen Schaden an, auch wenn sie sich im nachhinein als „überflüssig“ herausstellen sollte.)
+
+### Maßnahmen
++ Kontrolle der Lebensfunktionen => ABC Permanent
++ lebensrettende Sofortmaßnahmen
++ Blutstillung
++ SPO2-Gabe 10-15l
++ Absaugbereitschaft
++ Zeit im Auge behalten
++ Schneller Transport in Klinik mit Schockraum
+
+### Anamnese
+Wichtig ist, dass die Diagnose Polytrauma möglichst schnell erkannt und genannt wird. Die Arbeitsdiagnose Polytrauma wird gestellt sobald die
++ Einsatzmeldung und/oder die
++ Unfallmechanik und/oder die
++ Vitalparameter
+darauf schließen lassen.
 
 
 ## Vergiftung - *Ursachen, Symptome, Komplikationen, Maßnahmen*
