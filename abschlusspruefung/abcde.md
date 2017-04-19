@@ -41,9 +41,9 @@ Situation vor Ort (Stimmt die Alarmierung? Was ist wirklich los?)
   **P** ainful stimuli - reagiert nur auf Schmerz - GCS 8  
   **U** nresponsive - nicht ansprechbar - GCS 3  
 
-  ### Fragen:
-
-  > Grüß Gott Frau Maier. [Was ist denn passiert? | Wie können wir helfen? | Wie geht es Ihnen? | Was tut weh?]
+  :speak_no_evil: **Fragen:**
+      Grüß Gott Frau Maier.  
+      Was ist passiert? | Wie können wir helfen? | Wie geht es Ihnen? | Wo tuts weh?
 
 ## &lt;C&gt; Control Catastrophic Bleeding
 
@@ -82,9 +82,9 @@ Situation vor Ort (Stimmt die Alarmierung? Was ist wirklich los?)
 + Hyperventilationsmaßnahmen
 + Anleitung zum gemeinsamen Atmen
 + BLS
++ Lagerung
 
 ## C - Circulation - Kreislauf
-
 + Hautbeschaffenheit (Blutungen, Wunden)
 + Hautfarbe (rosig vs blass vs blau)
 + Hauttemperatur (va Kaltschweißigkeit)
@@ -93,7 +93,88 @@ Situation vor Ort (Stimmt die Alarmierung? Was ist wirklich los?)
   1. Handgelenk (radialis) > 90mmH
   - Halsschlagader (carotis) < 70mmH
 
+### Mögliche Maßnahmen
++ Wundversorgung
++ Lagerung
 
-## D - Disability
+## :bangbang: KRITISCH ODER STABIL :interrobang:
+
+## D - Disability - Defizit - neurologischer Status
+Orientierung prüfen:
++ zeitlich
++ situativ
++ örtlich
+
+Bewusstseinszustand prüfen:
++ GCS Status
++ evt. Blutzucker messen
+
+Neurologischen Status prüfen:
++ Pupillenbefund
++ Sensibilität
++ Motorik
++ SHT?
+
+Weitere Warnzeichen:
++ Schwindel
++ Gangunsicherheit
++ Verwirrtheit
+
+### Bei Auffällgkeiten FAST:
+
++ **F** ace:
+  + lächeln lassen
+  + Ist das Gesicht einseitig gelähmt/verzogen?
+  + Hängen Mundwinkel? evt Speichelfluss
+
++ **A** rms:
+  + Beide Arme nach vorne strecken
+  + Handflächen nach oben
+  + Augen schließen
+  + gleiche Kraft in beiden Händen?
+  + Gibt es neurologische Ausfälle? (Kribbeln, Gefühllosigkeit)
+  + Auch Beine kontrollieren (zb Aufstehen lassen)
+
++ **S** peech:
+  + Einfachen Satz nachsprechen lassen?
+  + Klingt die Sprache verwaschen oder anders? (Fremdanamnese)
+
++ **T** ime:
+  + Seit wann bestehen die Symptome?
+  + Time is brain!
+
+### Pupillenkontrolle I (Efferenzkontrolle)
+
+#### Ungleiche Pupillenweite (Anisokorie)
+Die gestörte Pupille reagiert weniger auf Licht.
+
+##### Weite Pupille
++ Ausfall des Parasympathikus auf dieser Seite.
++ evt Hirnödem, Aneurisma, Hirntumor
++ aber auch einseitig angewandte Augentropfen od Glasauge
++ oder Augapfelprellung
+
+##### Enge Pupille
++ Überstimualtion des Parasympathikus auf dieser Seite
++ zb Augentropfen
+
+#### Beidseitig weite Pupillen
++ Parasympatholytika: zb Tollkirsche, Psychopharmaka, Antihistminika
++ Sympathomimethika: Kokain, Amphetamin, Adrenalin
++ aber auch Erblindung, Krampfanfall, Glaukom (grüner Star)
+
+#### Beidseitig enge Pupillen
++ Opioide
++ Kohlenmonoxid
++ Narkotika
+
+### Pupillenkontrolle II (Afferenzkontrolle)
+Vergleich der direkten und indirekten (=konsensuellen) Lichtreaktion
+1. Patient blickt in die Ferne (Ausschaltung der Naheinstellungsreaktion)
+- Man beleuchtet ein Auge von unten (gleichmäßiges Streulicht im Fundus)
+- Nach 2-3 Sekunden wechselt man schnell die Lichtquelle auf das andere Auge, wobei man nur das beleuchtete Auge beobachtet (Wechselbelichtungstest)
+- Normalerweise ändert die Pupille beim Übergang von der konsensuellen zur direkten Lichtreaktion ihre weite nicht.
+- Wird die neu beleuchtete Pupille aber weiter => Afferenzdefekt
+
 
 ## E - Exposure
