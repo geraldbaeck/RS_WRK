@@ -174,7 +174,71 @@ Vergleich der direkten und indirekten (=konsensuellen) Lichtreaktion
 - Man beleuchtet ein Auge von unten (gleichmäßiges Streulicht im Fundus)
 - Nach 2-3 Sekunden wechselt man schnell die Lichtquelle auf das andere Auge, wobei man nur das beleuchtete Auge beobachtet (Wechselbelichtungstest)
 - Normalerweise ändert die Pupille beim Übergang von der konsensuellen zur direkten Lichtreaktion ihre weite nicht.
-- Wird die neu beleuchtete Pupille aber weiter => Afferenzdefekt
+- Wird die neu beleuchtete Pupille aber weiter => **Afferenzdefekt**
 
 
-## E - Exposure
+## E - Exposure - Erweiterte Untersuchung
+Untergliedert sich in drei Bereiche:
++ SAMPLE-Anamnese
++ Strukturierte (apparative Untersuchung)
++ Traumatologischer Notfallcheck eg. Traumcheck
+
+### SAMPLE
+Erhebung der Daten durch Befragung des Patienten oder Fremdanamnese.
+
+#### **S** Symptome/Schmerzen
++ Welche Beschwerden liegen vor?
++ Wie fühlen sich die Schmerzen an? (dumpf/stechend)
++ Strahlen die Schmerzen aus?
++ Seit wann bestehen die Symptome?
+
+#### **A** Allergien
+
+#### **M** Medikamente
++ Welche Medikamante werden eingenommen?
++ Wann wurden die Medikamente zuletzt eingenommen?
+
+#### **P** Patientengeschichte
++ Vorerkrankungen? (Diabetes, Bluthochdruck, Herzerkrankungen, Schrittmacher, Krebs....)
++ Operationen
++ auch mögliche Schwangerschaft
+
+#### **L** Letzter Zeitpunkt von
++ Nahrungsaufnahme
++ Stuhlgang
++ Menstruation
++ Artzbesuch
++ Flüssigkeitsaufnahme
++ Krankenhausaufenthalt
+
+#### **E** Ereignis
++ Was ging den Beschwerden voraus?
++ Was hat der Patient gemacht, als die Beschwerden begannen?
++ Was hat die Symptome ausgelöst?
+
+### Strukturierte Untersuchung
+
+#### Atemfrequenz
+**Warnzeichen: AF <10 >30**
+
+#### Sauerstoffsättigung SpO2
+**Warnzeichen: <94% bei Sauerstoffgabe**
+
+#### Herzfrequenz
+**Warnzeichen: Ruhepuls <40 >140**
+
+#### Blutdruck
+**Warnzeichen: Systole <90 >220**
+
+#### EKG
+
+#### Blutzucker
+**Warnzeichen: <40 >300 mg/dl**
+
+#### Temperatur
+**Warnzeichen: <39°C**
+
+#### Haut
+**Warnzeichen: blass,zyanotisch, kaltschweißig**
+
+### Traumacheck
