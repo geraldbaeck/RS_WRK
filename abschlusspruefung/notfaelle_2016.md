@@ -1524,6 +1524,112 @@ Wichtige Gase:
 + Absaugbereitschaft
 
 
+## Ertrinken
+
+### Definition
+Unter Ertrinken versteht man den Tod durch Ersticken in Folge eines Untertauchens und dem damit verbundenen Eindringen von Wasser in die Atemwege.
+
+#### Mechanismus
+##### Primäres Ertrinken:
+Betroffene tauchen mehrmals auf und wieder unter (Überlebenskampf). Schlucken und Aspirieren Wasser dabei
+
+##### Primäres Versinken:
+Auftauchphasen fehlen (zB: bei Verletzungen oder bei Kindern)
+
+##### Sekundäres Ertrinken:
+Bis 48 Std. nach Unfall kann es zu Verschlechterung des Zustandes kommen, daher stationäre Überwachung wichtig. Lungenödem möglich
+
+### Ursachen
++ Nichtschwimmer
++ Ermüdung und Krämpfe
++ Vagusreizung = Synkope durch plötzliches Eintauchen in sehr kaltes Wasser ggf nach reichhaltigem Essen
++ ACS
+
+### Symptome
++ Feucht-blasse Haut, Zyanose
++ Kältezittern
++ Verwirrtheit bis Bewusstlosigkeit
++ Erhöhte Atem- und Pulsfrequenz bis Schnappatmung und Atem-Kreislauf-Stillstand
++ Blutdruckabfall
++ Verletzungen
+
+### Komplikationen
++ Atem-Kreislauf-Stillstand
+
+### Maßnahmen
++ Nasse Kleidung entfernen
++ Wärmeerhalt
++ Leicht erhöhter Oberkörper
++ Sauerstoofgabe
++ Absaugbereitschaft
+
+### Anamnese
++ Unfallhergang beachten, uU voran gegangenes Ereignis zb Herzinfarkt
+
+
+## Tauchunfall - Barotrauma
+
+### Definition
+Gasgefüllte Körperhöhlen können durch entstehenden Überdruck beim zu schnellen Auftauchen geschädigt werden. Besonders gefährdet sind:
++ Paukenhöhlen im Mittelohr (Trommelfellruptur)
++ Lunge (Lungenruptur, beidseitiger Spannungspneumothorax)
++ Nasennebenhöhlen
++ Magen, Darm
++ Zähne
+
+
+## Tauchunfall - Dekompressionskrankheit
+
+### Definition
+Durch den erhöhten atmosphärischen Druck unter Wasser wird verstärkr N2 im Blut gebunden. Bei langsamer Drucksenkung wird dieser Stickstoff wieder frei und wird abgeatmet. Bei schnellem Druckabfall bzw zu langer Tiefenzeit perlt der Stickstoff ins Gewebe, Gefäße, Knochen etc.
+
+Das führt zu Gefäßverschlüssen (Gasembolien), Rupturen, Nervenirritationen.
+
+### Symptome
+Milde Form DCS I
++ Müdigkeit, Schwächegefühl
++ Hautjucken
++ Hautrötungen
++ Muskel und Gelenksschmerzen
+
+Schwere Form DCS II
++ Alle DCS I Anzeichen
++ Taubheitsgefühl, Kribbeln, Gefühllosigkeit
++ Lähmungen, Krämpfe
++ Atemnot
++ Seh-, Hör- und Sprachstörungen
++ Schwindel, Übelkeit
++ Schmerzen hinter dem Brustbein
++ Bewusstseinsstörungen
+
+### Komplikationen
++ Atem-Kreislauf-Stillstand
+
+
+## Tauchunfall - Arterielle Gasembolie
+
+### Definition
+Dabei enstehen Gasbläschen im Gefäßsystem (DCS) oder gelangen über die Lungenvenen ins Gefäßsystem (Barotrauma). Gasembolien im Bereich des Gerhirn verursachen Schlaganfallsymptome, im Bereich der Herzkrankgefäße => Herzinfarktsymptome.
+
+## Tauchunfall - Rettung
+
++ Bleigurt entfernen
++ Tarierweste entfernen
++ Tauchcomputer sicheren
+
+### Maßnahmen
++ Flache Lagerung auf weichen Untergund, Druckstellen vermeiden
++ Maximale Suaerstoffgabe
++ Anleitung zur Atmung
++ Wärmeerhalt
++ Flüssigkeit zum Trinken anbieten
++ evt Deko Kammer rechtzeitig avisieren
+
+### Anamnese
++ Tauchcomputer
++ Alle in den letzten 24h durchgeführten Tauchgänge ermitteln (Nullzeitüberschreitungen, Dekostopps, Tauchtiefen, Tauchdauer)
+
+
 ## Psychiatrische Notfälle - *Ursachen, Symptome, Komplikationen, Maßnahmen*
 
 ### Definition
