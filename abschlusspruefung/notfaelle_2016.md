@@ -1275,16 +1275,253 @@ Wichtig ist, dass die Diagnose Polytrauma möglichst schnell erkannt und genannt
 darauf schließen lassen.
 
 
-## Vergiftung - *Ursachen, Symptome, Komplikationen, Maßnahmen*
+## Vergiftungen (G36)
 
 ### Definition
+Vergiftungen sind Krankheitsbilder, die durch dosisabhängige Einwirkung chemischer Stoffe auf den Organismus entstehen. Verlauf und Schweregrad hängen von Substanz, Dosis und Aufnahmeweg ab.
+
+#### Aufnahmewege
++ **Ingestion**: über Verdauungstrakt
++ **Inhalation**: über Lunge
++ **Perkutan**: über Haut
++ **Parenteral**: durch Injektion
++ **Kombiniert**: über Haut, Lunge, Magen-Darm-Trakt
+
 ### Ursachen
++ Unfälle (verwechslungen)
++ Absicht (kriminell, Suizid)
++ Störfälle in der Industrie, Transportunfälle
+
 ### Symptome
++ Hautveränderungen (Reizung, Verätzung)
++ Störung im Verdauungstrakt (Übelkeit, Erbrechen, Schmerzen im Rachen)
++ Bewusstseinsstörung
++ Störung der Atemfunktion
++ Herz- Kreislauf- Störung (Blutdruck, Puls, Blässe)
+
 ### Komplikationen
++ Atem-Kreislaufstillstand
+
 ### Maßnahmen
+o. Bw:
++ Kontrolle der Lebensfunktionen
+m.Bw:
++ Prophylaktische Seitenlage
++ 30° erhöht auf günstige Seite
++ Absaugbereitschaft
+
+#### A-Regel nach Brockstedt
++ Aufrechterhaltung der Vitalfunktionen, Aspirationsprophylaxe
++ Anamnese
++ Asservieren
++ Anrufen (VIZ, [+43 1 4064343](tel:+4314064343))
++ (Antidotgabe) nicht RS!
++ (Aktivkohle) nicht RS!
++ (Aqua, Abspülen, verdünnen bei äußeren Verletzungen (nicht zum Trinken auffordern))
++ Aufschreiben
+
 ### Anamnese
-### Differentialdiagnosen
-### Zu beachten
++ WER? Alter, Geschlecht, Gewicht, Zustand
++ WAS? Bezeichnung des Stoffs, Produkts od. Pflanzenteils
++ WIE VIEL? möglichst exakte Menge
++ WIE? Aufnahmeweg
++ WANN?
++ WARUM? Selbst- oder Fremdschädigung, Fehlanwendung, Unfall etc
+
+
+## Arzneimittelüberdosierung (G38)
+
+### Definition
+Schlaf-, Beruhigungs- und Schmerzmittel häufig, oft unbeaufsichtigte Kinder
+
+### Symptome
++ Bewusstseinsstörung
+
+### Komplikationen
++ meistens Bewusstseinseinschränkung
+
+### Maßnahmen
++ Asservieren besonders wichtig
+
+
+## Alkoholintox (G38)
+
+### Definition
+Reine Alkoholvergiftungen mit schwerwiegenden Folgen sind relativ selten und am ehesten bei Jugendlichen zu beobachten.
+
+### Symptome
++ Bewusstseinseinschränkung nach Dosis (Rausch-Betäubung, Koma)
++ bei Kindern: Abfall der Temperatur, Entgleisung im Säure-Basen-Zuckerhaushalt
+
+#### Vergiftungsstadien
+| Grad | Vergiftungsstadium | &permil; | Symptomatik |
+| --- | --- | --- | --- |
+|  | Euphorie | ab 0,3&permil; | Heiterkeit, gelöste Stimmung, Augen-/Gesichtsrötung |
+| I | Exzitation | ca. 0,5-1,5&permil; | fortschreitende Abnahme der Reaktionsgeschwindigkeit, Konzentrationsfähigkeit, Muskelkoordination und Schmerzempfinden; gestörter Gleichgewichtssinn, undeutliche Sprache (DD: Hypoglykämie), allgemeine Enthemmung bzw. Verlust der Selbstkontrolle |
+| II | Rausch/Hypnose | 1,5-2,5&permil; | schwere Koordinationsstörungen, Sehstörungen, Somnolenz, Tachykardie, geringes Schmerzempfinden, Erbrechen, Pupillen eher eng |
+| III | Narkose | ca. 2,5-3,5&permil; | sicheres Gehen unmöglich, Amnesie, Verwirtheit, Sopor/Koma, fehlende Schutzreflexe (Aspirationsgefahr), Unterzuckerung, weite Pupillen |
+| IV | Asphyxie | > 3,5&permil; | Koma, Atemlähmung, Schock, schwere Unterkühlung, Pupillen weit und reaktionslos => akute Lebensgefahr |
+
+### Komplikationen
++ Verletzungsgefahr
++ Übelkeit, Erbreche
++ Atem-Kreislauf-Stillstand
+
+
+## Drogen (G39)
+
+### Definition
+Auf Grund des vielfältigen Angebots ist eine klinische Toxologie für einzelne Drogen mittlwerweile fast unmöglich. Symptome können vielfältig und uncharakteristisch sein. Letztlich muss sich der Rettungsdienst anhand des Zustands des Patienten, der Umgebung und Situation und durch Fremdanamnese ein Bild machen.
+
+### Symptome
++ Bewusstseinsveränderungen
++ Hautveränderungen (Feuchtigkeit, Farbe)
++ Pupillenveränderung
++ Atem- und Herzfrequenz erhöht (180-200)
++ höhere Temperatur
++ Atemdepression
+
+### Komplikationen
++ Bewusstlosigkeit
++ Atemstörungen
++ Blutdruckanstieg
++ Hirnblutungen
++ Atem-Kreislauf-Stillstand
+
+
+## Lebensmittelvergiftung
+
+### Definition
+Durch Bakterien kontaminierte Nahrungsmittel und durch Bakterienstoffwechselprodukte. Besonders wenn mehere Personen nach dem Essen der gleichen Mahlzeit erkranken.
+
+### Symptome
++ Übelkeit, Erbrechen
++ Durchfall
++ Fieber
+
+
+## Vergiftung durch Pflanzenteile, Pilze (G41)
+
+### Definition
+Oft unbeachsichtigte Einnahme durch Verwechlung zb:
++ Herbstzeitlosenblätter
++ Tollkirsche
++ Goldregensamen
++ Knollenblätterpilz
+
+Selten Absicht:
++ Fliegenpilz
+
+### Symptome
++ Übelkeit, Erbrechen, Durchfall
+
+
+## Vergiftung durch Pestizide (G41)
+
+### Definition
+Heute selten va durch Insektizide oder Herbizide.
+
+### Maßnahmen
++ Rettung aus der Gefahrenzone (Eigenschutz!!!!)
++ evt Kleidung entfernen
+
+
+## CO Vergiftung (G42)
+
+### Definition
+CO blockiert das Hämoglobin für den Sauerstofftransport und ist ca 300 mal fester an das Hb gebunden als O2. CO Entsteht bei unvollständiger Verbrennung organischer Substanzen wie Auspuffgasen, Klimaanlagen, Gasthermen, Griller, Offene Feuer
+
+### Symptome
+| Anteil | Symptomatik |
+| --- | --- |
+| 10-20% CO-Hb | **Kopfschmerzen**, Übelkeit, Schwindel, Abgeschlagenheit |
+| 20-40% CO-Hb | Schwindel, Mattigkeit, Willenlosigkeit,  Fehleinschätzungen |
+| 40-50% CO-Hb | Rausch, Unruhe, Tobsuchtsanfälle, Tod (sofort oder erst nach Wochen durch Organhypoxie) |
+
++ Kopfschmerzen
++ Bewusstseinsstörungen bis Bewusstlosgkeit, neurologische Ausfälle
++ Tachykardie, evt Arrythmie, Blutdruckabfall
++ **keine typische Zyanose**
++ Übelkeit
++ Schwindel
++ Steigerung der Atemfrequenz
+
+### Komplikationen
++ Bewusstlosigkeit
++ Krämpfe
++ Atem-Kreislauf-Stillstand
+
+### Maßnahmen
++ Luftzufuhr
++ Rettung aus Gefahrenbereich (Eigenschutz)
++ Maximale Sauerstoffgabe
++ Absaugbereitschaft
+
+### zu beachten
++ Atemschutzmasken sind wirkungslos
++ Vergiftung schon bei geringer Konzentration
++ SpO2 nicht aussagekräftig
++ in geschlossenen Räumen Explosionsgefahr
+
+
+## CO2 Vergiftung
+
+### Definition
+Entsteht wie bei menschlicher Atmung als Stoffwechselendprodukt be organischen Gärvorgängen. (sinkt zu Boden = Kohlendioxidsee) Einatmen einer zu hohen Konzentration die am Boden absinkt. zb Weinkeller, Höhlen, Brunnenschächte, Silos. Geruchlos, farblos, nicht explosiv.
+
+### Symptome
++ Steigerung der Atemfrequenz
++ erhöhte Pulsfrequenz
++ Kopfschmerzen
++ Übelkeit
++ Erbrechen
++ Benommenheit
++ Verwirrtheit, Blutdruckanstieg bzw. –abfall
+
+### Komplikationen
++ Bewusstlosigkeit
++ Krämpfe
++ Atem-Kreislauf-Stillstand
+
+### Maßnahmen
++ Luftzufuhr
++ Rettung aus Gefahrenbereich (Eigenschutz)
++ Maximale Sauerstoffgabe
++ Absaugbereitschaft
+
+
+## Vergiftung durch Rauch- und Reizgase (G43)
+Je nach Gastypus können sich die Symptome mit Verzögerung einstellen. Reizgase können die Lungenbläschen schädigen und zu einem toxischem Lungenödem führen.
+
+Wichtige Gase:
++ Brandgase
++ Reizgase wie Tränengas und chemische Kampfstoffe, CS- und CN-Gas (Augenzeizstoffe)
++ Ammoniak
++ saure Gase (Enstehen beim Verdampefen von Säuren)
++ Nitrosegase - Stickoxide zb Salpetersäure in Düngemittel
++ Halogene
++ Schwefelwasserstoff
++ Phosgen - entseht beim Verbrennen von PVC oder beim Schweißen
+
+### Symptome
++ Hustenreiz
++ Tränenfluss
++ Schmerzen im Brustbereich
++ Atemnot
++ Zyanose
++ Schweiß
++ erhöhter Puls und Blutdruckabfall
++ Rasselnde Atemgeräusche
+
+### Komplikationen
++ Atemwegsobstruktion
++ Toxisches Lungenödem
+
+### Maßnahmen
++ Luftzufuhr
++ Rettung aus Gefahrenbereich (Eigenschutz)
++ Maximale Sauerstoffgabe
++ Absaugbereitschaft
 
 
 ## Psychiatrische Notfälle - *Ursachen, Symptome, Komplikationen, Maßnahmen*
