@@ -1,4 +1,4 @@
-# Traumatologischer Notfallcheck
+# Traumatologischer Notfallcheck (G9)
 
 ist due genaue körperliche Untersuchung durch Sehen, Tasten, Fühlen - durch den Einsatz unserer Sinne.
 
@@ -23,3 +23,41 @@ ist due genaue körperliche Untersuchung durch Sehen, Tasten, Fühlen - durch de
 + Brustbein
 + Rippen
 + auf Prellmarken achten
+
+## Bauch (Abdomen)
++ Vorsichtiges Abtasten des Bauches
++ Auf gespannte Bauchdecke achten
++ Auf Prellmarken achten
+
+## Becken
++ Vorsichtiges Abtasten des Beckens
++ Vorsichtig nach innen kippen
++ Auf Instbilität achten
+
+## Obere Extremitäten
++ Vorsichtiges Abtasten der Arme
++ MDS Kontrolle:
+  + Motorik: Finger bewegen
+  + Durchblutung:
+    + radialis tasten
+    + Hautfarbe
+    + Temperaturveränderungen
+    + Schwellungen
+    + Rekapillarisierung
+  + Sensibiltät:
+    + taubes Gefühl/Kribbeln vorhanden
+    + spürt der Patient die Berührung
+
+## Untere Extremitäten
++ Vorsichtiges Abtasten der Beine
++ MDS Kontrolle:
+  + Motorik: Zehen bewegen
+  + Durchblutung:
+    + Puls tasten 
+    + Hautfarbe
+    + Temperaturveränderungen
+    + Schwellungen
+    + Rekapillarisierung
+  + Sensibiltät:
+    + taubes Gefühl/Kribbeln vorhanden
+    + spürt der Patient die Berührung
