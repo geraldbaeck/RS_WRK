@@ -21,13 +21,18 @@ Hier findest Du Unterlagen und Notizen zur Ausbildung zum Rettungssanitäter bei
   + [Katastrophe und Großunfall](abschlusspruefung/katastrophe_2016.md)
 + ABCDE (Matthias Müller)
   + [ABCDE](abschlusspruefung/abcde.md)
+  + [FAST](abschlusspruefung/fast.md)
   + SAMPLE
   + OPQRST
-  + APVU
+  + AVPU
+  + Pupillenkontrolle
+  + Traumcheck
 + Trauma (Lucas Gabriel)
 + BLS (Andrea Baci)
 
+### Nice to know
 + [MPG](abschlusspruefung/mpg.md) - keine Prüfungsfragen, aber Querschnittsmaterie
++ Glasgow Coma Scale - Nicht mehr prüfungs- aber praxisrelevant
 
 ### Fragenkataloge
 + [Fragenkatalog 11/2016](abschlusspruefung/fragenkatalog_abschlusspruefung_rs_2016.pdf)

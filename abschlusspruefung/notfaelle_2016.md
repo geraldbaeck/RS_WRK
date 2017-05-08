@@ -1630,7 +1630,7 @@ Dabei enstehen Gasbläschen im Gefäßsystem (DCS) oder gelangen über die Lunge
 + Alle in den letzten 24h durchgeführten Tauchgänge ermitteln (Nullzeitüberschreitungen, Dekostopps, Tauchtiefen, Tauchdauer)
 
 
-## Psychiatrische Notfälle - *Ursachen, Symptome, Komplikationen, Maßnahmen*
+## Psychiatrische Notfälle  (G48)
 
 ### Definition
 ### Ursachen
