@@ -1633,6 +1633,139 @@ Dabei enstehen Gasbläschen im Gefäßsystem (DCS) oder gelangen über die Lunge
 ## Psychiatrische Notfälle  (G48)
 
 ### Definition
+Akute schwerwiegende Störung des Denkens, der Stimmung, des Verhaltens oder sozialer Beziehung, wodurch es zur Selbst- oder Fremdgefährdung kommen kann.
+
+Bei Psychisch auffälligen Patienten ist trotdem immer zuerst von einer behandlungsbedürftigen Notfallerkrankung auszugehen.
+
+| Psychiatrische Notfallbilder | Pharmakologisch-toxische Einwirkungen | Andere Notfälle |
+| --- | --- | --- |
+| <ul><li>Erregungszustand</li><li>Selbsttötungsabsicht</li><li>Bewusstseinsstörungen</li><li>Stupor und Katatonie</li></ul>| <ul><li>Medikamente</li><li>Alkohol, Drogen</li><li>Vergiftungen</li></ul> | <ul><li>Hypoglykämie</li><li>Meningitis</li><li>Schlaganfall</li><li>Hyperventilationssyndrom</li><li>Schock</li></ul> |
+
+### Maßnahmen
+Nicht agressiver Patient:
++ Gespräch suchen, persönliche Anrede verwenden
++ Interesse signalisieren, gezielt nachfragen, aufmerksam zuhören
+
+Agressiver Patient:
++ Selbstschutz
++ Keine Gewalt anwenden
++ Agressionsabbau abwarten
++ Polizei verständigen
+
+### Differentialdiagnosen
++ Hypoglykämie
++ Epilepsie
+
+### Zu beachten
+Bei Zwangseinweisung
++ muss der Patient auf der Trage tronsportiert werden
++ muss die Polizei im Patientenraum ständig anwesend sein  
+
+
+## Psychiatrische Notfälle  - Schizophrenie (G49)
+
+### Definition
+Störung des Denkens, des Antriebs und der Wahrnehmung, Affektstörungen
+### Symptome
++ Wahn
++ Halluzinationen
++ Unruhe
++ Anspannung
+
+
+
+## Psychiatrische Notfälle - Bipolare Störung (manisch-depressiv) (G49)
+
+### Definition
+Manische und depressive Phasen wechseln sich ab.
+
+### Symptome
+Depression:
++ gedämpfte Stimmung
++ Antriebslosigkeit
++ Ausdruck der Hoffnungslosigkeit
++ Konzentrationsstörungen
++ Suizidgedanken
+
+Manie:
++ Gehobene Stimmung
++ Rededrang
++ Impulsivität
++ Antriebssteigerung
+
+
+## Psychiatrische Notfälle - Angststörung, Panikattacken  (G51)
+
+### Definition
+Das Gefühl der Angst steht im Vordergrund und schränkt das unmittelbare Handel und das Leben in vielen Bereichen ein. Können durch gerichtete (Phobien) oder ungerichtete Ängste (Panikstörung) ausgelöst werden. Im Rettungsdienst begegnen uns oft Patienten, die fürchten an einer Lebensgefährlichen Erkrankung zu leiden.
+
+### Symptome
++ Herzrasen, Herzklopfen, Herzstolpern
++ Mundtrockenheit, Unruhe, Zittern, Kribbeln
++ Schweißausbrüche (nicht Kaltschweißigkeit)
++ Hitzegefühl oder Kälteschauer
++ Engegefühl in Brust und Kehle, Erstickungsgefühl ggf Hyperventilation
++ Depersonalitätsgefühle und Derealisationsgefühle
+
+### Komplikationen
++ Hyperventilationssyndrom
+
+### Maßnahmen
++ Genaue Anamnese
++ Ruhe ausstrahlen
+
+
+## Psychiatrische Notfälle - Akute Belastungsreaktion  (G51)
+
+### Definition
+Reaktion auf eine außerordentliche psychische Belastung, für deren Bewältigung der Betroffene keine Strategie hat.
+Häufige Ereignisse sind:
++ Tod eines Angehörigen
++ Gewalterfahrung
++ Unfallerlebniss
+
+### Symptome
++ Bewusstseinseinengung (wirkt wie betäubt)
++ Desorientiertheit
++ Verzögerte Reaktion
++ Symptome einer Panikattacke
+
+### Maßnahmen
++ Beziehungsaufbau (keine Vorwürfe)
++ evt Kriseninterventionsteam
+
+
+## Psychiatrische Notfälle - Suizid (G52)
+
+### Definition
+Psychaitrische Erkrankung haben ein hohes Risiko zu einem Suizidversuch zu führen. Es gibt keine eindeutigen Anzeichen. Jede Form der Andeutung zur Selbsttötung ist daher ernst zu nehmen.
+
+### Ursachen
+Besonders gefährdet sind Menschen:
++ mit psychischen Störungen
++ mit Drogenabusus
++ sehr alte
++ chronisch, unheilbar Kranke
++ in Lebenskrisen
++ nach Lebensverändernden Ereignissen (zb Flucht, Unfall, Scheidung)
+
+### Präsuizidales Syndrom
++ Antriebssteigerung
++ Aussagen über Sinnlosigkeit des Lebens
++ unerklärte plötzliche Ruhe
++ Selbstverletzungen
++ Schreiben von Testament
+
+### Maßnahmen
++ Kriseninterventionsteam
++ Beziehungsaufbau
++ Suizidgedanken direkt ansprechen
++ notfalls Polizei rufen
+
+
+## Schwangerschaft und Geburt (G53)
+
+### Definition
 ### Ursachen
 ### Symptome
 ### Komplikationen
