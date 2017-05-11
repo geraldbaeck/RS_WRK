@@ -288,7 +288,7 @@ COPD wird in GOLD-Stadien eingeteilt. Wichtigstes Kriterium für die Einteilung 
 | --- | --- | --- |    
 | I (leicht) | ≥ 80% Soll | < 70% |
 | II (mittel) | 50% - 80% Soll | < 70% |
-| III (schwer) | 30% Soll - 50% Soll	< 70% |
+| III (schwer) | 30% Soll - 50% Soll | < 70% |
 | IV (sehr schwer) | ≤ 30% Soll oder <br/>< 50% Soll plus chronische respiratorische Insuffizienz | < 70% |
 
 ### Ursachen
@@ -1764,6 +1764,209 @@ Besonders gefährdet sind Menschen:
 
 
 ## Schwangerschaft und Geburt (G53)
+
+**Gebärmutter** ist 8cm großer Hohlmuskel, dehnt sich bei Schwangerschaft aus.
+**Plazenta**: Mutterkuchen – dient zur Versorgung von O2, Ernährung und Stoffwechselausscheidungen des Kindes und Hormonproduktion für Erhaltung der Schwangerschaft.
+**Eihäute**: setzen an der Plazenta an und bildenen einen mit Fruchtwasser gefüllten Fruchtsack in dem das Kind durch die Nabelschnur mit Plazenta verbunden, schwimmt. Fruchtwasser hat Stoßdämpferfunktion.
+
+| Bezeichnung | SSW | Gewicht | Lebenszeichen |
+| --- | --- | --- | --- |
+| Fehlgeburt | - | < 500g | tot geboren |
+| Totgeburt | - | > 500g | tot geboren |
+| frühgeborene Lebendgeburt (Frühgeburt) | < 37 SSW | > 500g | Nach Scheidung vom Mutterleib:<ul><li>Herzschlag oder</li><li>Nableschnurpulsation oder</li><li>Lungenatmung oder</li><li>willkürliche Muskelbewegung (nur Ö)</li></ul> |
+
+
+# Schwangerschaftskomplikationen - Erste Hälfte -  Eileiterschwangerschaft (G54)
+
+### Definition
+Befruchtete Eizelle nistet sich im Eileiter oder in der Bauchöhle ein. Durch das Wachstum des Follikels kommt es zu einer Zerreißung des Eileiters und damit zu lebensbedrohlichen Blutungen.
+
+### Symptome
++ Starke Schmerzen im Unterbauch
++ evt geringe vaginale Blutungen
+
+### Komplikationen
++ starke Blutung
+
+### Maßnahmen
++ Lagerung nach Fritsch
++ Voranmeldung im KH
+
+
+# Schwangerschaftskomplikationen - Erste Hälfte -  Fehlgeburt (Abortus) (G54)
+
+### Definition
+Auf Grund verschiedener Ursacher kann es zu einer Ausstoßung des Fötus (unter 500g) kommen.
+
+### Symptome
++ vaginale Blutung
++ Wehenartige, ziehende Schmerzen
++ evt Abgang von Gewebeteilen
+
+### Komplikationen
++ starke Blutung
+
+
+# Schwangerschaftskomplikationen - Zweite Hälfte -  Frühgeburt (G55)
+
+### Definition
+Vor der 37. SSW. Überlebenschance besteht ab der 24. SSW
+
+### Symptome
++ Geburtsbeginn
+
+### Komplikationen für das Kind
++ Atemstörung
++ Atem-Kreislaufstillstand
++ Unterkühlung
+
+### Maßnahmen
++ wie normale Geburt
++ Wärmeerhalt
++ Kontrolle der Lebensfunktionen
+
+
+# Schwangerschaftskomplikationen - Zweite Hälfte -  Placenta praevia (G55)
+
+### Definition
+Mutterkuchen liegt vor Muttermund – Geburtskanal verdeckt. Dadurch kann es zu Blutungen kommen. Fehllage wird überlicherweise bei routinemäßigen Ultraschalluntersuchungen entdeckt.
+
+### Symptome
++ Schmerzfreie vaginale Blutung
+
+### Komplikationen
++ Lebensgefahr für Mutter und Kind
+
+### Maßnahmen
++ Lagerung nach Fritsch
+
+
+# Schwangerschaftskomplikationen - Zweite Hälfte -  Vorzeitige Plazentalösung (G55)
+
+### Definition
+Durch Gewalteinwirkung oder Erkrankungen (Eklampsie) kann es zu einer vorzeitigen Ablösung der Plazenta kommen. Dadurch wird die Versorgung des Kindes eingeschränkt bzw unterbunden.
+
+### Symptome
++ Plötzlich auftretende Schmerzen
++ Gespannte Bauchdecke
++ Vaginale Blutung (unterschiedlich stark)
+
+### Komplikationen
++ Lebensgefahr für Mutter und Kind
+
+### Maßnahmen
++ Lagerung nach Fritsch
+
+
+# Schwangerschaftskomplikationen - Zweite Hälfte -  Vorzeitige Plazentalösung (G55)
+
+### Definition
+### Ursachen
+### Symptome
+### Komplikationen
+### Maßnahmen
+### Anamnese
+### Differentialdiagnosen
+### Zu beachten
+
+
+# Schwangerschaftskomplikationen - Zweite Hälfte -  Vorzeitige Plazentalösung (G55)
+
+### Definition
+### Ursachen
+### Symptome
+### Komplikationen
+### Maßnahmen
+### Anamnese
+### Differentialdiagnosen
+### Zu beachten
+
+
+# Schwangerschaftskomplikationen - Zweite Hälfte -  Vorzeitige Plazentalösung (G55)
+
+### Definition
+### Ursachen
+### Symptome
+### Komplikationen
+### Maßnahmen
+### Anamnese
+### Differentialdiagnosen
+### Zu beachten
+
+
+# Schwangerschaftskomplikationen - Zweite Hälfte -  Vorzeitige Plazentalösung (G55)
+
+### Definition
+### Ursachen
+### Symptome
+### Komplikationen
+### Maßnahmen
+### Anamnese
+### Differentialdiagnosen
+### Zu beachten
+
+
+# Schwangerschaftskomplikationen - Zweite Hälfte -  Vorzeitige Plazentalösung (G55)
+
+### Definition
+### Ursachen
+### Symptome
+### Komplikationen
+### Maßnahmen
+### Anamnese
+### Differentialdiagnosen
+### Zu beachten
+
+
+# Schwangerschaftskomplikationen - Zweite Hälfte -  Vorzeitige Plazentalösung (G55)
+
+### Definition
+### Ursachen
+### Symptome
+### Komplikationen
+### Maßnahmen
+### Anamnese
+### Differentialdiagnosen
+### Zu beachten
+
+
+# Schwangerschaftskomplikationen - Zweite Hälfte -  Vorzeitige Plazentalösung (G55)
+
+### Definition
+### Ursachen
+### Symptome
+### Komplikationen
+### Maßnahmen
+### Anamnese
+### Differentialdiagnosen
+### Zu beachten
+
+
+# Schwangerschaftskomplikationen - Zweite Hälfte -  Vorzeitige Plazentalösung (G55)
+
+### Definition
+### Ursachen
+### Symptome
+### Komplikationen
+### Maßnahmen
+### Anamnese
+### Differentialdiagnosen
+### Zu beachten
+
+
+# Schwangerschaftskomplikationen - Zweite Hälfte -  Vorzeitige Plazentalösung (G55)
+
+### Definition
+### Ursachen
+### Symptome
+### Komplikationen
+### Maßnahmen
+### Anamnese
+### Differentialdiagnosen
+### Zu beachten
+
+
+# Schwangerschaftskomplikationen - Zweite Hälfte -  Vorzeitige Plazentalösung (G55)
 
 ### Definition
 ### Ursachen
