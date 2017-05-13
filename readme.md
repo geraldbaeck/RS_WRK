@@ -14,6 +14,7 @@ Hier findest Du Unterlagen und Notizen zur Ausbildung zum Rettungssanitäter bei
   + [Anatomie](abschlusspruefung/anatomie_2016.md)
   + [Hygiene](abschlusspruefung/hygiene_2016.md)
   + [Notfälle bei verschiedenen Krankheitsbildern, spezielle Notfälle](abschlusspruefung/notfaelle_2016.md)
+  + [Geburt](abschlusspruefung/geburt.md)
   + [Kindernotfälle](abschlusspruefung/kinder.md)
 + G&K / Rettungswesen (Erwin Hörack)
   + [Rechtliche Grundlagen](abschlusspruefung/recht_2016.md)
