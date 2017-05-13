@@ -1858,134 +1858,56 @@ Durch Gewalteinwirkung oder Erkrankungen (Eklampsie) kann es zu einer vorzeitige
 + Lagerung nach Fritsch
 
 
-# Schwangerschaftskomplikationen - Zweite Hälfte -  Vorzeitige Plazentalösung (G55)
+# Schwangerschaftskomplikationen - Zweite Hälfte -  Vena-Cava-Kompressionssyndrom (G56)
 
 ### Definition
-### Ursachen
+Das gewicht der Gebärmutter drückt in Rückenlage auf die untere Hohlvene. Dadurch wird der Rückfluss des Blutes verhindert und es kann zum Kollaps kommen.
+
 ### Symptome
++ Kollaps
++ Schwindel
++ Übelkeit
+
 ### Komplikationen
++ Bewusstlosigkeit
+
 ### Maßnahmen
-### Anamnese
-### Differentialdiagnosen
-### Zu beachten
++ Linksseitenlage
 
 
-# Schwangerschaftskomplikationen - Zweite Hälfte -  Vorzeitige Plazentalösung (G55)
+# Schwangerschaftskomplikationen - Zweite Hälfte -  Schwangerschaftsinduzierte Hypertonie und Eklampsie (G56)
 
 ### Definition
-### Ursachen
+In de letzten Monaten der SW oder während der Geburt kann es zu Krampfanfällen kommen, die das Leben von Mutter und Kind gefährden können.
+
 ### Symptome
++ Hypertonie
++ Ödeme
++ Krämpfe
+
 ### Komplikationen
++ Lebensgefahr für Mutter und Kind
+
 ### Maßnahmen
-### Anamnese
-### Differentialdiagnosen
-### Zu beachten
++ Leicht erhöhter Oberkörper in linker Seitenlage
 
 
-# Schwangerschaftskomplikationen - Zweite Hälfte -  Vorzeitige Plazentalösung (G55)
+# Schwangerschaftskomplikationen - Zweite Hälfte -  Nabelschnurvorfall (G56)
 
 ### Definition
-### Ursachen
+Nach dem Blasensprung kann sich die Nabelschnur um das Kind wickeln. Während der Geburt wird die Nabelschnur im Geburtskanal abgeklemmt => Kind unterversorgt.
+
 ### Symptome
++ Blasensprung
++ Abgang von Blut, Schleim, Fruchtwasser
++ Aus der Scheide hängende Nabelschnur
+
 ### Komplikationen
++ Lebensgefahr für das Kind
+
 ### Maßnahmen
-### Anamnese
-### Differentialdiagnosen
-### Zu beachten
-
-
-# Schwangerschaftskomplikationen - Zweite Hälfte -  Vorzeitige Plazentalösung (G55)
-
-### Definition
-### Ursachen
-### Symptome
-### Komplikationen
-### Maßnahmen
-### Anamnese
-### Differentialdiagnosen
-### Zu beachten
-
-
-# Schwangerschaftskomplikationen - Zweite Hälfte -  Vorzeitige Plazentalösung (G55)
-
-### Definition
-### Ursachen
-### Symptome
-### Komplikationen
-### Maßnahmen
-### Anamnese
-### Differentialdiagnosen
-### Zu beachten
-
-
-# Schwangerschaftskomplikationen - Zweite Hälfte -  Vorzeitige Plazentalösung (G55)
-
-### Definition
-### Ursachen
-### Symptome
-### Komplikationen
-### Maßnahmen
-### Anamnese
-### Differentialdiagnosen
-### Zu beachten
-
-
-# Schwangerschaftskomplikationen - Zweite Hälfte -  Vorzeitige Plazentalösung (G55)
-
-### Definition
-### Ursachen
-### Symptome
-### Komplikationen
-### Maßnahmen
-### Anamnese
-### Differentialdiagnosen
-### Zu beachten
-
-
-# Schwangerschaftskomplikationen - Zweite Hälfte -  Vorzeitige Plazentalösung (G55)
-
-### Definition
-### Ursachen
-### Symptome
-### Komplikationen
-### Maßnahmen
-### Anamnese
-### Differentialdiagnosen
-### Zu beachten
-
-
-# Schwangerschaftskomplikationen - Zweite Hälfte -  Vorzeitige Plazentalösung (G55)
-
-### Definition
-### Ursachen
-### Symptome
-### Komplikationen
-### Maßnahmen
-### Anamnese
-### Differentialdiagnosen
-### Zu beachten
-
-
-# Schwangerschaftskomplikationen - Zweite Hälfte -  Vorzeitige Plazentalösung (G55)
-
-### Definition
-### Ursachen
-### Symptome
-### Komplikationen
-### Maßnahmen
-### Anamnese
-### Differentialdiagnosen
-### Zu beachten
-
-
-## Normale Geburt - *Phasen und Ablauf*
-
-### Anamnese
-+ Mutter-Kind-Pass!!!!!!!!!!!!!
-+ die wie vielte Geburt
-+ wie verliefen die Geburten vorher
-
-### Zu beachten
++ Flache Rückenlage
++ Becken Hochlagern
 
 
 ## Akutes Abdomen
