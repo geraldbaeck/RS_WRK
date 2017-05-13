@@ -1,6 +1,6 @@
 # Traumatologischer Notfallcheck (G9)
 
-ist due genaue körperliche Untersuchung durch Sehen, Tasten, Fühlen - durch den Einsatz unserer Sinne.
+ist die genaue körperliche Untersuchung durch Sehen, Tasten, Fühlen - durch den Einsatz unserer Sinne.
 
 ## Generell
 + Mit dem Patienten sprechen und darüber informieren, was man tut
@@ -53,7 +53,7 @@ ist due genaue körperliche Untersuchung durch Sehen, Tasten, Fühlen - durch de
 + MDS Kontrolle:
   + Motorik: Zehen bewegen
   + Durchblutung:
-    + Puls tasten 
+    + Puls tasten
     + Hautfarbe
     + Temperaturveränderungen
     + Schwellungen
@@ -61,3 +61,10 @@ ist due genaue körperliche Untersuchung durch Sehen, Tasten, Fühlen - durch de
   + Sensibiltät:
     + taubes Gefühl/Kribbeln vorhanden
     + spürt der Patient die Berührung
+
+
+# Media
+
+[ASB Dortmund HWS Immobilisiation](https://www.youtube.com/watch?v=H4qRrbceFPQ&t=7)
+[ASB Dortmund Stiffneck](https://www.youtube.com/watch?v=H4qRrbceFPQ&t=166)
+[ASB Dortmund Tourniquet](https://www.youtube.com/watch?v=H4qRrbceFPQ&t=251)
