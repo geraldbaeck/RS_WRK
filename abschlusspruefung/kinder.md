@@ -26,4 +26,4 @@
 
 ## Akute Verlegung der Atemwege
 
-![Akute Verlegung der Atemwege](charts/Kinder_VerlegungAtemwege.svg)
+![Akute Verlegung der Atemwege](/charts/Kinder_VerlegungAtemwege.svg)
