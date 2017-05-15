@@ -15,3 +15,15 @@
 + Schwellungen können dadurch die Atemwege sehr schnell verengen/schließen
 + Zunge ist relativ groß, Speichelfluss stark
 + Der Kehlkopf liegt höher und ist gekippt => höhere Atemnotswahrscheinlichkeit
+
+## Normwerte
+
+| Alter | Gewicht | AF | HF | RR Systole |
+| --- | --: | --- | --- | --- |
+| Säugling | 3-8 | 120 | 60 |
+| Kind | 8-35 | 20 | 100 | 90 |
+| Erwachsener | 35+ | 12-15 | 80 | 120 |
+
+## Akute Verlegung der Atemwege
+
+![Akute Verlegung der Atemwege](charts/Akute Verlegung der Atemwege.svg)
