@@ -11,3 +11,5 @@
 ## EKG - Amplitude (min/max Ausschlag), Frequenz (Schwingungsdauer), Flankensteilheit
 
 ## Venflon - Mandril
+
+##  7 Hals-, 12 Brust- und 5 Lendenwirbel, Kreuz- und Steißbein
