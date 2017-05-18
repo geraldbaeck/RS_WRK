@@ -16,19 +16,19 @@ Hier findest Du Unterlagen und Notizen zur Ausbildung zum Rettungssanitäter bei
   + [Notfälle bei verschiedenen Krankheitsbildern, spezielle Notfälle](abschlusspruefung/notfaelle_2016.md)
   + [Geburt](abschlusspruefung/geburt.md)
   + [Kindernotfälle](abschlusspruefung/kinder.md)
-+ G&K / Rettungswesen (Erwin Hörack)
++ G&K / Rettungswesen (tba)
   + [Rechtliche Grundlagen](abschlusspruefung/recht_2016.md)
   + [Rettungswesen](abschlusspruefung/rettungswesen_2016.md)
   + [Katastrophe und Großunfall](abschlusspruefung/katastrophe_2016.md)
 + ABCDE (Matthias Müller)
   + [ABCDE](abschlusspruefung/abcde.md)
   + [FAST](abschlusspruefung/fast.md)
-  + SAMPLE
+  + [SAMPLE](abschlusspruefung/SAMPLE.md)
   + OPQRST
   + AVPU
-  + Pupillenkontrolle
-  + Traumcheck
+  + [Pupillenkontrolle](abschlusspruefung/pupillenkontrolle.md)
 + Trauma (Lucas Gabriel)
+  + [Traumacheck](abschlusspruefung/traumacheck.md)
 + BLS (Andrea Baci)
 
 ### Nice to know
@@ -38,18 +38,6 @@ Hier findest Du Unterlagen und Notizen zur Ausbildung zum Rettungssanitäter bei
 ### Fragenkataloge
 + [Fragenkatalog 11/2016](abschlusspruefung/fragenkatalog_abschlusspruefung_rs_2016.pdf)
 + [Fragenkatalog 2015](abschlusspruefung/fragenkatalog_abschlusspruefung_RS.pdf)
-
-### Prüfungshilfen
-Die Fragen stammen aus dem [Fragesystem des ABZ](https://intranet.wrk.at/confluence/display/FWuV/Fragenprogramm+RS-Mappe#FragenprogrammRS-Mappe-Wiekommeichhinein?) und decken das gesamte Spektrum ab, die Prüfungsfragen sind jedoch von anderer Zusammensetzung, werden aber voraussichtlich nicht publiziert.
-+ Anatomie | [Fragen](abschlusspruefung/anatomie.md) | [Multiple Coice](abschlusspruefung/anatomie_ms.md)
-+ Störungen der Lebensfunktionen | [Fragen](abschlusspruefung/stoerungen_der_lebensfunktionen.md) | [Multiple Choice](abschlusspruefung/stoerungen_der_lebensfunktionen_ms.md)
-+ [Der Sanitäter, der Patient](abschlusspruefung/sanitaeter.md)
-+ [Hygiene](abschlusspruefung/hygiene.md)
-+ [Rechtliche Grundlagen](abschlusspruefung/recht.md)
-+ [Notfälle bei verschiedenen Krankheitsbildern](abschlusspruefung/notfaelle.md)
-+ [Spezielle Notfälle](abschlusspruefung/speziellenotfaelle.md)
-+ [Gerätelehre und Sanitätstechnik](abschlusspruefung/geraete.md)
-+ [Stressverarbeitung nach belastenden Einsätzen](abschlusspruefung/stress.md)
 
 ### Media
 + [Bedienungsanleitungen](https://intranet.wrk.at/confluence/display/RD/RD+Bedienungsanleitungen)
