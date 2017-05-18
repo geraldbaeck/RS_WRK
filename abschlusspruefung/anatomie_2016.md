@@ -163,12 +163,12 @@ Der Blutkreislauf besteht aus Lungenkreislauf (Funktion: Gasaustausch) und Körp
   + Thrombozyten (Bp)
 
 ### Aufgaben
-• Transport von Sauerstoff, Wasser Hormonen usw. zu den Zellen
-• Abtransport von Kohlendioxid, Abfallprodukten zu Ausscheidungsorganen (Lunge, Niere)
-• Gerinnungsfunktion bei Verletzung
-• Versorgung mit Abwehrstoffen und Schutz vor Infektionen
-• Pufferfunktion bei Schwankungen des pH-Wertes
-• Träger der Blutgruppeneigenschaften
++ Transport von Sauerstoff, Wasser Hormonen usw. zu den Zellen
++ Abtransport von Kohlendioxid, Abfallprodukten zu Ausscheidungsorganen (Lunge, Niere)
++ Gerinnungsfunktion bei Verletzung
++ Versorgung mit Abwehrstoffen und Schutz vor Infektionen
++ Pufferfunktion bei Schwankungen des pH-Wertes
++ Träger der Blutgruppeneigenschaften
 
 ### Milz
 Liegt im linken Oberbauch, geschützt unter Rippenbogen. Teil der weißen Blutkörperchen wird hier gebildet (bei Embryos und Kleinkindern) und gespeichert, rote Blutkörperchen werden hier abgebaut und ins Blut eingedrungene Krankheitserreger abgefangen und abgewehrt.
@@ -275,7 +275,7 @@ Wird durch die Tätigkeit des Herzens erzeugt, abhängig von:
 **Diastole**: Druck beim Erschlaffen des Herzmuskels
 
 #### Werte
-| | systolisch (mmHg) | | diastolisch (mmHg) |
+| &nbsp; | systolisch (mmHg) | &nbsp; | diastolisch (mmHg) |
 | --- | --: | -:- | --: |
 | Hypotonie | < 100 | oder | < 60 |
 | Normotonie | 100-140 | und | 60-90 |
