@@ -2,44 +2,47 @@
 
 ## Atemwege
 
-Nase
-=> Nebenhöhlen
-=> Pharynx (Rachen)
-=> Larynx (Kehlkopf)
-=> Trachea (Luftröhre)
-=> Bronchien
-=> Alveolen (Lungenbläschen)
+Nase  
+=> Nebenhöhlen  
+=> Pharynx (Rachen)  
+=> Larynx (Kehlkopf)  
+=> Trachea (Luftröhre)  
+=> Bronchien  
+=> Alveolen (Lungenbläschen)  
 
-Nase und Nasenhöhle: Riechen, Anfeuchten, Erwärmen und Filtern
+**Nase und Nasenhöhle**:
++ Riechen
++ Anfeuchten
++ Erwärmen und Filtern
 
-Nebenhöhlen:
+**Nebenhöhlen**:
 + Stirnbeinhöhlen
 + Keilbeinhöhlen
 + Siebbeinhöhlen
 + Kieferhöhlen
 + Aufgabe: Gewichtreduzierung, Oberflächengewinn in der Nase
 
-Rachen:
+**Rachen**:
 + Weiche zw Luft- und Speiseröhre
 + Mandeln für Immunabwehr
 
-Kehlkopf:
+**Kehlkopf**:
 + verschließt Speiseröhre beim Schlucken
 + Stimmbildung
 
-Luftröhre:
+**Luftröhre**:
 + besteht aus Knorpelspangen, wichtig, dass die Luftröhre stabil bleibt
 + Muskelschicht, damit sich die Röhre auch biegen kann
 
-Bronchien:
+**Bronchien**:
 + verteilt die Luft in der Lunge, verästelt sich auf mikroskopgröße
 + Festkörper landen meistens recht, welcher der rechte Ast steiler ist und der linke "abbiegt"
 
-Alveolen:
+**Alveolen**:
 + die "Sackgasse" der Lunge
 + Gasaustausch = Abgabe von Sauerstoff ins Blut und CO2 aus dem Blut
 
-Lunge:
+**Lunge**:
 + rechts drei Lappen
 + links zwei Lappen
 + wird von den Rippen geschützt
@@ -126,27 +129,27 @@ Jede Störung des Kreislaufs zieht Störung der Durchblutung und somit Sauerstof
 ### Übersicht
 Der Blutkreislauf besteht aus Lungenkreislauf (Funktion: Gasaustausch) und Körperkreislauf (Funktion: Gasaustausch und Ernährung etc.) und wird durch Pumpfunktion des Herzens aufrechterhalten.
 
-=> sauerstoffreiches Blut
-=> Linker Vorhof
-=> linke Kammer
-=> Aorta
-=> Arterien
-=> Arteriolen
-=> Kapillaren
-=> Gasaustausch
-=> Venolen
-=> Venen
-=> Vena Cava
-=> Rechter Vorhof
-=> Rechte Kammer
-=> Lungenarterie
-=> Gasaustausch
-=> Lungenvene
+=> sauerstoffreiches Blut  
+=> Linker Vorhof  
+=> linke Kammer  
+=> Aorta  
+=> Arterien  
+=> Arteriolen  
+=> Kapillaren  
+=> Gasaustausch  
+=> Venolen  
+=> Venen  
+=> Vena Cava  
+=> Rechter Vorhof  
+=> Rechte Kammer  
+=> Lungenarterie  
+=> Gasaustausch  
+=> Lungenvene  
 => Linker Vorhof ===>
 
 ## Blut
 
-### Betandteile
+### Bestandteile
 + 55% Flüssigkeit (Blutplasma)
   + Wasser
   + Fibrinogen
@@ -262,8 +265,8 @@ Herzmuskel (Myokard) benötigt elektrischen Impuls, um sich zu kontrahieren. Her
 
 ### Herzfrequenz
 Gibt die Schläge pro Minute an. Normaler Puls bei Erw: 60-100/min.
-**Tachykardie**: über 100/min
-**Bradykardie**: unter 60/min
++ **Tachykardie**: über 100/min
++ **Bradykardie**: unter 60/min
 
 ### Blutdruck
 Wird durch die Tätigkeit des Herzens erzeugt, abhängig von:
@@ -282,10 +285,10 @@ Wird durch die Tätigkeit des Herzens erzeugt, abhängig von:
 | Hypertonie | > 140 | oder | > 90 |
 
 
-[![Alt text](https://img.youtube.com/vi/x2_Elv_ceYA/0.jpg)](https://www.youtube.com/watch?v=x2_Elv_ceYA)
-[![Alt text](https://img.youtube.com/vi/qmy98HNpjOM/0.jpg)](https://www.youtube.com/watch?v=qmy98HNpjOM)
-[![Alt text](https://img.youtube.com/vi/n_tKRmrj-tE/0.jpg)](https://www.youtube.com/watch?v=n_tKRmrj-tE)
-[![Alt text](https://img.youtube.com/vi/tID2fPR2pA8/0.jpg)](https://www.youtube.com/watch?v=tID2fPR2pA8)
+[![Alt text](https://img.youtube.com/vi/x2_Elv_ceYA/0.jpg)](https://www.youtube.com/watch?v=x2_Elv_ceYA)  
+[![Alt text](https://img.youtube.com/vi/qmy98HNpjOM/0.jpg)](https://www.youtube.com/watch?v=qmy98HNpjOM)  
+[![Alt text](https://img.youtube.com/vi/n_tKRmrj-tE/0.jpg)](https://www.youtube.com/watch?v=n_tKRmrj-tE)  
+[![Alt text](https://img.youtube.com/vi/tID2fPR2pA8/0.jpg)](https://www.youtube.com/watch?v=tID2fPR2pA8)  
 
 
 ## Haut - *Bestandteile, Aufbau und Funktionsweise*
@@ -314,25 +317,28 @@ Ist die äußere Schutzschicht des Menschen.
 
 
 ## Sinnesorgane
-+ Über Haut wird Temperatur oder Schmerz wahrgenommen.
-+ Sehen: Großteil der Wahrnehmung wird vom Sehsinn beeinflusst. Über Auge werden Informationen aufgenommen und über Sehnerv an Gehirn weitergeleitet. Augapfel ist in vorderen Teil der Augenhöhle eingebettet und wird vom Augenlid geschützt.
-+ Hören: Neben Gehörorgan befindet sich auch Gleichgewichtsorgan im Ohr.
-+ Riechen und Schmecken: Durch Nase wird nicht nur Atemluft aufgenommen, sondern auch Gerüche. Geschmacksrezeptoren sitzen auf Zunge. Erst in Verbindung mit Riechrezeptoren können über salzig, sauer, bitter und süß hinausgehende Eindrücke verarbeitet werden.
++ Über **Haut wird Temperatur und Schmerz** wahrgenommen.
++ **Sehen**: Großteil der Wahrnehmung wird vom Sehsinn beeinflusst. Über Auge werden Informationen aufgenommen und über Sehnerv an Gehirn weitergeleitet. Augapfel ist in vorderen Teil der Augenhöhle eingebettet und wird vom Augenlid geschützt.
++ **Hören**: Neben Gehörorgan befindet sich auch Gleichgewichtsorgan im Ohr.
++ **Riechen und Schmecken**: Durch Nase wird nicht nur Atemluft aufgenommen, sondern auch Gerüche. Geschmacksrezeptoren sitzen auf Zunge. Erst in Verbindung mit Riechrezeptoren können über salzig, sauer, bitter und süß hinausgehende Eindrücke verarbeitet werden.
 
 
 ## Skelett
 
 ### Knochen
 + bilden das Skelett und verleihen Körper Halt und Form.
-+ Schützen die inneren Organe
-+ dienen den Muskeln als Ansatz, wodurch Bewegungen erst möglich sind
++ schützen die inneren Organe
++ dienen den Muskeln als Ansatz => Bewegungen
 + von Knochenhaut umhüllt, die von Blutgefäßen und Nerven durchzogen ist
-+ Knochenmark ist Bildungsstätte von roten und zum Teil von weißen Blutkörperchen
++ Knochenmark ist Bildungsstätte von roten und zum Teil weißen Blutkörperchen
 
-**Röhrenknochen**: an Extremitäten zu finden
-**Platte Knochen**: Schädel oder Becken
 
-Knochen sind durch Gelenke miteinander verbunden und dadurch beweglich. Gelenk wird durch Gelenkskapsel und Bänder zusammengehalten.
++ **Röhrenknochen**: an Extremitäten zu finden
++ **Platte Knochen**: Schädel oder Becken
+
+### Gelenke
++ **Knochen sind durch Gelenke miteinander verbunden** und dadurch beweglich.
++ Gelenk wird **durch Gelenkskapsel und Bänder zusammengehalten**
 
 ### Schädel
 + Schutzkapsel fürs Gehirn & Sinnesorgane
@@ -401,7 +407,7 @@ Unterschenkel mündet ins Sprunggelenk (Verbindung von Scheinbein, Wadenbein, Sp
 Fußknochen bestehen aus Fußwurzelknochen, Mittelfußknochen und Zehen.
 
 
-## Muskulatur - *Arten, Aufbau und Funktionsweise*
+## Muskulatur
 Alle Bewegungen des Körpers werden durch Zusammenwirken von Muskulatur und knöchernem Skelett ermöglicht. Bewegung entsteht durch Verkürzung der Muskeln.
 
 Reize, die über Nervenbahnen zu den Muskelzellen geleitet werden, ziehen sich Muskeln zusammen, nach Beendigung des Reizes erschlaffen sie wieder.
@@ -409,10 +415,10 @@ Reize, die über Nervenbahnen zu den Muskelzellen geleitet werden, ziehen sich M
 Da sich unsere Skelettmuskulatur nur zusammen ziehen aber nicht ausdehnen kann, hat der Muskel einen Gegenspieler (zb Bizeps, Trizeps). Unser Muskeln sind immer in einem leichten Spannungszustand (Ausnahme Bewusstlosigkeit), das bewirkt bei Knochenbrüchen oft eine leichte Verschiebung der Buchstücke.
 
 ### Aufbau
-+ Muskelfasern
-+ zu Muskelbündeln zusammengefasst
-+ mehrere bilden einen Muskel
-+ von einer Bindegewebehülle umgeben, die an den Enden zu Sehnen zusammen laufen.
++ **Muskelfasern**
++ zu **Muskelbündeln** zusammengefasst
++ mehrere bilden einen **Muskel**
++ von einer **Bindegewebehülle** umgeben, die an den Enden zu **Sehnen** zusammen laufen.
 
 Zur Versorgung der Muskeln dienen Arterien und Venen sowie Nerven zur Verbindung mit dem Gehirn.
 
@@ -487,19 +493,150 @@ Neben Nervensystem zur Steuerung körperlicher Vorgänge besitz menschliche Kör
 + Schilddrüse mit Nebenschilddrüsen und Nebennieren in denen Adrenalin und Dopamin gebildet werden
 
 
-## Verdauungssystem - *Bestandteile, Aufbau und Funktionsweise*
+## Verdauungssystem
+Verdauungsorgane dienen zur Aufnahme, Weitertransport und Verarbeitung von Nahrung,
+
+### Weg der Nahrung
++ Nahrungsaufnahme  
++ **Mund**
+  + Zähne zerkleinern
+  + Zunge
+    + tasten & schmecken
+    + sprechen
+    + schlucken
+    + kauen
+  + Speichelvermengung aus den Drüsen (Ohr-, Unterkiefer- & Unterzungenspeicheldrüse)
+    + rutschig machen
+    + antimikrobiell durch Lysozyme
+    + Kohlehydrate spalten durch Amylase)
++ Pharynx (Rachen)
+  + Weiche verschließt Nase und Luftröhre
++ **Speiseröhre**  (Ösophagus)
+  + Oberer Ösophagus sphinkter verhindert, dass Luft in den Magen gelangt
+  + Unterer Ösopahgus sphinkter, verhinder Magensaft austritt
+  + peristaltisch
++ **Magen**
+  + Aufspaltung durch Verdauungsfermente im salzsäurehaltigen Magensaft  
++ Magenausgang (**Pförtner**)  
++ **Zwölffingerdarm**
+  + Fermente aus Bauchspeicheldrüse & Gallensaft beigemengt
+  + = Nahrung wird in kleinste Bausteine zerlegt  
++ **Dünndarm**
+  + Nährstoffaufnahme durch Dünndarmzotten
++ **Dickdarm** (unverdauliche Substanzen: durch Wasserentzug Eindickung des Speisebreis, Blinddarm + Wurmfortsatz sind hier)  
++ Ausscheidung über **Mastdarm**
+
+[![Magendarm Trakt Teil 1](https://img.youtube.com/vi/JKEjo2M6wiA/0.jpg)](https://www.youtube.com/watch?v=JKEjo2M6wiA)
+[![Magendarm Trakt Teil 2](https://img.youtube.com/vi/IOEqnDZ-vuo/0.jpg)](https://www.youtube.com/watch?v=IOEqnDZ-vuo)
+
+### Leber & Galle
+Leber:
++ rechter Oberbauch
++ geschützt durch Rippenbogen
++ größte Drüse im Körper.
+
+Aufgaben:
++ Produktion von Galle
++ Speichern von Zucker, Vitaminen und Fetten
++ Entgiftung von fettlöslichen Produkten (zb Medikamente)
++ Bildung von Proteinen/Albumin & Gerinnungsfaktoren
+
+Funktion:
+Blut der Pfortader bringt die für Körper wichtigen Nährstoffe aus Dünndarm zur Leber (chemische Umwandlung). In der Leber erfolgt außerdem die Produktion von Gallensaft, der teilweise direkt in den Darm fließt, teilweise in der Gallenblase gespeichert wird. Weiteres ist die Leber für die Entgiftung zuständig.
+
+[![Leber erklärt](https://img.youtube.com/vi/PBz9S6SOpOY/0.jpg)](https://www.youtube.com/watch?v=PBz9S6SOpOY)
+
+### Bauchspeicheldrüse
++ liegt hinter dem Magen
++ bildet Verdauungsfermente die in den Zwölffingerdarm gelangen
++ produziert lebenswichtige Hormone z.B.: Insulin und Glukagon die direkt ins Blut abgegeben werden.
+
+[![Bauchspeicheldrüse/Pankreas - Organ | Medizin Grundlagen](https://img.youtube.com/vi/L-lOXDrD030/0.jpg)](https://www.youtube.com/watch?v=L-lOXDrD030)
 
 
-## Harnsystem - *Bestandteile, Aufbau und Funktionsweise*
+## Harnsystem
+
+### Aufbau
++ Nieren
++ Harnleiter
++ Harnblase
++ Hernröhre
+
+### Aufgaben
++ Endprodukte wie Harnstoff, Harnsäure auszuscheiden
++ Regulation des  Wasser- und Elektrolythaushalts
++ Produktion von Vitamin-D, Epo, Renin
+
+### Nieren
++ hinter der Bauchhöhle
++ rechts und links neben Wirbelsäule
+
+### Harnleiter, Harnblase, Harnröhre
+Der von Niere produzierter Harn sammelt sich in Nierenbecken und gelangt dort über Harnleiter in Harnblase. Harn sammelt sich in Harnblase bis bestimmter Füllungsdruck entstanden ist und wird dann über Harnröhre ausgegeben.
+
+[![Niere Harn-System Teil 1](https://img.youtube.com/vi/0kyk3m313GE/0.jpg)](https://www.youtube.com/watch?v=0kyk3m313GE)
 
 
-## Weibliche Geschlechtsorgane - *Bestandteile, Aufbau und Menstruationszyklus*
+## Weibliche Geschlechtsorgane
++ Inneren Geschlechtsorgane
+  + Gebärmutter
+  + Eileiter
+  + Eierstöcke und Scheide
++ Äußeren Geschlechtsorgane
+  + Große- und kleine Schamlippen
+  + Kitzler
+  + [Scheidenvorhof](https://de.wikipedia.org/wiki/Scheidenvorhof) ist Teil der Vulva, der zwischen kleinen Schamlippen liegt.
 
-## Männliche Geschlechtsorgane - *Bestandteile und Aufbau*
+Gebärmutter ist ein ca. 8cm großer Hohlmuskel zwischen Blase und Mastdarm ragt mit Gebärmutterhals in Scheide. Von Eierstöcken (Eizellen liegen in Follikel) führen die Eileiter (hier findet Befruchtung statt) beidseits zur Gebärmutter. In Eierstöcken liegen die Eizellen in kleinen flüssigkeitsgefüllten Bläschen (Follikel).
+
+Während Menstruationszyklus reift Follikel heran, drängt zur Oberfläche, platzt und reife Eizelle wird ausgestoßen (=Eisprung). Gleichzeitig wird Gebärmutterschleimhaut für ev. Einnistung aufgebaut. Findet keine Befruchtung statt wird Schleimhaut abgelöst und unter Blutung über Scheide ausgeschieden.
+
+![Weibliche Geschlechtsorgane](https://upload.wikimedia.org/wikipedia/commons/e/e3/Female_anatomy_with_g-spot-de.svg)
 
 
-## Wärmehaushalt - *Normwerte, Funktionsweise und Beeinträchtigungen*
+## Männliche Geschlechtsorgane
++ Innere Geschlechtsorgane
+  + Hoden
+  + Nebenhoden (Mobilität der Samenzellen)
+  + Samenleiter
+  + Samenbläschen (prod. flüssigen Anteil des Spermas)
+  + Vorsteherdrüse (Prostata)
++ Äußere Geschlechtsorgane
+  + Hodensack
+  + Glied (Penis) mit Harnröhre = Harn- und Geschlechtsorgan
 
-## Wasser- und Elektrolythaushalt - *Funktionsweise und Beeinträchtigungen*
+![Männliche Geschlechtsorgane](https://upload.wikimedia.org/wikipedia/commons/a/af/Male_anatomy_de.png)
 
-## Säure- Basenhaushalt - *Funktionsweise und Beeinträchtigungen*
+## Regelkreise
+
+### Wärmehaushalt
++ sehr stabil
++ dient dem geordneten Ablauf aller Lebensvorgänge
++ Damit chemische Prozesse im Körper reibungslos funktionieren können, ist konstante Körpertemperatur von 36-37°C erforderlich
+
++ Wärmeproduktion erfolgt u.a. durch Muskelaktivität.
++ Wärmeabgabe erfolgt vor allem durch Schweißabsonderung und daraus entstehende Verdunstungskälte.
+
+Störungen durch Giftstoffe von Krankheitserregern oder  körpereigene Giftstoffe können Fehlregulation und dadurch zu Fieber führen. Beeinträchtig Stoffwechsel, Wasser- und Elektrolythauhalt und somit auch Atmung, Kreislauf und unter Umständen das Bewusstsein.
+
+Extreme Wärme oder Kälte können Wärmehaushalt sehr beeinträchtigen und zu Störungen des Stoffwechsels, des Wasser- und Elektrolythaushaltes, des Säure-Basen-Haushaltes, des Bewusstseins, der Atmung und des Kreislaufs führen.
+
+[![Dr. Max erklärt die Welt: Das Klimasystem des menschlichen Körpers](https://img.youtube.com/vi/jTRP4ZTtRrg/0.jpg)](https://www.youtube.com/watch?v=jTRP4ZTtRrg&t=94)
+
+### Wasser- und Elektrolythaushalt
++ Steuerung wichtiger physikalisch-chemischer Reaktionen im Körper
++ Körper besteht zu 60% aus Wasser, das sich zum Teil in Zellen, zwischen Zellen und Blutgefäßen befindet
++ In Körperflüssigkeiten sind versch. Salze (Elektrolyte) in unterschiedlicher Konzentration gelöst. Es kommt somit zu ständigem Austauschvorgang und Konzentrationsverschiebungen was für Steuerung aller Lebensvorgänge wichtig ist.
+
+Wird das Zusammenwirken durch Störung des Wasserhaushaltes (exzessive Flüssigkeitszufuhr oder Nierenversagen) und Elektrolytverluste (zB durch Erbrechen, Durchfall) gestört, kommt es zu bedrohlichen Störungen des Bewusstseins, Atmung, Kreislauf und aller wichtigen Organfunktionen.
+
+### Säure- Basenhaushalt
+Regelt das Gleichgewicht aller Lebensvorgänge. Die ständig ablaufenden chemischen Prozesse im Körper sind nur in annährend neutralem Bereich möglich. Jede Änderung des Gleichgewichtes infolge des Anfalls saurer oder basischer Substanzen im Körper muss durch Lungen- und Nierenfunktion ausgeglichen werden.
+
+Vermehrter Anfall von sauren Substanzen (bei O2-Mangel oder verminderter Abgabe von CO2 bei gestörter Atmung) führt zu Störung des Gleichgewichtes und damit zu Übersäuerung = **Acidose**.
+
+Verstärkter Anfall basischer Substanzen (bei erhöhter Abatmung von CO2) bei Hyperventilation bzw Säureverluste durch Erbrechen und Durchfall sowie Störungen der Nierenfunktion führen zu Veränderung des Gleichgewichtes im basischen Bereich = **Alkalose**.
+
+### Stoffwechsel
+Dient der Verwertung von Nahrungsbausteinen (Eiweiße, Fette, Kohlehydrate) die durch Enzyme ab- und umgebaut werden, um Körperzellen notwendige Energie zur Verfügung zu stellen. Energie wird freigesetzt = Verbrennung
+Häufigste Stoffwechselerkrankung = Diabete mellitus
