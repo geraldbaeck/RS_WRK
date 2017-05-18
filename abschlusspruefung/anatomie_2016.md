@@ -1,8 +1,14 @@
 # Anatomie / Fragenkatalog 11/2016
 
-## Atemwege - *Bestandteile, Aufbau und Funktionsweise*
+## Atemwege
 
-Nase => Nebenhöhlen => Pharynx (Rachen) => Larynx (Kehlkopf) => Trachea (Luftröhre) => Bronchien => Alveolen (Lungenbläschen)
+Nase
+=> Nebenhöhlen
+=> Pharynx (Rachen)
+=> Larynx (Kehlkopf)
+=> Trachea (Luftröhre)
+=> Bronchien
+=> Alveolen (Lungenbläschen)
 
 Nase und Nasenhöhle: Riechen, Anfeuchten, Erwärmen und Filtern
 
@@ -41,8 +47,7 @@ Lunge:
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lqxkNLZeQv4" frameborder="0" allowfullscreen></iframe>
-
+[![Alt text](https://img.youtube.com/vi/lqxkNLZeQv4/0.jpg)](https://www.youtube.com/watch?v=lqxkNLZeQv4)
 
 ## Atemmechanik - *Funktionsweise*
 
@@ -87,7 +92,7 @@ Lunge:
 
 ![Lungenvolumen](https://rawgit.com/geraldbaeck/RS_WRK/master/charts/Lungenvolumen.svg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CorOqCOkTu8" frameborder="0" allowfullscreen></iframe>
+[![Alt text](https://img.youtube.com/vi/CorOqCOkTu8/0.jpg)](https://www.youtube.com/watch?v=CorOqCOkTu8)
 
 ## Gasaustausch - *Funktionsweise*
 
@@ -105,9 +110,8 @@ Physkalisch funktioniert der Gasaustausch auf Grund der Partialdruckdifferenz (O
 + Gasaustausch im Gewebe in den Kapillargefäßen
 + O2 gelangt zu den Zellen und diese geben CO2 ins Blut ab
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnuxgbACsCo&t=104" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UG0G1Y_xR4o" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UG0G1Y_xR4o" frameborder="0" allowfullscreen></iframe>
+[![Alt text](https://img.youtube.com/vi/jnuxgbACsCo/0.jpg)](https://www.youtube.com/watch?v=jnuxgbACsCo)
+[![Alt text](https://img.youtube.com/vi/UG0G1Y_xR4o/0.jpg)](https://www.youtube.com/watch?v=UG0G1Y_xR4o)
 
 ## Kreislaufsystem - *Bestandteile, Aufbau und Funktionsweise*
 = bedarfsgerechter Transport von Sauerstoff und Energie im Organismus
@@ -122,7 +126,23 @@ Jede Störung des Kreislaufs zieht Störung der Durchblutung und somit Sauerstof
 ### Übersicht
 Der Blutkreislauf besteht aus Lungenkreislauf (Funktion: Gasaustausch) und Körperkreislauf (Funktion: Gasaustausch und Ernährung etc.) und wird durch Pumpfunktion des Herzens aufrechterhalten.
 
-sauerstoffreiches Blut => Linker Vorhof => linke Kammer => Aorta => Arterien => Arteriolen => Kapillaren => Gasuaustausch => Venolen => Venen => Vena Cava => Rechter Vorhof => Rechte Kammer => Lungenarterie => Gasaustausch => Lungenvene => Linker Vorhof ===>
+=> sauerstoffreiches Blut
+=> Linker Vorhof
+=> linke Kammer
+=> Aorta
+=> Arterien
+=> Arteriolen
+=> Kapillaren
+=> Gasaustausch
+=> Venolen
+=> Venen
+=> Vena Cava
+=> Rechter Vorhof
+=> Rechte Kammer
+=> Lungenarterie
+=> Gasaustausch
+=> Lungenvene
+=> Linker Vorhof ===>
 
 ## Blut
 
@@ -156,14 +176,14 @@ Liegt im linken Oberbauch, geschützt unter Rippenbogen. Teil der weißen Blutk�
 ### Lymphsystem, Immunsystem // TODO ausbauen
 Lymphatische System besteht aus Lymphgefäßen und –organen (Mandeln, Milz, Blinddarm) und reguliert Wasserhaushalt des Gewebes. In Lymphknoten werden Krankheitserreger gefiltert und unschädlich gemacht.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ClUOcvgAOnY&t=29" frameborder="0" allowfullscreen></iframe>
+[![Alt text](https://img.youtube.com/vi/ClUOcvgAOnY/0.jpg)](https://www.youtube.com/watch?v=ClUOcvgAOnY)
 
 
 ## Blutgefäße
 
 ### Aufgaben
 + Leiten/führen des Blutes
-+ Zuführen von Nährstoffen und Suaerstoff
++ Zuführen von Nährstoffen und Sauerstoff
 + ABführen von Abfallstoffen und CO2
 + Regulierung des Blutdrucks
 + Regelung der Körpertemperatur
@@ -191,7 +211,7 @@ Lymphatische System besteht aus Lymphgefäßen und –organen (Mandeln, Milz, Bl
 + fließt zum Herzen zurück
 + haben zum Teil Klappen, um die Flussrichtung zu bestimmen
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HYt969HUxeo" frameborder="0" allowfullscreen></iframe>
+[![Alt text](https://img.youtube.com/vi/HYt969HUxeo/0.jpg)](https://www.youtube.com/watch?v=HYt969HUxeo)
 
 ## Herz - *Bestandteile, Aufbau und Funktionsweise*
 + Zentralorgan des Kreislaufsystems (faustgroßer Hohlmuskel)
@@ -262,10 +282,10 @@ Wird durch die Tätigkeit des Herzens erzeugt, abhängig von:
 | Hypertonie | > 140 | oder | > 90 |
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x2_Elv_ceYA" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmy98HNpjOM" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n_tKRmrj-tE" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tID2fPR2pA8" frameborder="0" allowfullscreen></iframe>
+[![Alt text](https://img.youtube.com/vi/x2_Elv_ceYA/0.jpg)](https://www.youtube.com/watch?v=x2_Elv_ceYA)
+[![Alt text](https://img.youtube.com/vi/qmy98HNpjOM/0.jpg)](https://www.youtube.com/watch?v=qmy98HNpjOM)
+[![Alt text](https://img.youtube.com/vi/n_tKRmrj-tE/0.jpg)](https://www.youtube.com/watch?v=n_tKRmrj-tE)
+[![Alt text](https://img.youtube.com/vi/tID2fPR2pA8/0.jpg)](https://www.youtube.com/watch?v=tID2fPR2pA8)
 
 
 ## Haut - *Bestandteile, Aufbau und Funktionsweise*
@@ -289,8 +309,8 @@ Ist die äußere Schutzschicht des Menschen.
 **Wasserhaushalt**: Schutz vor Austrocknung, kontrollierte Abgabe von Flüssigkeit und Salzen
 **Vitamin D Erzeugung?**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6AgHgyKET7M" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IcB90SA0-gU" frameborder="0" allowfullscreen></iframe>
+[![Alt text](https://img.youtube.com/vi/6AgHgyKET7M/0.jpg)](https://www.youtube.com/watch?v=6AgHgyKET7M)
+[![Alt text](https://img.youtube.com/vi/IcB90SA0-gU/0.jpg)](https://www.youtube.com/watch?v=IcB90SA0-gU)
 
 
 ## Sinnesorgane
@@ -402,7 +422,7 @@ Zur Versorgung der Muskeln dienen Arterien und Venen sowie Nerven zur Verbindung
 Bewegung durch verkürzte Muskeln. Reize im Nervensystem lassen Muskeln zusammenziehen.
 
 ## Nervensystem
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3H1NbBOHXnU" frameborder="0" allowfullscreen></iframe>
+[![Alt text](https://img.youtube.com/vi/3H1NbBOHXnU/0.jpg)](https://www.youtube.com/watch?v=3H1NbBOHXnU)
 
 ### Aufgaben
 + Sinneswahrnehmung
