@@ -16,7 +16,6 @@
 + kein Schmuck, keine Uhren
 
 
-
 ## Händedesinfektion Beschreibung des Ablaufs
 Ziel der  Händedesinfektion sollte in folgende Situationen im RD angewendet werden:
 
@@ -294,8 +293,96 @@ Expositionsprophylaxe Typ 2
 | Exp.prophylaxe | Typ 1 | Typ 1 | Typ 1 |
 
 ## Noroviren
-Infektion ist gekennzeichnet durch plötzlichen Brechdurchfall von 12-24 Std. Dauer. Wird fäkooral übertragen. Komplikationen: Dehydration. Exp.prophylaxe Typ 2.
-## Tuberkulose - *Symptome, Gefahren, Vorbeugungsmaßnahmen*
+Infektion ist gekennzeichnet durch plötzlichen Brechdurchfall von 12-24 Std. Dauer. Wird fäkooral übertragen. Häufig < 5 Jahre und > 70 Jahre.
+
+### Symptome
++ akut einsetzender Brechdurchfall
+
+### Komplikationen
++ Dehydration
+
+### Maßnahmen
++ Exp.prophylaxe Typ 2.
++ Munduschutz ist für Patienten nicht möglich. Selbst Mundschutz tragen.
++ Noroviren sind sehr umweltstabil. Strengste Handhygiene und gründliche Wischdesinfektion erforderlich
+
+
+## Tuberkulose
+Erkrankung verläuft meist ohne charakteristische Beschwerden. Übertragung über Tröpfcheninfektion von Mensch zu Mensch, vom Tier auf den Menschen durch infizierte Milch.
+
+Geschlossen: keine Keimabgabe an die Umgebung  
+Offen: Keimabgabe an Umgebung
+
+Vorbeugung: aktive Immunisierung
+
+### Symptome
++ Chronischer Husten
++ Gewichtsverlust
++ Fieber
++ Nachtschweiß
++ leichte Ermüdbarkeit
+
+### Komplikationen
++ Meningitis
++ Pleuritis (Brustfellentzündung)
++ Peritonitis (Bauchfellentzündung)
++ Knochentuberkulose
+
+### Maßnahmen
++ Exp.prophylaxe Typ 2
++ bei offener TBC MUndschutz für Patienten
+
 ## MRE
+MUltiresistente Erreger zb ESBL, VRE, MRSA. Bei Transport ist abzuklären, ob sich der Erreger im Nasen-Rachen-Raum befindet oder nur Wunden befallen sind.
+
+### Symptome
++ häufig chronische Wunden
++ Abszesse
++ Pneumonie
++ Harnwegsinfekt
+
+### Maßnahmen
++ Expositionsprophylaxe Typ 1
++ Bei engem Patientenkontakt zusätzlich Einwegschürze
++ Wischdesinfektion
++ Patient
+  + hygienische Händedesinfektion
+  + frische Kleidung
+  + ggf Maske
+  + sämtliche Maßnahmen gelten nur für den Transport, für gesunde Familienmitglieder stellt der Keim üblicherweise kein Risiko dar
+
+
 ## Ebola
-## SARS
+Übertragung durch Kontakt- und Tröpfcheninfektion. Infektionsgebiet in Westafrika.
+
+### Symptome
++ Hohes Fieber
++ Starke Kopfschmerzen
++ Erbrechen, Durchfall
++ Bauchschmerzen
++ Unerklärbare Blutungen
+
+### Kompliaktionen
++ Multiorgansversagen
++ Tod
+
+### Maßnahmen
++ Transport durch HRI Team
+
+
+## SARS (Schweres Akutes Respiratorisches Syndrom)
+Übertragung durch Kontakt- und Tröpfcheninfektion.
+
+### Symptome
++ Plötzlich aiftretendes schnell steigendes Fieber
++ Halsentzündung mit Husten & Heiserkeit
++ Atemnot
++ Muskelschmerzen
++ Kopfschmerzen
++ Entzündung beider Lungenflügel
+
+### Komplikationen
++ Tod
+
+### Maßnahmen
++ Transport durch HRI Team
