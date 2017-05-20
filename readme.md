@@ -20,12 +20,12 @@ Hier findest Du Unterlagen und Notizen zur Ausbildung zum Rettungssanitäter bei
   + [Rettungswesen](abschlusspruefung/rettungswesen_2016.md)
   + [Katastrophe und Großunfall](abschlusspruefung/katastrophe_2016.md)
 + Patientenbeurteilung / ABCDE (Matthias Müller)
-  + [Kriterien](abschlusspruefung/abcde_kriterien.md)
+  + [Beurteilungskriterien](abschlusspruefung/abcde_kriterien.md)
   + [ABCDE](abschlusspruefung/abcde.md)
   + [FAST](abschlusspruefung/fast.md)
   + [SAMPLE](abschlusspruefung/SAMPLE.md)
-  + OPQRST
-  + AVPU
+  + [OPQRST](https://de.wikipedia.org/wiki/OPQRST)
+  + [AVPU](https://de.wikipedia.org/wiki/AVPU)
   + [Pupillenkontrolle](abschlusspruefung/pupillenkontrolle.md)
 + Trauma (Lucas Gabriel)
   + [Traumacheck](abschlusspruefung/traumacheck.md)
