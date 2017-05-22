@@ -190,20 +190,20 @@ Unter Gefahrengut bzw gefährlichen Stoffen versteht man:
 | &nbsp; | Klasse | Stoffbezeichnung | Beispiel |
 | -:- | :--- | --- | --- |
 | ![Sprengstoffe und Gegenstände, die Sprengstoffe enthalten](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dangclass1.svg/128px-Dangclass1.svg.png) | 1 | Sprengstoffe und Gegenstände, die Sprengstoffe enthalten (mit sechs Unterklassen) | Dynamit, Nitroglycerin |
-| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Dangclass2_1.png/128px-Dangclass2_1.png) | 2.1 | Gase (entzündbar) | |
-| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dangclass2_2.png/128px-Dangclass2_2.png) | 2.2 | Gase (nicht entzündbar) | |
-| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Dangclass2_3.png/128px-Dangclass2_3.png) | 2.3 | Gase (giftig) | |
-| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/UN_transport_pictogram_-_3_%28black%29.svg/128px-UN_transport_pictogram_-_3_%28black%29.svg.png) | 3 | Entzündbare flüssige Stoffe | |
-| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Dangclass4_1.png/128px-Dangclass4_1.png) | 4.1 | Entzündbare feste Stoffe | |
-| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Dangclass4_2.png/128px-Dangclass4_2.png) | 4.2 | Selbstentzündliche Stoffe | |
-| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Label_for_dangerous_goods_-_class_4.3.svg/128px-Label_for_dangerous_goods_-_class_4.3.svg.png) | 4.3 | Stoffe, die mit Wasser entzündliche Gase bilden | |
-| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dangclass5_1.png/128px-Dangclass5_1.png) | 5.1 | Entzündend (oxidierend) wirkende Stoffe | Sauerstoff, sauerstoffreiche beziehungsweise Sauerstoff abgebenden Verbindungen wie z. B. Kaliumchlorat sowie Peroxide und das Element Fluor, welches Sauerstoff aus Verbindungen verdrängen kann. |
-| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Placard_5.2.svg/128px-Placard_5.2.svg.png) | 5.2 | Organische Peroxide1 | Peroxycarbonsäuren |
-| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Dangclass6_1.svg/128px-Dangclass6_1.svg.png) | 6.1 | Giftige Stoffe | Atropin, Sarin, Thallium, Rattengift |
-| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dangclass6_2.svg/128px-Dangclass6_2.svg.png) | 6.2 | Ansteckungsgefährliche Stoffe | Blut, Urin, Speichel, Virenproben |
-| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Dangclass7.svg/128px-Dangclass7.svg.png) | 7 | Radioaktive Stoffe | &nbsp; |
-| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Danger-class-8.svg/128px-Danger-class-8.svg.png) | 8 | Ätzende Stoffe | Salzsäure, Schwefelsäure, Salpetersäure, Natronlauge, konzentrierte Seifenlauge, Abflussreiniger |
-| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Dangclass9.svg/128px-Dangclass9.svg.png) | 9 | Verschiedene gefährliche Stoffe und Gegenstände | &nbsp; |
+| ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Dangclass2_1.png/128px-Dangclass2_1.png) | 2.1 | Gase (entzündbar) | |
+| ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dangclass2_2.png/128px-Dangclass2_2.png) | 2.2 | Gase (nicht entzündbar) | |
+| ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Dangclass2_3.png/128px-Dangclass2_3.png) | 2.3 | Gase (giftig) | |
+| ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/UN_transport_pictogram_-_3_%28black%29.svg/128px-UN_transport_pictogram_-_3_%28black%29.svg.png) | 3 | Entzündbare flüssige Stoffe | |
+| ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Dangclass4_1.png/128px-Dangclass4_1.png) | 4.1 | Entzündbare feste Stoffe | |
+| ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Dangclass4_2.png/128px-Dangclass4_2.png) | 4.2 | Selbstentzündliche Stoffe | |
+| ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Label_for_dangerous_goods_-_class_4.3.svg/128px-Label_for_dangerous_goods_-_class_4.3.svg.png) | 4.3 | Stoffe, die mit Wasser entzündliche Gase bilden | |
+| ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dangclass5_1.png/128px-Dangclass5_1.png) | 5.1 | Entzündend (oxidierend) wirkende Stoffe | Sauerstoff, sauerstoffreiche beziehungsweise Sauerstoff abgebenden Verbindungen wie z. B. Kaliumchlorat sowie Peroxide und das Element Fluor, welches Sauerstoff aus Verbindungen verdrängen kann. |
+| ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Placard_5.2.svg/128px-Placard_5.2.svg.png) | 5.2 | Organische Peroxide1 | Peroxycarbonsäuren |
+| ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Dangclass6_1.svg/128px-Dangclass6_1.svg.png) | 6.1 | Giftige Stoffe | Atropin, Sarin, Thallium, Rattengift |
+| ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dangclass6_2.svg/128px-Dangclass6_2.svg.png) | 6.2 | Ansteckungsgefährliche Stoffe | Blut, Urin, Speichel, Virenproben |
+| ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Dangclass7.svg/128px-Dangclass7.svg.png) | 7 | Radioaktive Stoffe | &nbsp; |
+| ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Danger-class-8.svg/128px-Danger-class-8.svg.png) | 8 | Ätzende Stoffe | Salzsäure, Schwefelsäure, Salpetersäure, Natronlauge, konzentrierte Seifenlauge, Abflussreiniger |
+| ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Dangclass9.svg/128px-Dangclass9.svg.png) | 9 | Verschiedene gefährliche Stoffe und Gegenstände | &nbsp; |
 
 = CBRN-Stoffe (chemisch, biologisch, radiologisch, nuklear)
 
