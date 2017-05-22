@@ -41,7 +41,7 @@
 + Relativ große Körperoberfläche auf Auskühlung achten
 
 ### SHT
-+ Zusatnd kann sich bei Kindern sehr rasch verschlechtern
++ Zustand kann sich bei Kindern sehr rasch verschlechtern
 
 ### Thoraxtrauma
 + kann leicht übersehen werden weil kindlicher Brustkorb sehr elastisch ist

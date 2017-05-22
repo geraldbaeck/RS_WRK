@@ -163,7 +163,7 @@ Gesamter Körper krampft, Patient nicht ansprechbar. Auch hier gibt es wieder ve
   + evt Todd-Parese (Lähmung der Beteiligten Muskeln)
   + evt Forellenphänomen (punktförmige Einblutung in den Augenliedern)
 
-## Ursachen
+### Ursachen
 
 Ursachen haben eine breites Spekrum:
 + *genetisch* = angeboren
@@ -593,7 +593,7 @@ Symptome treten nicht immer gleich oder gemeinsam auf. Außerdem gibt es sog. st
 ### Definition
 Starker Anstieg des Blutdrucks (>200mm Hg systholisch)
 
-## Verlauf
+### Verlauf
 + Hypertonie kann zu bedrohlichem Anstieg des Blutdrucks (>200mm Hg) führen
 + => höherer Widerstand im Gefäßsystem
 + => Mehrarbeit des Herzens mit erhöhtem Sauerstoffverbrauch

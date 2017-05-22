@@ -294,7 +294,7 @@ Wird durch die Tätigkeit des Herzens erzeugt, abhängig von:
 ## Haut - *Bestandteile, Aufbau und Funktionsweise*
 Ist die äußere Schutzschicht des Menschen.
 
-## Arten
+### Arten
 + Leistenhaut: Hand- und Fußflächen, keine Haare, viele Schweißdrüsen
 + Felderhaut: Rest, Haare
 
