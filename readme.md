@@ -20,7 +20,7 @@ Hier findest Du Unterlagen und Notizen zur Ausbildung zum Rettungssanitäter bei
   + [Rettungswesen](abschlusspruefung/rettungswesen_2016.md)
   + [Katastrophe und Großunfall](abschlusspruefung/katastrophe_2016.md)
 + Patientenbeurteilung / ABCDE (Matthias Müller)
-  + [Beurteilungskriterien](abschlusspruefung/abcde_kriterien.md)
+  + [Checkliste ABCDE](abschlusspruefung/Checkliste_ABCDE_012017.pdf)
   + [ABCDE](abschlusspruefung/abcde.md)
   + [FAST](abschlusspruefung/fast.md)
   + [SAMPLE](abschlusspruefung/SAMPLE.md)
@@ -28,8 +28,10 @@ Hier findest Du Unterlagen und Notizen zur Ausbildung zum Rettungssanitäter bei
   + [AVPU](https://de.wikipedia.org/wiki/AVPU)
   + [Pupillenkontrolle](abschlusspruefung/pupillenkontrolle.md)
 + Trauma (Lucas Gabriel)
+  + [Checkliste Traum](abschlusspruefung/Checkliste_Trauma_liegend_012017.pdf)
   + [Traumacheck](abschlusspruefung/traumacheck.md)
 + BLS (Andrea Baci)
+  + [Checkliste BLS](abschlusspruefung/Checkliste_ALS_BLS_Rezertifizierung_012017.pdf)
 
 ### Nice to know
 + [MPG](abschlusspruefung/mpg.md) - keine Prüfungsfragen, aber Querschnittsmaterie
