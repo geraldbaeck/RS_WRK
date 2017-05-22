@@ -188,18 +188,8 @@ Auf verbleibendem Abriss werden Daten der Zuweisung innerhalb des KH eingetragen
 Unter Gefahrengut bzw gefährlichen Stoffen versteht man:
 
 | &nbsp; | Klasse | Stoffbezeichnung | Beispiel |
-| -:- | --- | --- | --- |
+| :---: | --- | --- | --- |
 | ![Sprengstoffe und Gegenstände, die Sprengstoffe enthalten](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dangclass1.svg/128px-Dangclass1.svg.png) | 1 | Sprengstoffe und Gegenstände, die Sprengstoffe enthalten (mit sechs Unterklassen) | Dynamit, Nitroglycerin |
-
-
-
-
-
-
-
-
-
-
 | ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Dangclass2_1.png/128px-Dangclass2_1.png) | 2.1 | Gase (entzündbar) | |
 | ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dangclass2_2.png/128px-Dangclass2_2.png) | 2.2 | Gase (nicht entzündbar) | |
 | ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Dangclass2_3.png/128px-Dangclass2_3.png) | 2.3 | Gase (giftig) | |
