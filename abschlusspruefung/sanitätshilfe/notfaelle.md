@@ -1,4 +1,4 @@
-# Notfälle bei verschiedenen Krankheitsbildern, spezielle Notfälle / Fragenkatalog 11/2016
+# Notfälle
 
 ## Schlaganfall - *Ursachen, Symptome, Komplikationen, Maßnahmen*
 
@@ -1776,7 +1776,7 @@ Besonders gefährdet sind Menschen:
 | frühgeborene Lebendgeburt (Frühgeburt) | < 37 SSW | > 500g | Nach Scheidung vom Mutterleib:<ul><li>Herzschlag oder</li><li>Nableschnurpulsation oder</li><li>Lungenatmung oder</li><li>willkürliche Muskelbewegung (nur Ö)</li></ul> |
 
 
-# Schwangerschaftskomplikationen - Erste Hälfte -  Eileiterschwangerschaft (G54)
+## Schwangerschaftskomplikationen - Erste Hälfte -  Eileiterschwangerschaft (G54)
 
 ### Definition
 Befruchtete Eizelle nistet sich im Eileiter oder in der Bauchöhle ein. Durch das Wachstum des Follikels kommt es zu einer Zerreißung des Eileiters und damit zu lebensbedrohlichen Blutungen.
@@ -1793,7 +1793,7 @@ Befruchtete Eizelle nistet sich im Eileiter oder in der Bauchöhle ein. Durch da
 + Voranmeldung im KH
 
 
-# Schwangerschaftskomplikationen - Erste Hälfte -  Fehlgeburt (Abortus) (G54)
+## Schwangerschaftskomplikationen - Erste Hälfte -  Fehlgeburt (Abortus) (G54)
 
 ### Definition
 Auf Grund verschiedener Ursacher kann es zu einer Ausstoßung des Fötus (unter 500g) kommen.
@@ -1807,7 +1807,7 @@ Auf Grund verschiedener Ursacher kann es zu einer Ausstoßung des Fötus (unter 
 + starke Blutung
 
 
-# Schwangerschaftskomplikationen - Zweite Hälfte -  Frühgeburt (G55)
+## Schwangerschaftskomplikationen - Zweite Hälfte -  Frühgeburt (G55)
 
 ### Definition
 Vor der 37. SSW. Überlebenschance besteht ab der 24. SSW
@@ -1826,7 +1826,7 @@ Vor der 37. SSW. Überlebenschance besteht ab der 24. SSW
 + Kontrolle der Lebensfunktionen
 
 
-# Schwangerschaftskomplikationen - Zweite Hälfte -  Placenta praevia (G55)
+## Schwangerschaftskomplikationen - Zweite Hälfte -  Placenta praevia (G55)
 
 ### Definition
 Mutterkuchen liegt vor Muttermund – Geburtskanal verdeckt. Dadurch kann es zu Blutungen kommen. Fehllage wird überlicherweise bei routinemäßigen Ultraschalluntersuchungen entdeckt.
@@ -1841,7 +1841,7 @@ Mutterkuchen liegt vor Muttermund – Geburtskanal verdeckt. Dadurch kann es zu 
 + Lagerung nach Fritsch
 
 
-# Schwangerschaftskomplikationen - Zweite Hälfte -  Vorzeitige Plazentalösung (G55)
+## Schwangerschaftskomplikationen - Zweite Hälfte -  Vorzeitige Plazentalösung (G55)
 
 ### Definition
 Durch Gewalteinwirkung oder Erkrankungen (Eklampsie) kann es zu einer vorzeitigen Ablösung der Plazenta kommen. Dadurch wird die Versorgung des Kindes eingeschränkt bzw unterbunden.
@@ -1858,7 +1858,7 @@ Durch Gewalteinwirkung oder Erkrankungen (Eklampsie) kann es zu einer vorzeitige
 + Lagerung nach Fritsch
 
 
-# Schwangerschaftskomplikationen - Zweite Hälfte -  Vena-Cava-Kompressionssyndrom (G56)
+## Schwangerschaftskomplikationen - Zweite Hälfte -  Vena-Cava-Kompressionssyndrom (G56)
 
 ### Definition
 Das gewicht der Gebärmutter drückt in Rückenlage auf die untere Hohlvene. Dadurch wird der Rückfluss des Blutes verhindert und es kann zum Kollaps kommen.
@@ -1875,7 +1875,7 @@ Das gewicht der Gebärmutter drückt in Rückenlage auf die untere Hohlvene. Dad
 + Linksseitenlage
 
 
-# Schwangerschaftskomplikationen - Zweite Hälfte -  Schwangerschaftsinduzierte Hypertonie und Eklampsie (G56)
+## Schwangerschaftskomplikationen - Zweite Hälfte -  Schwangerschaftsinduzierte Hypertonie und Eklampsie (G56)
 
 ### Definition
 In de letzten Monaten der SW oder während der Geburt kann es zu Krampfanfällen kommen, die das Leben von Mutter und Kind gefährden können.
@@ -1892,7 +1892,7 @@ In de letzten Monaten der SW oder während der Geburt kann es zu Krampfanfällen
 + Leicht erhöhter Oberkörper in linker Seitenlage
 
 
-# Schwangerschaftskomplikationen - Zweite Hälfte -  Nabelschnurvorfall (G56)
+## Schwangerschaftskomplikationen - Zweite Hälfte -  Nabelschnurvorfall (G56)
 
 ### Definition
 Nach dem Blasensprung kann sich die Nabelschnur um das Kind wickeln. Während der Geburt wird die Nabelschnur im Geburtskanal abgeklemmt => Kind unterversorgt.

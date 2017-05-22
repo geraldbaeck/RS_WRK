@@ -2,9 +2,11 @@
 
 ## Katastrophe - *Definition*
 
-+ Ereignis bei dem Leben oder Gesundheit vieler Menschen, die Umwelt oder Sachwerte im außergewöhlichen Ausmaß gefährdet oder beschädigt werden.
-+ Die Abwehr oder Bekämpfung der Gefahr erfordert einen behördlich koordininerten Einsatz. (ÖNORM S2304)
-+ Von einer Katastrophe sricht man, wenn das Ereignis mit einer schädigung der örtlichen Infrastruktur einhergeht.
++ Gefährdung/Beschädigung von
+  + Leben oder Gesundheit vieler Menschen
+  + der Umwelt oder
+  + Sachwerten
++ Die Abwehr oder Bekämpfung der Gefahr erfordert einen behördlich koordininerten Einsatz.
 + Die örtlichen Hilfsmittel und - kräfte reichen nicht aus
 + Zuständigkeit auf Landesebene, rechtlich gesehen muss eine Katastrophe von der Behörde als solche erklärt werden.
 
