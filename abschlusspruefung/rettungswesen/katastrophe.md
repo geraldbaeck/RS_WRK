@@ -197,12 +197,12 @@ Unter Gefahrengut bzw gefährlichen Stoffen versteht man:
 | ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Dangclass4_1.png/128px-Dangclass4_1.png) | 4.1 | Entzündbare feste Stoffe | |
 | ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Dangclass4_2.png/128px-Dangclass4_2.png) | 4.2 | Selbstentzündliche Stoffe | |
 | ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Label_for_dangerous_goods_-_class_4.3.svg/128px-Label_for_dangerous_goods_-_class_4.3.svg.png) | 4.3 | Stoffe, die mit Wasser entzündliche Gase bilden | |
-| ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dangclass5_1.png/128px-Dangclass5_1.png) | 5.1 | Entzündend (oxidierend) wirkende Stoffe | Sauerstoff, sauerstoffreiche beziehungsweise Sauerstoff abgebenden Verbindungen wie z. B. Kaliumchlorat sowie Peroxide und das Element Fluor, welches Sauerstoff aus Verbindungen verdrängen kann. |
+| ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dangclass5_1.png/128px-Dangclass5_1.png) | 5.1 | Entzündend (oxidierend) wirkende Stoffe | Sauerstoff |
 | ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Placard_5.2.svg/128px-Placard_5.2.svg.png) | 5.2 | Organische Peroxide1 | Peroxycarbonsäuren |
 | ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Dangclass6_1.svg/128px-Dangclass6_1.svg.png) | 6.1 | Giftige Stoffe | Atropin, Sarin, Thallium, Rattengift |
 | ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dangclass6_2.svg/128px-Dangclass6_2.svg.png) | 6.2 | Ansteckungsgefährliche Stoffe | Blut, Urin, Speichel, Virenproben |
 | ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Dangclass7.svg/128px-Dangclass7.svg.png) | 7 | Radioaktive Stoffe | &nbsp; |
-| ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Danger-class-8.svg/128px-Danger-class-8.svg.png) | 8 | Ätzende Stoffe | Salzsäure, Schwefelsäure, Salpetersäure, Natronlauge, konzentrierte Seifenlauge, Abflussreiniger |
+| ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Danger-class-8.svg/128px-Danger-class-8.svg.png) | 8 | Ätzende Stoffe | Salzsäure, Schwefelsäure, Abflussreiniger |
 | ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Dangclass9.svg/128px-Dangclass9.svg.png) | 9 | Verschiedene gefährliche Stoffe und Gegenstände | &nbsp; |
 
 = CBRN-Stoffe (chemisch, biologisch, radiologisch, nuklear)
