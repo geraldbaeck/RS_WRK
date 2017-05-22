@@ -187,7 +187,7 @@ Auf verbleibendem Abriss werden Daten der Zuweisung innerhalb des KH eingetragen
 ### Gefahrengüter
 Unter Gefahrengut bzw gefährlichen Stoffen versteht man:
 
-| &nbsp; | Klasse | Stoffbezeichnung | Bsp |
+| &nbsp; | Klasse | Stoffbezeichnung | Beispiel |
 | -:- | :--- | --- | --- |
 | ![Sprengstoffe und Gegenstände, die Sprengstoffe enthalten](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dangclass1.svg/128px-Dangclass1.svg.png) | 1 | Sprengstoffe und Gegenstände, die Sprengstoffe enthalten (mit sechs Unterklassen) | Dynamit, Nitroglycerin |
 | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Dangclass2_1.png/128px-Dangclass2_1.png) | 2.1 | Gase (entzündbar) | |
@@ -201,9 +201,9 @@ Unter Gefahrengut bzw gefährlichen Stoffen versteht man:
 | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Placard_5.2.svg/128px-Placard_5.2.svg.png) | 5.2 | Organische Peroxide1 | Peroxycarbonsäuren |
 | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Dangclass6_1.svg/128px-Dangclass6_1.svg.png) | 6.1 | Giftige Stoffe | Atropin, Sarin, Thallium, Rattengift |
 | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dangclass6_2.svg/128px-Dangclass6_2.svg.png) | 6.2 | Ansteckungsgefährliche Stoffe | Blut, Urin, Speichel, Virenproben |
-| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Dangclass7.svg/128px-Dangclass7.svg.png) | 7 | Radioaktive Stoffe | |
+| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Dangclass7.svg/128px-Dangclass7.svg.png) | 7 | Radioaktive Stoffe | &nbsp; |
 | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Danger-class-8.svg/128px-Danger-class-8.svg.png) | 8 | Ätzende Stoffe | Salzsäure, Schwefelsäure, Salpetersäure, Natronlauge, konzentrierte Seifenlauge, Abflussreiniger |
-| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Dangclass9.svg/128px-Dangclass9.svg.png) | 9 | Verschiedene gefährliche Stoffe und Gegenstände | |
+| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Dangclass9.svg/128px-Dangclass9.svg.png) | 9 | Verschiedene gefährliche Stoffe und Gegenstände | &nbsp; |
 
 = CBRN-Stoffe (chemisch, biologisch, radiologisch, nuklear)
 
@@ -241,10 +241,10 @@ Zum Abschätzen der ausgetretenen Menge ist es hilfreich zu wissen, aus welchem 
 
 ## Verhalten am Unfallort - *Gefahren, Vorbeugungsmaßnahmen*
 
-**G**-Gefahr erkennen
-**A**-Absperrung
-**M**-Menschenrettung
-**S**-Spezialkräfte (jedenfalls Polizei und Feuerwehr)
+**G**-Gefahr erkennen  
+**A**-Absperrung  
+**M**-Menschenrettung  
+**S**-Spezialkräfte (jedenfalls Polizei und Feuerwehr)  
 
 ### Gefahr erkennen - Erkundung - Rückmeldungen
 Erkennen:
@@ -297,7 +297,7 @@ Auf jedem Löscher ist Symbol für Verwendbarkeit angebracht sowie Brandklasse a
 | | Brandklasse	| Beschreibung | Beispiele | Löschmittel | Hinweis |
 | --- | ---	| --- | --- | --- | --- |
 | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Fire_Class_A.svg/116px-Fire_Class_A.svg.png) | A	| Brände fester Stoffe, hauptsächlich organischer Natur, die normalerweise unter Glutbildung verbrennen. | Holz, Papier, Kohle, Heu, Stroh, einige Kunststoffe (vor allem Duroplaste), Textilien, usw. | Wasser, wässrige Lösungen, Schaum, ABC-Pulver, Löschgel, verschiedene Kleinlöschgeräte wie z. B. Löschdecke oder Feuerpatsche | &nbsp;
-| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Fire_Class_B.svg/116px-Fire_Class_B.svg.png) | B | Brände von flüssigen oder flüssig werdenden Stoffen. | Benzin, Ethanol, Teer, Wachs, viele Kunststoffe (vor allem Thermoplaste), Ether, Lacke, Harz | Schaum, ABC-Pulver, BC-Pulver, Kohlenstoffdioxid | auch Stoffe, die durch die Temperaturerhöhung flüssig werden |
-| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Fire_Class_C.svg/116px-Fire_Class_C.svg.png) | C | Brände von Gasen. | Ethin (Acetylen), Wasserstoff, Erdgas, Methan, Propan, Butan, Stadtgas | ABC-Pulver, BC-Pulver, Kohlenstoffdioxid nur in Ausnahmefällen (hierfür gibt es sehr selten speziell konstruierte Sonderfeuerlöscher mit Gasstrahldüse), Gaszufuhr durch Abschiebern der Leitung unterbinden | Brände von Gasen in der Regel erst dann löschen, wenn die Gaszufuhr unterbunden werden kann, da sich sonst ein explosionsfähiges Gas-Luft-Gemisch bilden kann. |
-| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Fire_Class_D.svg/116px-Fire_Class_D.svg.png) | D | Brände von Metallen. | Aluminium, Magnesium, Natrium, Kalium, Lithium und deren Legierung | Metallbrandpulver (D-Pulver) sowie als Behelfslöschmittel trockener Sand, trockenes Streu- oder Viehsalz, trockener Zement, Grauguss-Späne | Bei Bränden der Klasse D niemals Wasser als Löschmittel verwenden. |
-| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Fire_Class_F.svg/116px-Fire_Class_F.svg.png) | F | Brände von Speiseölen/-fetten (pflanzliche oder tierische Öle und Fette) in Frittier- und Fettbackgeräten und anderen Kücheneinrichtungen und -geräten | Speiseöle und Speisefette | Fettbrand-Löscher mit Speziallöschmittel (zur Verseifung) oder geeignetes Löschspray | Bei Bränden der Klasse F niemals Wasser als Löschmittel verwenden. |
+|  ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Fire_Class_B.svg/116px-Fire_Class_B.svg.png) | B | Brände von flüssigen oder flüssig werdenden Stoffen. | Benzin, Ethanol, Teer, Wachs, viele Kunststoffe (vor allem Thermoplaste), Ether, Lacke, Harz | Schaum, ABC-Pulver, BC-Pulver, Kohlenstoffdioxid | auch Stoffe, die durch die Temperaturerhöhung flüssig werden |
+|  ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Fire_Class_C.svg/116px-Fire_Class_C.svg.png) | C | Brände von Gasen. | Ethin (Acetylen), Wasserstoff, Erdgas, Methan, Propan, Butan, Stadtgas | ABC-Pulver, BC-Pulver, Kohlenstoffdioxid nur in Ausnahmefällen (hierfür gibt es sehr selten speziell konstruierte Sonderfeuerlöscher mit Gasstrahldüse), Gaszufuhr durch Abschiebern der Leitung unterbinden | Brände von Gasen in der Regel erst dann löschen, wenn die Gaszufuhr unterbunden werden kann, da sich sonst ein explosionsfähiges Gas-Luft-Gemisch bilden kann. |
+|  ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Fire_Class_D.svg/116px-Fire_Class_D.svg.png) | D | Brände von Metallen. | Aluminium, Magnesium, Natrium, Kalium, Lithium und deren Legierung | Metallbrandpulver (D-Pulver) sowie als Behelfslöschmittel trockener Sand, trockenes Streu- oder Viehsalz, trockener Zement, Grauguss-Späne | Bei Bränden der Klasse D niemals Wasser als Löschmittel verwenden. |
+|  ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Fire_Class_F.svg/116px-Fire_Class_F.svg.png) | F | Brände von Speiseölen/-fetten (pflanzliche oder tierische Öle und Fette) in Frittier- und Fettbackgeräten und anderen Kücheneinrichtungen und -geräten | Speiseöle und Speisefette | Fettbrand-Löscher mit Speziallöschmittel (zur Verseifung) oder geeignetes Löschspray | Bei Bränden der Klasse F niemals Wasser als Löschmittel verwenden. |
