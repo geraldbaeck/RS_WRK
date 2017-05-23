@@ -48,9 +48,8 @@ Nase
 + wird von den Rippen geschützt
 + Rippenfell < Pleuraspalt > Lungenfell
 
+:arrow_forward:[Atemsystem erklärt 1](https://www.youtube.com/watch?v=lqxkNLZeQv4)
 
-
-[![Alt text](https://img.youtube.com/vi/lqxkNLZeQv4/0.jpg)](https://www.youtube.com/watch?v=lqxkNLZeQv4)
 
 ## Atemmechanik - *Funktionsweise*
 
@@ -95,7 +94,7 @@ Nase
 
 ![Lungenvolumen](https://rawgit.com/geraldbaeck/RS_WRK/master/charts/Lungenvolumen.svg)
 
-[![Alt text](https://img.youtube.com/vi/CorOqCOkTu8/0.jpg)](https://www.youtube.com/watch?v=CorOqCOkTu8)
+:arrow_forward:Atemsystem erklärt 2](https://www.youtube.com/watch?v=CorOqCOkTu8)
 
 ## Gasaustausch - *Funktionsweise*
 
@@ -113,8 +112,8 @@ Physkalisch funktioniert der Gasaustausch auf Grund der Partialdruckdifferenz (O
 + Gasaustausch im Gewebe in den Kapillargefäßen
 + O2 gelangt zu den Zellen und diese geben CO2 ins Blut ab
 
-[![Alt text](https://img.youtube.com/vi/jnuxgbACsCo/0.jpg)](https://www.youtube.com/watch?v=jnuxgbACsCo)
-[![Alt text](https://img.youtube.com/vi/UG0G1Y_xR4o/0.jpg)](https://www.youtube.com/watch?v=UG0G1Y_xR4o)
+:arrow_forward:[Gasaustausch](https://www.youtube.com/watch?v=jnuxgbACsCo)
+:arrow_forward:[Blutgasanalyse: Partialdrücke leicht erklärt](https://www.youtube.com/watch?v=UG0G1Y_xR4o)
 
 ## Kreislaufsystem - *Bestandteile, Aufbau und Funktionsweise*
 = bedarfsgerechter Transport von Sauerstoff und Energie im Organismus
@@ -189,7 +188,7 @@ Aufgaben:
 + reguliert Wasserhaushalt des Gewebes.
 + In Lymphknoten werden Krankheitserreger gefiltert und unschädlich gemacht.
 
-[![Alt text](https://img.youtube.com/vi/ClUOcvgAOnY/0.jpg)](https://www.youtube.com/watch?v=ClUOcvgAOnY)
+:arrow_forward:[Herzkreislauf erklärt](https://www.youtube.com/watch?v=ClUOcvgAOnY)
 
 
 ## Blutgefäße - *Aufgaben, Aufbau*
@@ -295,10 +294,10 @@ Wird durch die Tätigkeit des Herzens erzeugt, abhängig von:
 | Hypertonie | > 140 | oder | > 90 |
 
 
-[![Alt text](https://img.youtube.com/vi/x2_Elv_ceYA/0.jpg)](https://www.youtube.com/watch?v=x2_Elv_ceYA)  
-[![Alt text](https://img.youtube.com/vi/qmy98HNpjOM/0.jpg)](https://www.youtube.com/watch?v=qmy98HNpjOM)  
-[![Alt text](https://img.youtube.com/vi/n_tKRmrj-tE/0.jpg)](https://www.youtube.com/watch?v=n_tKRmrj-tE)  
-[![Alt text](https://img.youtube.com/vi/tID2fPR2pA8/0.jpg)](https://www.youtube.com/watch?v=tID2fPR2pA8)  
+[![Herz 1/4](https://img.youtube.com/vi/x2_Elv_ceYA/0.jpg)](https://www.youtube.com/watch?v=x2_Elv_ceYA)  
+[![Herz 2/4](https://img.youtube.com/vi/qmy98HNpjOM/0.jpg)](https://www.youtube.com/watch?v=qmy98HNpjOM)  
+[![Herz 3/4](https://img.youtube.com/vi/n_tKRmrj-tE/0.jpg)](https://www.youtube.com/watch?v=n_tKRmrj-tE)  
+[![Herz 4/4](https://img.youtube.com/vi/tID2fPR2pA8/0.jpg)](https://www.youtube.com/watch?v=tID2fPR2pA8)  
 
 
 ## Haut - *Bestandteile, Aufbau und Funktionsweise*
@@ -332,8 +331,8 @@ Ist die äußere Schutzschicht des Menschen.
 + **Wasserhaushalt**: Schutz vor Austrocknung, kontrollierte Abgabe von Flüssigkeit und Salzen
 + **Vitamin D Erzeugung?**
 
-[![Alt text](https://img.youtube.com/vi/6AgHgyKET7M/0.jpg)](https://www.youtube.com/watch?v=6AgHgyKET7M)
-[![Alt text](https://img.youtube.com/vi/IcB90SA0-gU/0.jpg)](https://www.youtube.com/watch?v=IcB90SA0-gU)
+:arrow_forward:[Aufbau der Haut](https://www.youtube.com/watch?v=6AgHgyKET7M)
+:arrow_forward:[Haut galore](https://www.youtube.com/watch?v=IcB90SA0-gU)
 
 
 ## Sinnesorgane
@@ -456,7 +455,7 @@ Zur Versorgung der Muskeln dienen Arterien und Venen sowie Nerven zur Verbindung
 Bewegung durch verkürzte Muskeln. Reize im Nervensystem lassen Muskeln zusammenziehen.
 
 ## Nervensystem
-[![Alt text](https://img.youtube.com/vi/3H1NbBOHXnU/0.jpg)](https://www.youtube.com/watch?v=3H1NbBOHXnU)
+:arrow_forward:[Die Muskulatur](https://www.youtube.com/watch?v=3H1NbBOHXnU)
 
 ### Aufgaben
 + Sinneswahrnehmung
@@ -473,7 +472,7 @@ Bewegung durch verkürzte Muskeln. Reize im Nervensystem lassen Muskeln zusammen
 ### Zentrales Nervensystem
 Besteht aus Gehirn und Rückenmark und ist von Gehirn- bzw. Rückenhäuten umgeben. Zwischen ZNS und umhüllenden Häuten sowie in Hirnkammern befindet sich Gehirn- bzw. Rückenmarksflüssigkeit (Liquor).
 
-+ Gerhirn
++ Gehirn
   + Großhirn (Telencephalon)
     + zwei Gehirnhälften, verbunden mit "Balken"
     + Sitz des Bewusstseins, Leistung, Intelligenz
@@ -510,7 +509,7 @@ Besteht aus Gehirn und Rückenmark und ist von Gehirn- bzw. Rückenhäuten umgeb
   + Aufgabe, Nervenimpulse vom Körper zum Gehirn sowie Impulse vom Gehirn zum Körper weiterzuleiten
   + verantwortlich für eine große Zahl lebenswichtiger Reflexe
 
-![Das Gehirn - Zentrales Nervensystem (ZNS)](https://img.youtube.com/vi/KU62jMxA5oc/0.jpg)](https://www.youtube.com/watch?v=KU62jMxA5oc)
+:arrow_forward:[Das Gehirn - Zentrales Nervensystem (ZNS)](https://www.youtube.com/watch?v=KU62jMxA5oc)
 
 ### Peripheres Nervensystem
 Besteht aus Empfindungs- und Bewegungsnerven. Beide liegen meistens in einem gemeinsamen Nervenstrang.
@@ -519,7 +518,7 @@ Besteht aus Empfindungs- und Bewegungsnerven. Beide liegen meistens in einem gem
 + 12 Hirnnerven
 + 31 Spinalnerven
 
-![Peripheres Nervensystem einfach erklärt](https://img.youtube.com/vi/18JPgHnUvLQ/0.jpg)](https://www.youtube.com/watch?v=18JPgHnUvLQ)
+:arrow_forward:[Peripheres Nervensystem einfach erklärt](https://www.youtube.com/watch?v=18JPgHnUvLQ)
 
 ### Somatisches Nervensystem
 + Bewusste Wahrnehmung
@@ -538,7 +537,7 @@ Das sympathische Nervensystem dominiert wenn Mensch in einer psychischen oder ph
 #### Parasympathicus (Ruhenerv)
 Dominiert wenn Mensch ruhig und entspannt ist (Schlaf). Herz- und Atemfrequenz langsamer, Bronchien und Herzkrankgefö0e verengen sich. Verdauungsfunktionen aktiv
 
-![Peripheres Nervensystem einfach erklärt](https://img.youtube.com/vi/MuMNXg6_i9M/0.jpg)](https://www.youtube.com/watch?v=MuMNXg6_i9M)
+:arrow_forward:[Somatisches und vegetatives Nervensystem](https://www.youtube.com/watch?v=MuMNXg6_i9M)
 
 
 ## Endokrines System (Hormonsystem)
@@ -563,8 +562,8 @@ Verdauungsorgane dienen zur Aufnahme, Weitertransport und Verarbeitung von Nahru
   + Speichelvermengung aus den Drüsen (Ohr-, Unterkiefer- & Unterzungenspeicheldrüse)
     + rutschig machen
     + antimikrobiell durch Lysozyme
-    + Kohlehydrate spalten durch Amylase)
-+ Pharynx (Kehlkopf)
+    + Kohlehydrate spalten (durch Amylase)
++ Pharynx (Rachen)
   + Weiche verschließt Nase und Luftröhre
 + **Speiseröhre**  (Ösophagus)
   + Oberer Ösophagus sphinkter verhindert, dass Luft in den Magen gelangt
@@ -581,8 +580,8 @@ Verdauungsorgane dienen zur Aufnahme, Weitertransport und Verarbeitung von Nahru
 + **Dickdarm** (unverdauliche Substanzen: durch Wasserentzug Eindickung des Speisebreis, Blinddarm + Wurmfortsatz sind hier)  
 + Ausscheidung über **Mastdarm**
 
-![Magendarm Trakt Teil 1](https://img.youtube.com/vi/JKEjo2M6wiA/0.jpg)](https://www.youtube.com/watch?v=JKEjo2M6wiA)
-![Magendarm Trakt Teil 2](https://img.youtube.com/vi/IOEqnDZ-vuo/0.jpg)](https://www.youtube.com/watch?v=IOEqnDZ-vuo)
+:arrow_forward:[Magendarm Trakt Teil 1](https://www.youtube.com/watch?v=JKEjo2M6wiA)
+:arrow_forward:[Magendarm Trakt Teil 2](https://www.youtube.com/watch?v=IOEqnDZ-vuo)
 
 ### Leber & Galle
 Leber:
@@ -591,22 +590,22 @@ Leber:
 + größte Drüse im Körper.
 
 Aufgaben:
++ Pfortader bringt Nährstoffe aus Dünndarm zur Leber (chemische Umwandlung)
+  + Speichern von Zucker, Vitaminen und Fetten
+  + Entgiftung von fettlöslichen Produkten (zb Medikamente)
+  + Bildung von Proteinen/Albumin & Gerinnungsfaktoren
 + Produktion von Galle
-+ Speichern von Zucker, Vitaminen und Fetten
-+ Entgiftung von fettlöslichen Produkten (zb Medikamente)
-+ Bildung von Proteinen/Albumin & Gerinnungsfaktoren
+  + fließt tlw in den Darm oder
+  + Speicherung in Gallenblase
 
-Funktion:
-Blut der Pfortader bringt die für Körper wichtigen Nährstoffe aus Dünndarm zur Leber (chemische Umwandlung). In der Leber erfolgt außerdem die Produktion von Gallensaft, der teilweise direkt in den Darm fließt, teilweise in der Gallenblase gespeichert wird. Weiteres ist die Leber für die Entgiftung zuständig.
-
-[![Leber erklärt](https://img.youtube.com/vi/PBz9S6SOpOY/0.jpg)](https://www.youtube.com/watch?v=PBz9S6SOpOY)
+:arrow_forward:[Leber erklärt](https://www.youtube.com/watch?v=PBz9S6SOpOY)
 
 ### Bauchspeicheldrüse
 + liegt hinter dem Magen
 + bildet Verdauungsfermente die in den Zwölffingerdarm gelangen
 + produziert lebenswichtige Hormone z.B.: Insulin und Glukagon die direkt ins Blut abgegeben werden.
 
-[![Bauchspeicheldrüse/Pankreas - Organ | Medizin Grundlagen](https://img.youtube.com/vi/L-lOXDrD030/0.jpg)](https://www.youtube.com/watch?v=L-lOXDrD030)
+:arrow_forward:[Bauchspeicheldrüse/Pankreas - Organ | Medizin Grundlagen]https://www.youtube.com/watch?v=L-lOXDrD030)
 
 
 ## Harnsystem
@@ -629,7 +628,7 @@ Blut der Pfortader bringt die für Körper wichtigen Nährstoffe aus Dünndarm z
 ### Harnleiter, Harnblase, Harnröhre
 Der von Niere produzierter Harn sammelt sich in Nierenbecken und gelangt dort über Harnleiter in Harnblase. Harn sammelt sich in Harnblase bis bestimmter Füllungsdruck entstanden ist und wird dann über Harnröhre ausgegeben.
 
-[![Niere Harn-System Teil 1](https://img.youtube.com/vi/0kyk3m313GE/0.jpg)](https://www.youtube.com/watch?v=0kyk3m313GE)
+:arrow_forward:[Niere Harn-System Teil 1](https://www.youtube.com/watch?v=0kyk3m313GE)
 
 
 ## Weibliche Geschlechtsorgane
@@ -676,7 +675,7 @@ Störungen durch Giftstoffe von Krankheitserregern oder  körpereigene Giftstoff
 
 Extreme Wärme oder Kälte können Wärmehaushalt sehr beeinträchtigen und zu Störungen des Stoffwechsels, des Wasser- und Elektrolythaushaltes, des Säure-Basen-Haushaltes, des Bewusstseins, der Atmung und des Kreislaufs führen.
 
-[![Dr. Max erklärt die Welt: Das Klimasystem des menschlichen Körpers](https://img.youtube.com/vi/jTRP4ZTtRrg/0.jpg)](https://www.youtube.com/watch?v=jTRP4ZTtRrg&t=94)
+:arrow_forward:[Dr. Max erklärt die Welt: Das Klimasystem des menschlichen Körpers](https://www.youtube.com/watch?v=jTRP4ZTtRrg&t=94)
 
 ### Wasser- und Elektrolythaushalt
 + Steuerung wichtiger physikalisch-chemischer Reaktionen im Körper
@@ -686,7 +685,9 @@ Extreme Wärme oder Kälte können Wärmehaushalt sehr beeinträchtigen und zu S
 Wird das Zusammenwirken durch Störung des Wasserhaushaltes (exzessive Flüssigkeitszufuhr oder Nierenversagen) und Elektrolytverluste (zB durch Erbrechen, Durchfall) gestört, kommt es zu bedrohlichen Störungen des Bewusstseins, Atmung, Kreislauf und aller wichtigen Organfunktionen.
 
 ### Säure- Basenhaushalt
-Regelt das Gleichgewicht aller Lebensvorgänge. Die ständig ablaufenden chemischen Prozesse im Körper sind nur in annährend neutralem Bereich möglich. Jede Änderung des Gleichgewichtes infolge des Anfalls saurer oder basischer Substanzen im Körper muss durch Lungen- und Nierenfunktion ausgeglichen werden.
++ Regelt das Gleichgewicht aller Lebensvorgänge.
++ Die ständig ablaufenden chemischen Prozesse im Körper sind nur in annährend neutralem Bereich möglich.
++ Jede Änderung des Gleichgewichtes muss durch Lungen- und Nierenfunktion ausgeglichen werden.
 
 Vermehrter Anfall von sauren Substanzen (bei O2-Mangel oder verminderter Abgabe von CO2 bei gestörter Atmung) führt zu Störung des Gleichgewichtes und damit zu Übersäuerung = **Acidose**.
 
@@ -694,4 +695,4 @@ Verstärkter Anfall basischer Substanzen (bei erhöhter Abatmung von CO2) bei Hy
 
 ### Stoffwechsel
 Dient der Verwertung von Nahrungsbausteinen (Eiweiße, Fette, Kohlehydrate) die durch Enzyme ab- und umgebaut werden, um Körperzellen notwendige Energie zur Verfügung zu stellen. Energie wird freigesetzt = Verbrennung
-Häufigste Stoffwechselerkrankung = Diabete mellitus
+Häufigste Stoffwechselerkrankung = Diabetes mellitus
