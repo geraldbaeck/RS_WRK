@@ -48,7 +48,7 @@ Nase
 + wird von den Rippen geschützt
 + Rippenfell < Pleuraspalt > Lungenfell
 
-:arrow_forward:[Atemsystem erklärt 1](https://www.youtube.com/watch?v=lqxkNLZeQv4)
+:arrow_forward: [Atemsystem erklärt 1](https://www.youtube.com/watch?v=lqxkNLZeQv4)
 
 
 ## Atemmechanik - *Funktionsweise*
@@ -94,7 +94,7 @@ Nase
 
 ![Lungenvolumen](https://rawgit.com/geraldbaeck/RS_WRK/master/charts/Lungenvolumen.svg)
 
-:arrow_forward:Atemsystem erklärt 2](https://www.youtube.com/watch?v=CorOqCOkTu8)
+:arrow_forward: [Atemsystem erklärt 2](https://www.youtube.com/watch?v=CorOqCOkTu8)
 
 ## Gasaustausch - *Funktionsweise*
 
@@ -112,8 +112,8 @@ Physkalisch funktioniert der Gasaustausch auf Grund der Partialdruckdifferenz (O
 + Gasaustausch im Gewebe in den Kapillargefäßen
 + O2 gelangt zu den Zellen und diese geben CO2 ins Blut ab
 
-:arrow_forward:[Gasaustausch](https://www.youtube.com/watch?v=jnuxgbACsCo)
-:arrow_forward:[Blutgasanalyse: Partialdrücke leicht erklärt](https://www.youtube.com/watch?v=UG0G1Y_xR4o)
+:arrow_forward: [Gasaustausch](https://www.youtube.com/watch?v=jnuxgbACsCo)
+:arrow_forward: [Blutgasanalyse: Partialdrücke leicht erklärt](https://www.youtube.com/watch?v=UG0G1Y_xR4o)
 
 ## Kreislaufsystem - *Bestandteile, Aufbau und Funktionsweise*
 = bedarfsgerechter Transport von Sauerstoff und Energie im Organismus
@@ -188,7 +188,7 @@ Aufgaben:
 + reguliert Wasserhaushalt des Gewebes.
 + In Lymphknoten werden Krankheitserreger gefiltert und unschädlich gemacht.
 
-:arrow_forward:[Herzkreislauf erklärt](https://www.youtube.com/watch?v=ClUOcvgAOnY)
+:arrow_forward: [Herzkreislauf erklärt](https://www.youtube.com/watch?v=ClUOcvgAOnY)
 
 
 ## Blutgefäße - *Aufgaben, Aufbau*
@@ -223,7 +223,8 @@ Aufgaben:
 + fließt zum Herzen zurück
 + haben zum Teil Klappen, um die Flussrichtung zu bestimmen
 
-[![Alt text](https://img.youtube.com/vi/HYt969HUxeo/0.jpg)](https://www.youtube.com/watch?v=HYt969HUxeo)
+:arrow_forward: [Herzkreislauf erklärt 2](https://www.youtube.com/watch?v=HYt969HUxeo)
+
 
 ## Herz - *Bestandteile, Aufbau und Funktionsweise*
 + Zentralorgan des Kreislaufsystems (faustgroßer Hohlmuskel)
@@ -294,10 +295,10 @@ Wird durch die Tätigkeit des Herzens erzeugt, abhängig von:
 | Hypertonie | > 140 | oder | > 90 |
 
 
-[![Herz 1/4](https://img.youtube.com/vi/x2_Elv_ceYA/0.jpg)](https://www.youtube.com/watch?v=x2_Elv_ceYA)  
-[![Herz 2/4](https://img.youtube.com/vi/qmy98HNpjOM/0.jpg)](https://www.youtube.com/watch?v=qmy98HNpjOM)  
-[![Herz 3/4](https://img.youtube.com/vi/n_tKRmrj-tE/0.jpg)](https://www.youtube.com/watch?v=n_tKRmrj-tE)  
-[![Herz 4/4](https://img.youtube.com/vi/tID2fPR2pA8/0.jpg)](https://www.youtube.com/watch?v=tID2fPR2pA8)  
+:arrow_forward: [Herz 1/4](https://www.youtube.com/watch?v=x2_Elv_ceYA)  
+:arrow_forward: [Herz 2/4](https://www.youtube.com/watch?v=qmy98HNpjOM)  
+:arrow_forward: [Herz 3/4](https://www.youtube.com/watch?v=n_tKRmrj-tE)  
+:arrow_forward: [Herz 4/4](https://www.youtube.com/watch?v=tID2fPR2pA8)  
 
 
 ## Haut - *Bestandteile, Aufbau und Funktionsweise*
@@ -331,8 +332,8 @@ Ist die äußere Schutzschicht des Menschen.
 + **Wasserhaushalt**: Schutz vor Austrocknung, kontrollierte Abgabe von Flüssigkeit und Salzen
 + **Vitamin D Erzeugung?**
 
-:arrow_forward:[Aufbau der Haut](https://www.youtube.com/watch?v=6AgHgyKET7M)
-:arrow_forward:[Haut galore](https://www.youtube.com/watch?v=IcB90SA0-gU)
+:arrow_forward: [Aufbau der Haut](https://www.youtube.com/watch?v=6AgHgyKET7M)   
+:arrow_forward: [Haut galore](https://www.youtube.com/watch?v=IcB90SA0-gU)
 
 
 ## Sinnesorgane
@@ -455,7 +456,7 @@ Zur Versorgung der Muskeln dienen Arterien und Venen sowie Nerven zur Verbindung
 Bewegung durch verkürzte Muskeln. Reize im Nervensystem lassen Muskeln zusammenziehen.
 
 ## Nervensystem
-:arrow_forward:[Die Muskulatur](https://www.youtube.com/watch?v=3H1NbBOHXnU)
+:arrow_forward: [Die Muskulatur](https://www.youtube.com/watch?v=3H1NbBOHXnU)
 
 ### Aufgaben
 + Sinneswahrnehmung
@@ -509,7 +510,7 @@ Besteht aus Gehirn und Rückenmark und ist von Gehirn- bzw. Rückenhäuten umgeb
   + Aufgabe, Nervenimpulse vom Körper zum Gehirn sowie Impulse vom Gehirn zum Körper weiterzuleiten
   + verantwortlich für eine große Zahl lebenswichtiger Reflexe
 
-:arrow_forward:[Das Gehirn - Zentrales Nervensystem (ZNS)](https://www.youtube.com/watch?v=KU62jMxA5oc)
+:arrow_forward: [Das Gehirn - Zentrales Nervensystem (ZNS)](https://www.youtube.com/watch?v=KU62jMxA5oc)
 
 ### Peripheres Nervensystem
 Besteht aus Empfindungs- und Bewegungsnerven. Beide liegen meistens in einem gemeinsamen Nervenstrang.
@@ -518,7 +519,7 @@ Besteht aus Empfindungs- und Bewegungsnerven. Beide liegen meistens in einem gem
 + 12 Hirnnerven
 + 31 Spinalnerven
 
-:arrow_forward:[Peripheres Nervensystem einfach erklärt](https://www.youtube.com/watch?v=18JPgHnUvLQ)
+:arrow_forward: [Peripheres Nervensystem einfach erklärt](https://www.youtube.com/watch?v=18JPgHnUvLQ)
 
 ### Somatisches Nervensystem
 + Bewusste Wahrnehmung
@@ -537,7 +538,7 @@ Das sympathische Nervensystem dominiert wenn Mensch in einer psychischen oder ph
 #### Parasympathicus (Ruhenerv)
 Dominiert wenn Mensch ruhig und entspannt ist (Schlaf). Herz- und Atemfrequenz langsamer, Bronchien und Herzkrankgefö0e verengen sich. Verdauungsfunktionen aktiv
 
-:arrow_forward:[Somatisches und vegetatives Nervensystem](https://www.youtube.com/watch?v=MuMNXg6_i9M)
+:arrow_forward: [Somatisches und vegetatives Nervensystem](https://www.youtube.com/watch?v=MuMNXg6_i9M)
 
 
 ## Endokrines System (Hormonsystem)
@@ -580,8 +581,8 @@ Verdauungsorgane dienen zur Aufnahme, Weitertransport und Verarbeitung von Nahru
 + **Dickdarm** (unverdauliche Substanzen: durch Wasserentzug Eindickung des Speisebreis, Blinddarm + Wurmfortsatz sind hier)  
 + Ausscheidung über **Mastdarm**
 
-:arrow_forward:[Magendarm Trakt Teil 1](https://www.youtube.com/watch?v=JKEjo2M6wiA)
-:arrow_forward:[Magendarm Trakt Teil 2](https://www.youtube.com/watch?v=IOEqnDZ-vuo)
+:arrow_forward: [Magendarm Trakt Teil 1](https://www.youtube.com/watch?v=JKEjo2M6wiA)
+:arrow_forward: [Magendarm Trakt Teil 2](https://www.youtube.com/watch?v=IOEqnDZ-vuo)
 
 ### Leber & Galle
 Leber:
@@ -598,14 +599,14 @@ Aufgaben:
   + fließt tlw in den Darm oder
   + Speicherung in Gallenblase
 
-:arrow_forward:[Leber erklärt](https://www.youtube.com/watch?v=PBz9S6SOpOY)
+:arrow_forward: [Leber erklärt](https://www.youtube.com/watch?v=PBz9S6SOpOY)
 
 ### Bauchspeicheldrüse
 + liegt hinter dem Magen
 + bildet Verdauungsfermente die in den Zwölffingerdarm gelangen
 + produziert lebenswichtige Hormone z.B.: Insulin und Glukagon die direkt ins Blut abgegeben werden.
 
-:arrow_forward:[Bauchspeicheldrüse/Pankreas - Organ | Medizin Grundlagen]https://www.youtube.com/watch?v=L-lOXDrD030)
+:arrow_forward: [Bauchspeicheldrüse/Pankreas - Organ | Medizin Grundlagen](https://www.youtube.com/watch?v=L-lOXDrD030)
 
 
 ## Harnsystem
@@ -628,7 +629,7 @@ Aufgaben:
 ### Harnleiter, Harnblase, Harnröhre
 Der von Niere produzierter Harn sammelt sich in Nierenbecken und gelangt dort über Harnleiter in Harnblase. Harn sammelt sich in Harnblase bis bestimmter Füllungsdruck entstanden ist und wird dann über Harnröhre ausgegeben.
 
-:arrow_forward:[Niere Harn-System Teil 1](https://www.youtube.com/watch?v=0kyk3m313GE)
+:arrow_forward: [Niere Harn-System Teil 1](https://www.youtube.com/watch?v=0kyk3m313GE)
 
 
 ## Weibliche Geschlechtsorgane
@@ -675,7 +676,7 @@ Störungen durch Giftstoffe von Krankheitserregern oder  körpereigene Giftstoff
 
 Extreme Wärme oder Kälte können Wärmehaushalt sehr beeinträchtigen und zu Störungen des Stoffwechsels, des Wasser- und Elektrolythaushaltes, des Säure-Basen-Haushaltes, des Bewusstseins, der Atmung und des Kreislaufs führen.
 
-:arrow_forward:[Dr. Max erklärt die Welt: Das Klimasystem des menschlichen Körpers](https://www.youtube.com/watch?v=jTRP4ZTtRrg&t=94)
+:arrow_forward: [Dr. Max erklärt die Welt: Das Klimasystem des menschlichen Körpers](https://www.youtube.com/watch?v=jTRP4ZTtRrg&t=94)
 
 ### Wasser- und Elektrolythaushalt
 + Steuerung wichtiger physikalisch-chemischer Reaktionen im Körper
