@@ -27,7 +27,7 @@ Nase
 + Mandeln für Immunabwehr
 
 **Kehlkopf**:
-+ verschließt Speiseröhre beim Schlucken
++ verschließt Luftröhre beim Schlucken
 + Stimmbildung
 
 **Luftröhre**:
@@ -36,7 +36,7 @@ Nase
 
 **Bronchien**:
 + verteilt die Luft in der Lunge, verästelt sich auf mikroskopgröße
-+ Festkörper landen meistens recht, welcher der rechte Ast steiler ist und der linke "abbiegt"
++ Festkörper landen meistens rechts, welcher der rechte Ast steiler ist und der linke "abbiegt"
 
 **Alveolen**:
 + die "Sackgasse" der Lunge
@@ -88,10 +88,10 @@ Nase
 | Atemfrequenz | AF | Atemzüge / min (12-15) | - |
 | Atemzugsvolumen | AZV | KG x10 aber eigentlich x7 | ml |
 | Atemminutenvolumen | AMV | AF x AZV | ml |
+| Totraum | - | KG x2 | ml |
 | Vitalkapzität | - | Voll ausatmen und voll einatmen (ca. 4L) | - |
 | Residialvolumen | - | Luftmenge, die nach max. Expiration in der Lunge verbleibt (1-1,5L) | - |
 | Totalkapazität | - | Vitalkapzität + Residialvolumen | - |
-| Totraum | - | KG x2 | mk |
 
 ![Lungenvolumen](https://rawgit.com/geraldbaeck/RS_WRK/master/charts/Lungenvolumen.svg)
 
@@ -166,23 +166,33 @@ Der Blutkreislauf besteht aus Lungenkreislauf (Funktion: Gasaustausch) und Körp
   + Thrombozyten (Bp)
 
 ### Aufgaben
-+ Transport von Sauerstoff, Wasser Hormonen usw. zu den Zellen
-+ Abtransport von Kohlendioxid, Abfallprodukten zu Ausscheidungsorganen (Lunge, Niere)
-+ Gerinnungsfunktion bei Verletzung
-+ Versorgung mit Abwehrstoffen und Schutz vor Infektionen
-+ Pufferfunktion bei Schwankungen des pH-Wertes
++ **Transport** von Sauerstoff, Wasser Hormonen usw. zu den Zellen
++ **Abtransport** von Kohlendioxid, Abfallprodukten zu Ausscheidungsorganen (Lunge, Niere)
++ **Gerinnungsfunktion** bei Verletzung
++ **Versorgung mit Abwehrstoffen** und Schutz vor Infektionen
++ **Pufferfunktion** bei Schwankungen des pH-Wertes
 + Träger der Blutgruppeneigenschaften
 
 ### Milz
-Liegt im linken Oberbauch, geschützt unter Rippenbogen. Teil der weißen Blutkörperchen wird hier gebildet (bei Embryos und Kleinkindern) und gespeichert, rote Blutkörperchen werden hier abgebaut und ins Blut eingedrungene Krankheitserreger abgefangen und abgewehrt.
++ Liegt im linken Oberbauch, geschützt unter Rippenbogen
++ Teil der weißen Blutkörperchen wird hier gebildet (bei Embryos und Kleinkindern) und gespeichert
++ rote Blutkörperchen werden abgebaut und ins Blut eingedrungene Krankheitserreger abgefangen und abgewehrt
 
 ### Lymphsystem, Immunsystem // TODO ausbauen
-Lymphatische System besteht aus Lymphgefäßen und –organen (Mandeln, Milz, Blinddarm) und reguliert Wasserhaushalt des Gewebes. In Lymphknoten werden Krankheitserreger gefiltert und unschädlich gemacht.
+Lymphatische System besteht aus:
++ Lymphgefäßen und
++ –organen
+  + Mandeln
+  + Milz
+  + Blinddarm
+Aufgaben:
++ reguliert Wasserhaushalt des Gewebes.
++ In Lymphknoten werden Krankheitserreger gefiltert und unschädlich gemacht.
 
 [![Alt text](https://img.youtube.com/vi/ClUOcvgAOnY/0.jpg)](https://www.youtube.com/watch?v=ClUOcvgAOnY)
 
 
-## Blutgefäße
+## Blutgefäße - *Aufgaben, Aufbau*
 
 ### Aufgaben
 + Leiten/führen des Blutes
@@ -196,19 +206,19 @@ Lymphatische System besteht aus Lymphgefäßen und –organen (Mandeln, Milz, Bl
 + Tunica media (Für Verengung und Erweiterung verantwortlich => Druck und Temperatur)
 + Tunica interna
 
-### Arterien
+#### Arterien
 + dickwandig
 + elastisch
 + pumpen vom Herzen weg (wenn das Herz zusammengezogen ist)
 
-### Kapillaren (Haargefäße)
+#### Kapillaren (Haargefäße)
 + Treffpunkt von Arteriolen und Venolen
 + sind die feinsten Aufzweigungen der Blutgefäße
 + Gasaustausch
 + ein Blutkörperchen passt durch
 + Besteh aus einer einzigen durchlässigen Zellschicht (Endothelschicht)
 
-### Venen
+#### Venen
 + dünnwandig
 + größerer Durchmesser als Arterie
 + fließt zum Herzen zurück
@@ -279,7 +289,7 @@ Wird durch die Tätigkeit des Herzens erzeugt, abhängig von:
 
 #### Werte
 | &nbsp; | systolisch (mmHg) | &nbsp; | diastolisch (mmHg) |
-| --- | --: | -:- | --: |
+| --- | ---: | :----: | ---: |
 | Hypotonie | < 100 | oder | < 60 |
 | Normotonie | 100-140 | und | 60-90 |
 | Hypertonie | > 140 | oder | > 90 |
@@ -299,18 +309,28 @@ Ist die äußere Schutzschicht des Menschen.
 + Felderhaut: Rest, Haare
 
 ### Aufbau
-**Oberhaut (Epidermis)**: ist ein mehrschichtig verhorntes Plattenepithel. Ist mit der darunter liegenden Lederhaut verbunden. Hautfarbe wird hier produziert. Keine Blutgefäße.
-**Lederhaut (Dermis)**: Bindegewebe durchzogen von Kollagenfasern. In der Lederhaut verlaufen Blut- und Lymphgefäße, freie Nervenendugungen und Nervenfasern deren Nervenendigungen (Schmerz-, Druck- und Temperaturkörperchen) reichen bis an die Oberhaut.
-**Unterhaut (Subcutis)**: hauptsächlich aus lockerem Bindegewebe und aus Fettzellen aufgebaut. (Speicher, Wärme, Stoßpuffer)
+#### Oberhaut (Epidermis)
++ mehrschichtig verhorntes Plattenepithel
++ mit der darunter liegenden Lederhaut verbunden
++ Hautfarbe wird hier produziert
++ keine Blutgefäße
+
+#### Lederhaut (Dermis)
++ Bindegewebe durchzogen von Kollagenfasern
++ Verlauf der Blut- und Lymphgefäße
++ freie Nervenendungen und Nervenfasern deren Nervenendigungen (Schmerz-, Druck- und Temperaturkörperchen) reichen bis an die Oberhaut
+
+### Unterhaut (Subcutis)
++ hauptsächlich aus lockerem Bindegewebe und aus Fettzellen aufgebaut. (Speicher, Wärme, Stoßpuffer)
 
 ![Schichten der Haut](https://upload.wikimedia.org/wikipedia/commons/0/0a/HautAufbau.png)
 
 ### Funktionen
-**Sinnesfunktion**: Wahrnehmung von Schmerz-, Druck- und Temperatur, größtes Sinnesorgan im Körper
-**Schutzfunktion**: Schützt Körper von Umwelteinflüssen
-**Temperaturregulation**: durch Erweiterung und Verengung der Hautgefäße sowie durch Flüssigkeitsabgabe mittels der Schweißdrüsen, Fett zum isolieren
-**Wasserhaushalt**: Schutz vor Austrocknung, kontrollierte Abgabe von Flüssigkeit und Salzen
-**Vitamin D Erzeugung?**
++ **Sinnesfunktion**: Wahrnehmung von Schmerz-, Druck- und Temperatur, größtes Sinnesorgan im Körper
++ **Schutzfunktion**: Schützt Körper von Umwelteinflüssen
++ **Temperaturregulation**: durch Erweiterung und Verengung der Hautgefäße sowie durch Flüssigkeitsabgabe mittels der Schweißdrüsen, Fett zum isolieren
++ **Wasserhaushalt**: Schutz vor Austrocknung, kontrollierte Abgabe von Flüssigkeit und Salzen
++ **Vitamin D Erzeugung?**
 
 [![Alt text](https://img.youtube.com/vi/6AgHgyKET7M/0.jpg)](https://www.youtube.com/watch?v=6AgHgyKET7M)
 [![Alt text](https://img.youtube.com/vi/IcB90SA0-gU/0.jpg)](https://www.youtube.com/watch?v=IcB90SA0-gU)
@@ -348,8 +368,8 @@ Ist die äußere Schutzschicht des Menschen.
 #### Aufbau
 + Hirnschädel
   + Schädeldach
-    + 2 Scheitelbeine
     + 2 Schläfenbeine
+    + 2 Scheitelbeine
     + Stirnbein
     + Hinterhauptbein
   + Schädelbasis
@@ -400,11 +420,19 @@ Der Brustkorb wird von 12 Rippenpaare die hinten mit den Brustwirbeln verbunden 
     + Darmbein
     + Schambein
     + Sitzbein
+  + Hüftgelenk
++ Oberschenkelkopf
++ Oberschenkelhals
++ Oberschenkelknochen
++ Kniescheiben
++ Unterschenkelknochen (Schienbein & Wadenbein)
++ Sprunggelenk
++ Srungbein, Fersenbein
++ Fußwurzelknochen
++ Mittelfußknochen
++ Zehen
 
-In der Pfanne des Hüftgelenks sitzt der Oberschenkelkopf. Dieser ist durch Oberschenkelhals mit Oberschenkelknochen verbunden. Gelenkflächen von Oberschenkelknochen und Schienbein bilden mit Kniescheibe das Kniegelenk. Neben dem Schienbein zählt das Wadenbein zu den Unterschenkelknochen.
-
-Unterschenkel mündet ins Sprunggelenk (Verbindung von Scheinbein, Wadenbein, Sprungbein und Fersenbein)
-Fußknochen bestehen aus Fußwurzelknochen, Mittelfußknochen und Zehen.
+![Mittelfuß](http://www.joggen-online.de/images/sportverletzungen/mittelfuss-anatomie.jpg)
 
 
 ## Muskulatur
@@ -432,8 +460,8 @@ Bewegung durch verkürzte Muskeln. Reize im Nervensystem lassen Muskeln zusammen
 
 ### Aufgaben
 + Sinneswahrnehmung
-+ Info ins Hirn leiten (afferent)
-+ Adäqaute Antwort weiterleiten (efferent)
++ Information ins Hirn leiten (afferent)
++ Adäquate Antwort weiterleiten (efferent)
 + Verarbeitung und Speicherung im Hirn
 
 ### Funktionsweise
@@ -446,21 +474,32 @@ Bewegung durch verkürzte Muskeln. Reize im Nervensystem lassen Muskeln zusammen
 Besteht aus Gehirn und Rückenmark und ist von Gehirn- bzw. Rückenhäuten umgeben. Zwischen ZNS und umhüllenden Häuten sowie in Hirnkammern befindet sich Gehirn- bzw. Rückenmarksflüssigkeit (Liquor).
 
 + Gerhirn
-  + Großhirn
-    + zwei Gehirnhälften
+  + Großhirn (Telencephalon)
+    + zwei Gehirnhälften, verbunden mit "Balken"
     + Sitz des Bewusstseins, Leistung, Intelligenz
     + Schaltzentrale des Nervensystems
     + Aufnahme und Verarbeitung von Sinneseindrücken
-    + steuert Bewegung.
-  + Kleinhirn
+    + steuert Bewegung
+    + Aufbau:
+      + Großhrinrinde (Cortex)
+      + Lappen:
+        + Frontallappen
+        + Temporallappen
+        + Scheitellappen
+        + Hinterhauptlappen
+  + Kleinhirn (Cerebellum)
     + Koordinationszentrum für Bewegungsabläufe
     + verantwortlich für aufrechte Haltung
     + räumliche Orientierung
   + Hirnstamm
     + Hauptzentrum des vegetativen Nervensystems
     + steuert alle Lebensvorgänge (Atem, Temperatur, Kreislauf)
+    + Aufbau:
+      + Verlängertes Rückenmark
+      + Brücke (Pons)
+      + Mittelhirn (reflexe, Augenbewegung)
 
-+ Zwischenhirn
++ Zwischenhirn (Diencephalon)
   + Schaltstelle zwischen Großhirn und Bereichen des zentralen Nervensystems
   + zwischen dem Großhirn und vegetativen Nervensystem.
 
@@ -471,20 +510,36 @@ Besteht aus Gehirn und Rückenmark und ist von Gehirn- bzw. Rückenhäuten umgeb
   + Aufgabe, Nervenimpulse vom Körper zum Gehirn sowie Impulse vom Gehirn zum Körper weiterzuleiten
   + verantwortlich für eine große Zahl lebenswichtiger Reflexe
 
+![Das Gehirn - Zentrales Nervensystem (ZNS)](https://img.youtube.com/vi/KU62jMxA5oc/0.jpg)](https://www.youtube.com/watch?v=KU62jMxA5oc)
+
 ### Peripheres Nervensystem
 Besteht aus Empfindungs- und Bewegungsnerven. Beide liegen meistens in einem gemeinsamen Nervenstrang.
-**Empfindungsnerven** nehmen Empfindungen auf: Wärme, Kälte, Schmerz, usw.: und leiten die Impulse über Rückenmark zu Gehirn weiter.
-**Bewegungsnerven**: erhalten Impulse vom Gehirn über RM und leiten zu den entsprechenden Muskeln weiter.
++ **Empfindungsnerven** (afferent): nehmen Empfindungen auf: Wärme, Kälte, Schmerz, usw.: und leiten die Impulse über Rückenmark zu Gehirn weiter.
++ **Bewegungsnerven** (efferent): erhalten Impulse vom Gehirn über RM und leiten zu den entsprechenden Muskeln weiter.
++ 12 Hirnnerven
++ 31 Spinalnerven
 
-#### Vegetatives Nervensystem
-Hat seinen Hauptsitz im Hirnstamm und regelt alle Lebensfunktionen unabhängig vom Willen des Menschen. Reguliert Atmung, Kreislauf, Blutdruck, Verdauung usw.
-Besitzt zwei Arten von Nervenfasern, die zu allen Organen des Körpers gelangen und dort Wirkung entfalten (zB: Verengung/Erweiterung der Blutgefäße).
+![Peripheres Nervensystem einfach erklärt](https://img.youtube.com/vi/18JPgHnUvLQ/0.jpg)](https://www.youtube.com/watch?v=18JPgHnUvLQ)
 
-##### Sympathicus
+### Somatisches Nervensystem
++ Bewusste Wahrnehmung
++ Bewusste Steuerung
+
+### Vegetatives Nervensystem (viszerales-, autonomes-)
++ Hauptsitz im Hirnstamm
++ regelt alle Lebensfunktionen unabhängig vom Willen
++ Reguliert Atmung, Kreislauf, Blutdruck, Verdauung usw.
++ regelt innere Homöostase
++ Besitzt zwei Arten von Nervenfasern, die zu allen Organen des Körpers gelangen und dort Wirkung entfalten (zB: Verengung/Erweiterung der Blutgefäße).
+
+#### Sympathicus (fight or flight)
 Das sympathische Nervensystem dominiert wenn Mensch in einer psychischen oder physischen Ausnahmesituation ist (Stress). Muskeln arbeiten verstärkt, brauchen mehr Energie und Sauerstoff. Atemfrequenz erhöht, Bronchien erweitern sich für höhere Luftzufuhr. Herzkranzgefäße erweitert, Herzfrequenz erhöht, Puls steigt.
 
-##### Parasympathicus
+#### Parasympathicus (Ruhenerv)
 Dominiert wenn Mensch ruhig und entspannt ist (Schlaf). Herz- und Atemfrequenz langsamer, Bronchien und Herzkrankgefö0e verengen sich. Verdauungsfunktionen aktiv
+
+![Peripheres Nervensystem einfach erklärt](https://img.youtube.com/vi/MuMNXg6_i9M/0.jpg)](https://www.youtube.com/watch?v=MuMNXg6_i9M)
+
 
 ## Endokrines System (Hormonsystem)
 Neben Nervensystem zur Steuerung körperlicher Vorgänge besitz menschliche Körper das endokrine System. Hier werden Hormone gebildet und an Blut abgegeben. Zu dem System zählen:
@@ -509,7 +564,7 @@ Verdauungsorgane dienen zur Aufnahme, Weitertransport und Verarbeitung von Nahru
     + rutschig machen
     + antimikrobiell durch Lysozyme
     + Kohlehydrate spalten durch Amylase)
-+ Pharynx (Rachen)
++ Pharynx (Kehlkopf)
   + Weiche verschließt Nase und Luftröhre
 + **Speiseröhre**  (Ösophagus)
   + Oberer Ösophagus sphinkter verhindert, dass Luft in den Magen gelangt
@@ -526,8 +581,8 @@ Verdauungsorgane dienen zur Aufnahme, Weitertransport und Verarbeitung von Nahru
 + **Dickdarm** (unverdauliche Substanzen: durch Wasserentzug Eindickung des Speisebreis, Blinddarm + Wurmfortsatz sind hier)  
 + Ausscheidung über **Mastdarm**
 
-[![Magendarm Trakt Teil 1](https://img.youtube.com/vi/JKEjo2M6wiA/0.jpg)](https://www.youtube.com/watch?v=JKEjo2M6wiA)
-[![Magendarm Trakt Teil 2](https://img.youtube.com/vi/IOEqnDZ-vuo/0.jpg)](https://www.youtube.com/watch?v=IOEqnDZ-vuo)
+![Magendarm Trakt Teil 1](https://img.youtube.com/vi/JKEjo2M6wiA/0.jpg)](https://www.youtube.com/watch?v=JKEjo2M6wiA)
+![Magendarm Trakt Teil 2](https://img.youtube.com/vi/IOEqnDZ-vuo/0.jpg)](https://www.youtube.com/watch?v=IOEqnDZ-vuo)
 
 ### Leber & Galle
 Leber:
