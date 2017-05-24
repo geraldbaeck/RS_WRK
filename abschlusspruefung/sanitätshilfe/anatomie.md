@@ -112,7 +112,7 @@ Physkalisch funktioniert der Gasaustausch auf Grund der Partialdruckdifferenz (O
 + Gasaustausch im Gewebe in den Kapillargefäßen
 + O2 gelangt zu den Zellen und diese geben CO2 ins Blut ab
 
-:arrow_forward: [Gasaustausch](https://www.youtube.com/watch?v=jnuxgbACsCo)
+:arrow_forward: [Gasaustausch](https://www.youtube.com/watch?v=jnuxgbACsCo)  
 :arrow_forward: [Blutgasanalyse: Partialdrücke leicht erklärt](https://www.youtube.com/watch?v=UG0G1Y_xR4o)
 
 ## Kreislaufsystem - *Bestandteile, Aufbau und Funktionsweise*
