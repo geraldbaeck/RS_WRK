@@ -6,7 +6,7 @@ Hier findest Du Unterlagen und Notizen zur Ausbildung zum Rettungssanitäter bei
 + [Zwischenprüfung MPG](zwischenpruefung/zwischenpruefung_mpg.md)
 + [Zwischenprüfung Erste Hilfe Fragen](zwischenpruefung/zwischenpruefung_erstehilfe.md)
 
-### Aschlussprüfung
+## Abschlussprüfung
 + Sanitätshilfe Theorie (Lisbeth Notter)
   + [Anatomie](abschlusspruefung/sanitätshilfe/anatomie.md)
   + [Hygiene](abschlusspruefung/sanitätshilfe/hygiene.md)
