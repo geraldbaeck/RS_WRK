@@ -1952,3 +1952,248 @@ Gruppe von Erkrankungen im Bauchraum, die vor allem durch heftige Bauchschmerzen
 
 ### Differentialdiagnosen
 ### Zu beachten
+
+## Verbrennungen
+Kontakt mit Feuer oder heißen Gegenständen, Schädigungen des Gewebes durch elektrischen Strom oder Strahlung
+Verbrühung: heiße Flüssigkeiten oder Dampf.
+
+| Grad | Symptome |
+| --- | --- |
+| 1 | Rötung, Schwellung, Schmerzen |
+| 2 | Grad: Blasenbildung, Schwellung, Schmerzen |
+| 3 | Grad: grauweiß, trocken, lederartige Hautgebiete, keine Schmerzen |
+
+**Lebensgefahr ab 20% Verbrennung** = großflächig (10%Kind, 5%Säugling)
++ Handfläche 1%
++ 9er Regel
+  + Kopf, Arm, Bein 9%
+  + Brustkorb v/h, Bauch v/h 18%
+
+
+### Symptome
++ Schmerzen
++ Blasenbildung
++ Hustenreiz
++ Verrußter Nasen-Rachen-Raum
+
+### Komplikationen
++ Atemnot
++ Zusatzverletzungen
+
+#### Verbrennungskrankheit
+Freisetzung von gefäßaktiven Substanzen im Körper bewirkt Flüssigkeitsverlust und Entstehung von massiven Ödemen. Schockzustand wird durch Abgabe von Flüssigkeit über Wundflächen verstärkt. Kann zu Versagen lebenswichtiger Organe (besonders Nieren und Lunge) führen.
+
+#### Inhalationstrauma
+Schädigung der Atemweg sehr sicher wenn Pat. aus Bränden in geschlossenen Räumen gerettet werden.
+
+### Maßnahmen
++ evtl. Kühlen
++ Wärmeerhaltung
++ nasse Kleidung entfernen
++ Entfernung von Schmuckstücken etc.
++ keimfreie Versorgung
++ Bei Verdacht auf Inhalationstrauma = SPO2-Gabe 10-15l
+
+
+## Hitzschlag, Hitzeerschöpfung
+Durch körperliche Anstrenung und schwere arbeit in heißer Umgebung und erschwerte Schweißabgabe kommt es zu einem Wärmestau und zu einer Erhöhung der Körpertemperatur.
+
+### Symptome
++ heiße, rote Haut oder Blässe
++ Fehlende Schweißabsonderung
++ Evlt. Erhöhte Körpertemperatur
++ Bewusstseinsstörung
+
+### Komplikationen:
++ Bewusstlosigkeit
+
+### Maßnahmen:
++ Pat. in Schatten bringen
++ Kleidung möglichst entfernen
++ Pat. kühlen und Flüssigkeit verabreichen
++ Lagerung mit erhöhtem Oberkörper
++ Allg. Maßnahmen
+
+
+## Sonnenstich
+= Hirnhautreizung
+
+### Symptome:
++ Heißer, roter Kopf
++ Kopfschmerzen, evtl. Nackensteifigkeit
++ Schwindel, Übelkeit, Erbrechen
++ Hyperventilation, Krämpfe
++ Bewusstseinsstörungen
+
+### Komplikationen:
++ Bewusstlosigkeit
++ Hirndrucksteigerung
+
+### Maßnahmen:
++ Pat. in den Schatten bringen
++ Kleidung möglichst entfernen
++ Pat. kühlen, Flüssigkeit verabreichen
++ Lagerung mit erh. Oberkörper
+
+
+## Erfrierung
+Durch Kälte hervorgerufene Gewebsschäden. Die Beurteilung ist schwierig, im Zweifelsfall immer von einer Erfrieung ausgehen.
+
+### Symptome:
+Bei oberflächlicher Schädigung:
++ Gefühllosigkeit
++ Blässe
++ Prickelnde Schmerzen
++ Baurote Verfärbung
+
+Bei tief gehender Erfrierung:
++ Blasenbildung
++ Weiße bis blaurote Verfärbung
++ Bewegungseinschränkung
++ Starke Schmerzen
+
+Komplikationen:
++ Infektionen
++ Verlust der betroffenen Körperteile
+
+Maßnahmen:
++ Körperwärme erhalten
++ Beengende Kleidung öffnen
++ Keimfreie Wundversorgung
++ Betroffene Körperteile vor weiterer Kälteeinwirkung und Belastung schützen
++ Verabreichung warmer Getränke
+
+
+## Unterkühlung
+=Absinken der Kernkörpertemperatur unter Normtemperatur von 36 Grad Celsius.
+
+### Symptome, Komplikationen:
+
+| Stadium | Temp | Symptome |
+| --- | ---: | --- |
+| Erregungsstadium | 34-36° | Unruhe, Kältezittern, Gliedmaßenschmerzen, Atem- und Herzfrequenz erhöht |
+| Erschöpfungsstadium | 30-34° | Schläfrigkeit, Verlangsamung von Atmung und Herztätigkeit, Muskelstarre |
+| Lähmungsstadium | 27-30° | Zunächst Bewusstseinseintrübung, gefolgt von Bewusstlosigkeit |
+| Endstadium | >27° | Atem-Kreislauf-Zustand |
+
+### Maßnahmen:
++ Kontrolle der Lebensfunktionen
++ lebensrettende Sofortmaßnahmen
++ vorsichtige Rettung in vorgefundener Stellung
++ Pat. vor weiterem Wärmeverlust schützen
++ Herzdruckmassage und Beatmung (max. 3 Defibrillationen bei KKT unter 30 Grad)
+
+
+## Nasenbluten (Epistaxis)
+
+### Ursachen
++ Trauma
++ Nasenbohren, -putzen
++ rasche Überwindung von Höhenunterschieden
++ Hypertonie
++ Gerinnungsbeeinflussende Medikamente, Gerinnungsstörungen
++ vermehrte Durchblutung durch Erkältung, Heuschnupfen
+
+### Komplikationen
++ Apiration von Blut
++ Übelkeit, Erbrechen
+
+### Maßnahmen
++ aufrecht hinsetzen
++ Oberkörper und Kopf nach vorne
++ Blutendes Nasenloch zudrücken
++ kalte Kompresse in den Nacken
++ Nierentassen und Zellstoff reichen
+
+
+## Bluthusten
+
+### Ursachen
++ TBC
++ Lungenkrebs
++ Lungeninfarkt
++ Herzkrankheiten
+
+### Symptome
++ schaumig-blasiger Auswurf
++ Atemnot
++ Unruhe
++ Angst vor Ersticken
+
+### Komplikationen
++ ja nach Grunderkrankung
+
+### Maßnahmen
++ Erhöhter Oberkörper
++ Nierentasse und Zellstoff
++ O2 bei Atemnot
++ PSA nicht vergessen!!!
+
+
+## Bluterbrechen
+
+### Ursachen
++ Erkrankungen des oberen Verdauungstraktes
++ Magen- oder Zwölffingerdarmgeschwür
++ Krampfadern der Speiseröhre (Ösophagusverzien)
+
+### Symptome
++ Kaffesatzartiges Erbrechen
++ Übelkeit
+
+### Maßnahmen
++ erhöhter Oberkörper
++ evt prophylaktische Seitenlage
+
+
+## Blut im Stuhl
+
+### Ursachen
++ Blutung im Verdauungstrakt
+  + Hämorrhoiden
+  + Schwere Darminfektion
+  + Polypen
+  + tumore
+
+### Symptome
++ Blut im Stuhl
++ teerfarbener Stuhl
++ dem Stuhl aufgelagertes Blut (Hämorrhoiden)
+
+### Maßnahmen
++ Flache Rückenlage mit angezogenen Beinen (Knierolle)
+
+
+## Blut im Harn
+### Ursachen
++ evt Nierenkolik
++ Blasentumor
++ Gerinnungshemmer
++ selten lebensbedrohlich
+
+### Maßnahmen
++ Allgemeine Maßnahmen
+
+
+## Verletzungen durch Kathedersysteme
+
+### Ursachen
++ uabsichtliches Herausreißen eines Harnkatheders
+
+### Symptome
++ große Schmerzen
++ Blutiger Harnkatheders
++ Wunden im Bereich des Harnleiters
+
+### Maßnahmen
++ Harnfluss eindämmen (saugendes Material, Lagerung)
++ evt Wundversorgung
++ Lagerung nach Fritsch
+
+## Schockformen
+### obstruktiv
+### kardiogen
+### distributiv (Gefäßweitsetllung, Verteilungsstörung)
+#### anphylaktisch
+#### septisch
+#### neurogen
