@@ -109,11 +109,17 @@ folgende Maßnahmen dienen Verhütung von Nadelstich- und Schnittverletzungen:
 ## Infektionsquellen
 Infektionen sind Erkrankungen, die durch Eindringen und Vermehrung von Mikroorganismen im Körper entstehen.
 
-• Infizierte Menschen am Ende der Inkubationszeit und während Erkrankung, nach überstandener Krankheit, ohne Erkrankung (Keimträger)
-• Leichen
-• Umwelt
-• infizierte Tiere
-• Krankheitserreger: Viren, Bakterien, Pilze, Würmer u.a.
+Quellen:
++ Infizierte Menschen am Ende der Inkubationszeit und während Erkrankung, nach überstandener Krankheit, ohne Erkrankung (Keimträger)
++ Leichen
++ Umwelt
++ infizierte Tiere
+
+Krankheitserreger:
++ Viren
++ Bakterien
++ Pilze
++ Würmer u.a.
 
 ## Eintrittspforten
 + Schleimhäute des Verdauungs-, Atmungs-, Harn- und Geschlechtstraktes
@@ -148,13 +154,13 @@ Vorbeugende Maßnahmen bei Infektionspatient z.B.: Stuhl & Blut – für medizin
 ### Typ 1:
 Bei möglichen Kontakt mit Körpersekreten oder Ausscheidungen
 + Handschuhe
-+ Desinfektion
-+ Einmalschürze
++ Desinfektion, Händedesinfektion
++ ggf. Einmalschürze
 + sichere Abfallentsorgung
 
 ### Typ 2:
 Bei Verdacht auf Tröpfcheninfektion oder aerogene Übertragung, zusätzlich zu Typ 1:
-+ Mundschutz
++ Mundschutz für Patienten
 + nachher Auto lüften
 + Oberflächendesinfektion
 
@@ -173,12 +179,12 @@ z.B.: Schnittverletzungen, Hautexposition, Schleimhautexposition, Krankenanstalt
 + danach mit virusinaktivierendem Antiseptikum auf Mulltupfer benetzen.
 + Mull fixieren und immer wieder benetzen mind 10 min
 
-**Schnittverletzungen**: Blutfluss durch Spreizen der Wunde verstärken. Danach antiseptische Spülung mit alkohol. Hautdesinfekt.
-**Hautexposition**: sofortiges Entfernen des potenziell infektiösen Materials mit alkoholgetränkten Tupfer. Danach Abreiben der Hautoberfläche mit großzügiger Einbeziehung des Umfelds um sichtbar kontaminiertes Areal.
-**Schleimhautexposition**: sofort und ausgiebig spülen
-**Weitergehende Maßnahmen**: im Anschluss an Sofortmaßnahmen ist KH aufzusuchen. Verletzung dokumentieren und entsprechend den lokalen Regelungen melden.
-**Postexpositionelle HIV-Prophylaxe (PEP)**: innerhalb von 1-2 Std. aber innerhab vonm 48-72 Std jedenfalls beinnen.
-**Postexpositionelle Meningitis-Prophylaxe**: Antibiotika
++ **Schnittverletzungen**: Blutfluss durch Spreizen der Wunde verstärken. Danach antiseptische Spülung mit alkohol. Hautdesinfekt.
++ **Hautexposition**: sofortiges Entfernen des potenziell infektiösen Materials mit alkoholgetränkten Tupfer. Danach Abreiben der Hautoberfläche mit großzügiger Einbeziehung des Umfelds um sichtbar kontaminiertes Areal.
++ **Schleimhautexposition**: sofort und ausgiebig spülen
++ **Weitergehende Maßnahmen**: im Anschluss an Sofortmaßnahmen ist KH aufzusuchen. Verletzung dokumentieren und entsprechend den lokalen Regelungen melden.
++ **Postexpositionelle HIV-Prophylaxe (PEP)**: innerhalb von 1-2 Std. aber innerhab vonm 48-72 Std jedenfalls beinnen.
++ **Postexpositionelle Meningitis-Prophylaxe**: Antibiotika
 
 
 ## Infektionstransport
@@ -241,6 +247,11 @@ Abwehr einer Infektion ohne Auftreten von Symptomen
 ### Latente Infektion
 Zwischen Erreger und Abwehr besteht ein Gleichgewicht, zeitlich unbegrenzt oder so lange, bis einer von beiden überwiegt und entweder die Krankheit ausbricht oder der Erreger abgetötet wird.
 
+### Hygieneteam
+In Gesundheitseinrichtungen gibt es sog. Hygieneteams.  Diese sind Bestandteil der standadisierten Qualitätskontrolle.
+
+
+## Epidemie, Pandemie, Endemie
 ### Epidemie
 Zeitlich & Örtlich begrenztes Auftreten einer Infektionskrankheit (Grippe, Salmonellen)
 
@@ -249,9 +260,6 @@ Zeitlich & Örtlich begrenztes Auftreten einer Infektionskrankheit (Grippe, Salm
 
 ### Endemie
 Örtlich begrenztes Auftreten einer Infektionskrankheit (FSME, Malaria, Lepra)
-
-### Hygieneteam
-In Gesundheitseinrichtungen gibt es sog. Hygieneteams.  Diese sind Bestandteil der standadisierten Qualitätskontrolle.
 
 
 ## HIV, AIDS

@@ -172,12 +172,12 @@ Der Blutkreislauf besteht aus Lungenkreislauf (Funktion: Gasaustausch) und Körp
 + **Pufferfunktion** bei Schwankungen des pH-Wertes
 + Träger der Blutgruppeneigenschaften
 
-### Milz
+## Milz
 + Liegt im linken Oberbauch, geschützt unter Rippenbogen
 + Teil der weißen Blutkörperchen wird hier gebildet (bei Embryos und Kleinkindern) und gespeichert
 + rote Blutkörperchen werden abgebaut und ins Blut eingedrungene Krankheitserreger abgefangen und abgewehrt
 
-### Lymphsystem, Immunsystem // TODO ausbauen
+## Lymphsystem, Immunsystem
 Lymphatische System besteht aus:
 + Lymphgefäßen und
 + –organen

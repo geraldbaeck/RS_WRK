@@ -1,20 +1,20 @@
-## Geburt
+## Geburt - *Dauer, Geburtstermin*
 
 **Dauer**: 40 Wochen ab Befruchtung der Eizelle
 **Errechneter Geburtstermin**: 1 Jahr nach dem ersten Tag der letzten Regelblutung plus sieben Tage minus 3 Monate; Abweichungen bis zu 2 Wochen sind normal; Mit Hilfe Ultraschall kann der Termin genauer bestimmt werden.
 
-### Lage des Kindes
+## Lage des Kindes
 | % | Lage |
 |--:|:--|
 | 96% | Längslage mit Kopf als führenden Körperteil (Hinterhauptlage) |
 | 3% | Steißlage (Beckenendlage) |
 | 1% | Querlage |
 
-#### Beckenendlage (Steißlage)
+### Beckenendlage (Steißlage)
 + Steiß zuerst, Kopf zuletzt
 + Geburtsfortschritt meisten gering => Krankenhaus kann erreicht werden; außer Frühgeburt od Mehrgebährende
 
-### Phasen
+## Phasen der Geburt
 
 | Phase | Dauer | Wehenintervall | Wehendauer |
 | --- | --- | --- | --- |
@@ -23,11 +23,7 @@
 | Austreibungsperiode | 0.5-3h | 2-3min | 60-90s |
 | Nachgeburtsperiode | 15-20min | - | - |
 
-#### Beginn
-+ regelmäßig 2-3 Wehen (Dauer 30 Sek.) 10 min. Pause
-+ Blasensprung und Fruchtwasserabgabe
-
-#### Eröffnungsperiode
+## Eröffnungsperiode
 + 7-12 Std. Dauer
 + regelmäßige Wehen alle 3-5 min
 + Wehendauer ca. 30-60 Sek.
@@ -36,20 +32,20 @@
 + gegen Ende oft Blasensprung
 + Muttermund kompl. offen =>
 
-#### Austreibungsphase
+## Austreibungsphase
 + 1,5-3 Std. Wehen alle 2-3 min. (Dauer 60-90 Sek.)
 + Kontraktion Gebärmutter und Bauchdecke = Presswehen
 + Drehbewegungen von Kopf und Körper, Erscheinen des Kopfes, weicht in der Wehenpause wieder zurück
 + Das Hinterhaupt stemmt sich gegen die Schambeinfuge, von hinten erscheint das Gesicht, Kopf dreht sich zur Seite, erscheinen der vorderen Schulter dann der hinteren
 + zuletzt gleitet der übrige Körper rasch raus, dann restliches Fruchtwasser
 
-#### Nachgeburtsperiode
+## Nachgeburtsperiode
 + ca. 15-20 min.,
 + durch Nachgeburtswehen wird die Plazenta von der Gebärmutter gelöst und nach außen gepresst.
 + Blutungen in Nachgeburtsperiode können aufgrund einer unvollständigen Plazentalösung, Muskelschwäche der Gebärmutter oder Gerinnungsstörung auftreten => Maßnahme: Wehe anreiben
 + Achtung! Plazenta augbewahren.
 
-### Anamnese/Fragen
+## Anamnese/Fragen
 + Wie viele Geburten?
 + Wehen, wenn ja welche Abstände?
   + länger als 7-10 min = Eröffnungsperiode
@@ -60,7 +56,7 @@
 + Blutungen?
 + Mutter Kind Pass
 
-### Maßnahmen
+## Maßnahmen
 + Lagerung der Mutter liegend und linksseitig
 + Wenn das Hinterhaupt in der Wehenpause sichtbar bleibt == Mutter in Geburtsposition (Sitzend Beine angezogen oder knieend)
 + Farhzeug abstellen und gut heizen
@@ -92,7 +88,7 @@ Unmittelbar nach der Geburt wird im ersten Eindruck beurteilt:
 + reduziert: langsam, träge, evt nach Reiz
 + schlaff
 
-### Sicherstellen der Lebensfunktionen
+## Sicherstellen der Lebensfunktionen
 
 + Sorgfältig abtrocknen (Stimulation regt zur Spontanatmung an)
 + Sofort abnablen
