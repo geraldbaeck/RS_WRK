@@ -100,6 +100,11 @@ Situation vor Ort (Stimmt die Alarmierung? Was ist wirklich los?)
 ## :bangbang: KRITISCH ODER STABIL :interrobang:
 
 ## D - Disability - Defizit - neurologischer Status
+Warnzeichen:
++ Schwindel
++ Gangunsicherheit
++ Verwirrtheit
+
 Orientierung prüfen:
 + zeitlich
 + situativ
@@ -110,21 +115,16 @@ Bewusstseinszustand prüfen:
 + evt. Blutzucker messen
 
 Neurologischen Status prüfen:
-+ [Pupillenkontrolle](abschlusspruefung/pupillenkontrolle.md)
++ [Pupillenkontrolle](pupillenkontrolle.md)
 + Sensibilität
 + Motorik
 + SHT?
 
-Weitere Warnzeichen:
-+ Schwindel
-+ Gangunsicherheit
-+ Verwirrtheit
-
-**Bei Auffällgkeiten [FAST](abschlusspruefung/fast.md)**
+**Bei Auffälligkeiten [FAST](fast.md)**
 
 
 ## E - Exposure - Erweiterte Untersuchung
 Untergliedert sich in drei Bereiche:
-+ [SAMPLE-Anamnese](abschlusspruefung/SAMPLE.md)
-+ [Strukturierte (apparative) Untersuchung](abschlusspruefung/strukturierte_Untersuchung.md)
-+ [Traumatologischer Notfallcheck eg. Traumcheck](abschlusspruefung/traumacheck.md)
++ [SAMPLE-Anamnese](SAMPLE.md)
++ [Strukturierte (apparative) Untersuchung](strukturierte_Untersuchung.md)
++ [Traumatologischer Notfallcheck eg. Traumcheck](traumacheck.md)

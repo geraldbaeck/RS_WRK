@@ -20,7 +20,7 @@ Sauerstoffmangel aufgrund von plötzlichen Durchblutungsstörung. Minderdurchblu
 
 ##### Symptome
 + Schwäche, Gefühlsstörung, Lähmung einer Körperseite (Lähmung, Taubheit, Kribbeln)
-+ Löhmung einer Gesichtshälfte, hängender Mundwinkel
++ Lähmung einer Gesichtshälfte, hängender Mundwinkel
 + Sprechschwierigkeiten, Sprachverständnisschwierigkeiten
 + Plötzliche Sehstörung, Gesichtsfeldausfälle, Doppelbilder, evt. [Herdblick](https://de.wikipedia.org/wiki/D%C3%A9viation_conjugu%C3%A9e)(synchrone Augenbewegung zur Seite)
 + Plötzlicher Schwindel, Gangunsicherheit
@@ -51,7 +51,7 @@ Eine Unterscheidung zwischen Ischämischen und Häorragischen Insult kann nur du
 
 ### Komplikationen
 + Bewusstlosigkeit
-+ [Aspiration](https://de.wikipedia.org/wiki/Aspiration_(Medizin))
++ Aspiration
 
 ### Maßnahmen:
 *ohne Bewusstsein*:

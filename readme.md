@@ -23,6 +23,7 @@ Hier findest Du Unterlagen und Notizen zur Ausbildung zum Rettungssanitäter bei
   + [FAST](abschlusspruefung/fast.md)
   + [SAMPLE](abschlusspruefung/SAMPLE.md)
   + [OPQRST](https://de.wikipedia.org/wiki/OPQRST)
+  + [Strukturierte Apparative Untersuchung](abschlusspruefung/strukturierte_untersuchung.md)
   + [AVPU](https://de.wikipedia.org/wiki/AVPU)
   + [Pupillenkontrolle](abschlusspruefung/pupillenkontrolle.md)
 + Trauma (Lucas Gabriel)

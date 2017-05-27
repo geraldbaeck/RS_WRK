@@ -12,4 +12,4 @@
 
 ## Venflon - Mandril
 
-##  7 Hals-, 12 Brust- und 5 Lendenwirbel, Kreuz- und Steißbein
+## 7 Hals-, 12 Brust- und 5 Lendenwirbel, Kreuz- und Steißbein
