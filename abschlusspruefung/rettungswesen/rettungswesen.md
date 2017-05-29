@@ -32,9 +32,13 @@ Darüber hinaus hängt die Wahl des richtigen Einsatzmittels von Entfernung, Sic
 
 
 ## Hubschraubereinsatz Einsatzzeiten, Einweisen
-Einsatzzeit: von 6:00 Uhr (im Winter später) bis Sonnenuntergang.
-Landung immer gegen den Wind, Einweiser wird per Funk verständigt, dieser stellt sich in ca. 5 m Entfernung vom Aufsetzplatz mit dem Wind im Rücken hin bis zum Aufsetzen – Blickkontakt zum Piloten halten, um Anweisungen befolgen zu können. Gestreckte Hände = „YES“, nur von der Vorderseite nach Aufforderung nähern.
-Übergabe des Patienten auf Vakuummatratze.
++ Einsatzzeit: von 6:00 Uhr (im Winter später) bis Sonnenuntergang.
++ Landung immer gegen den Wind, EinweiserIn wird per Funk verständigt
++ EinweiserIn stellt sich in ca. 5 m Entfernung vom Aufsetzplatz mit dem Wind im Rücken hin bis zum Aufsetzen
++ Blickkontakt zum Piloten halten, um Anweisungen befolgen zu können.
++ Gestreckte Hände = „YES“
++ nur von der Vorderseite nach Aufforderung nähern.
++ Übergabe des Patienten auf Vakuummatratze.
 
 
 ## Einsatzleitstelle Aufgaben
@@ -69,6 +73,20 @@ Ja, er darf Anweisungen dazu geben, da er sich mit dem Patienten auseinander set
 
 ## PatientenInnenübergabe - *Was versteht man unter Übergabe im Krankenhaus? Wann ist sie abgeschlossen?*
 Übergeben wird der Patient im Krankenhaus an ein Krankenpflegepersonal oder einen Arzt, es werden Informationen zum Zustand des Patienten und Maßnahmen weitergegeben. Der Patient befindet sich erst nach dem Stempeln des Transportscheins in der Obhut des jeweiligen Spitals. Zu Hause ist der Patient bis zur Wohnung zu begleiten.
+
+### PLUMPES Übergabeschema
+#### Patientendaten
+Name, Alter, Auffindesituation
+#### Leitsymptom
+#### Untersuchungsergebnisse
+Vitalwerte, Ergebnisse von D & E
+#### Medikamente
+#### Patienengeschichte
+Vorerkrankungen, Spitalsaufenthalte, Beschwerdegeschichte, Allergien
+#### Erfolgte Maßnahmen
+Immobilisation, Wundversorgung, Zugang, Medikamentengabe
+#### Sozialanamnese
+Schlüssel, Entlassungsverhinderungen, Kontaktperson, Probleme: Sprache, Aggression, Demenz
 
 
 ## Retten Definition
