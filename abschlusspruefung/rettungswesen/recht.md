@@ -74,11 +74,11 @@ Versorgung und Betreuung von Patienten ist durchzuführen:
   + Aufklärung muss die Notwendigkeit, Wirkung und die möglichen Komplikationen beinhalten
 
 + Ab 14 darf jeder Patient selbst über Behandlung entscheiden, außer besonders schützendwerte Personengruppen, wie
-  + psychich Erkrankte
+  + psychisch Erkrankte
   + geistig Behinderte
   + Besachwalterte
 + Keine Behandlung/Transport => Revers
-  + Voraussetzung: Einsichts- und Urteilsfähigkeit
+  + Voraussetzung: **Einsichts- und Urteilsfähigkeit**
 
 
 ## PatientInnenverfügung - *Was versteht man darunter? Für wen gilt sie?*
