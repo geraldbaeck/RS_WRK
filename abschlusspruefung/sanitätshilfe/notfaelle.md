@@ -466,7 +466,11 @@ Risikofaktoren:
 ## Hyperventilationssyndrom
 
 ### Definition
-Unter (alveolärer) Hyperventilation versteht man die **verstärkte Abatmung von CO&#8322;**, die auf einem **verstärktem Atemantrieb (Hyperpnoe)** beruht.Durch vermehrtes Abatmen von CO&#8322; entsteht in Folge ein Kalziummangel, der zu Kontraktion der Muskeln führt. Bevor Maßnahmen ergriffen werden, muss ausgeschlossen sein, dass andere Gründe verantwortlich sind, wie SHT, hohes Fieber, O&#8322;-Mangel aufgrund von Verletzungen….
++ **verstärkte Abatmung von CO&#8322;**, die auf einem **verstärktem Atemantrieb (Hyperpnoe)** beruht.
++ entsteht in Folge ein Kalziummangel, der zu Kontraktion der Muskeln führt.
++ respiratorische Alkalose (hoher PH = basisch)
+
+Bevor Maßnahmen ergriffen werden, muss ausgeschlossen sein, dass andere Gründe verantwortlich sind, wie SHT, hohes Fieber, O&#8322;-Mangel aufgrund von Verletzungen….
 
 ### Ursachen
 + Psychogenes Hyperventilationssyndrom: durch eine emotionale Stresssituation wie Angst, Aufregeung, Extase od Schmerz
@@ -1043,7 +1047,7 @@ Durch Schuss-, Stich- und Pfählungsverletzungen kann es zu Öffnung des Brustko
 ## Bauchverletzungen - Beckenverletzung
 
 ### Definition
-Durch Verkehrsunfälle, Sturz aus großer Höhe. Knöcherne Struckturen, große Gefäße, Nerven und im Becken liegende Organe können verletzt werden. Beckenverletzungen können präklinisch nur auf Grund er Unfallmechanik und der Schmerzsymptomatik vermutet werden.
+Durch Verkehrsunfälle, Sturz aus großer Höhe. Knöcherne Strukturen, große Gefäße, Nerven und im Becken liegende Organe können verletzt werden. Beckenverletzungen können präklinisch nur auf Grund er Unfallmechanik und der Schmerzsymptomatik vermutet werden.
 
 ### Symptome
 + Schmerzen
@@ -1085,7 +1089,7 @@ Durch stumpfe Gewalteinwirkung, Verletzung von Milz, Leber, Niere, Darm, Zwerchf
 Bauchverletzung in Folge von Gewalteinwirkung von außen durch scharfen oder spitzen Gegenstand. (zb Stich- & Schusswaffen, Pfählungsverletzungen, herausgerissene Sonde)
 
 #### durch Stoma, PEG-Sonde & Suprabubischen Katheter
-Kommt es zu Verletzungen durch die unsachgemäße Verwendung von künstlichen Bauchausgängen, ist prinzipiell wie bei einem offenen Bauchtraum vorzugehen.
+Kommt es zu Verletzungen durch die unsachgemäße Verwendung von künstlichen Bauchausgängen, ist prinzipiell wie bei einem offenen Bauchtrauma vorzugehen.
 + Stoma (künstliche Öffnung des Verdauungstraktes)
 + PEG-Sonde (künstliche Ernährung durch die Bauchdecke)
 + Suprabubischer Katheter (Harnableitung über die Bauchdecke)
@@ -1114,7 +1118,11 @@ Kommt es zu Verletzungen durch die unsachgemäße Verwendung von künstlichen Ba
 ## Extremitätentrauma - Quetschung, Prellung (Kontusion)
 
 ### Definition
-Eine Prellung oder Kontusion ist die Schädigung durch Gewalt von außen, die nicht mit sichtbaren Hautverletzungen einhergehen müssen. Die Folge sind Ödeme des Gewebes und Blutaustritt aus beschädigten Kapillaren in das umliegende Gewebe, was als Bluterguss oder Prellmarke sichtbar werden kann und mit Schmerzen und Schwellung der betroffenen Region verbunden ist.
++ Schädigung durch Gewalt von außen
++ muss nicht mit sichtbaren Hautverletzungen einhergehen
++ Folge sind Ödeme des Gewebes und Blutaustritt aus beschädigten Kapillaren in das umliegende Gewebe
++ = Bluterguss oder Prellmarke
++ mit Schmerzen und Schwellung der betroffenen Region verbunden
 
 ### Symptome
 + Schmerzen
@@ -1588,7 +1596,7 @@ Bis 48 Std. nach Unfall kann es zu Verschlechterung des Zustandes kommen, daher 
 + Nasse Kleidung entfernen
 + Wärmeerhalt
 + Leicht erhöhter Oberkörper
-+ Sauerstoofgabe
++ Sauerstoffgabe
 + Absaugbereitschaft
 
 ### Anamnese

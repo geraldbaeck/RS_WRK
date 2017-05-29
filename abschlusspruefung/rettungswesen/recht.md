@@ -68,14 +68,16 @@ Versorgung und Betreuung von Patienten ist durchzuführen:
   + Selbstbestimmungsrecht
   + Recht zur sachgemäßen Versorgung
   + Recht auf Dokumentationseinsicht
-Es ist eine informierte Einwilligung einzuholen:
+  + Recht auf Datenschutz/Verschwiegenheit
+
++ Es ist eine informierte Einwilligung einzuholen:
   + Aufklärung muss die Notwendigkeit, Wirkung und die möglichen Komplikationen beinhalten
-+ Ab 14 darf jeder Patient selbst über Behandlung entscheiden, außer
-  + besonders schützendwerte Personengruppen, wie
-    + psychich Erkrankte
-    + geistig Behinderte
-    + Besachwalterte
-+ Keine Bahandlung/Transport => Revers
+
++ Ab 14 darf jeder Patient selbst über Behandlung entscheiden, außer besonders schützendwerte Personengruppen, wie
+  + psychich Erkrankte
+  + geistig Behinderte
+  + Besachwalterte
++ Keine Behandlung/Transport => Revers
   + Voraussetzung: Einsichts- und Urteilsfähigkeit
 
 
