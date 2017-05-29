@@ -1088,11 +1088,11 @@ Durch stumpfe Gewalteinwirkung, Verletzung von Milz, Leber, Niere, Darm, Zwerchf
 ### Definition
 Bauchverletzung in Folge von Gewalteinwirkung von außen durch scharfen oder spitzen Gegenstand. (zb Stich- & Schusswaffen, Pfählungsverletzungen, herausgerissene Sonde)
 
-#### durch Stoma, PEG-Sonde & Suprabubischen Katheter
+#### durch Stoma, PEG-Sonde & Suprapubischen Katheter
 Kommt es zu Verletzungen durch die unsachgemäße Verwendung von künstlichen Bauchausgängen, ist prinzipiell wie bei einem offenen Bauchtrauma vorzugehen.
 + Stoma (künstliche Öffnung des Verdauungstraktes)
 + PEG-Sonde (künstliche Ernährung durch die Bauchdecke)
-+ Suprabubischer Katheter (Harnableitung über die Bauchdecke)
++ Suprapubischer Katheter (Harnableitung über die Bauchdecke)
 
 ### Symptome
 + Wunde im Bereich der Bauchdecke
@@ -1801,9 +1801,9 @@ Besonders gefährdet sind Menschen:
 
 ## Schwangerschaft und Geburt (G53)
 
-**Gebärmutter** ist 8cm großer Hohlmuskel, dehnt sich bei Schwangerschaft aus.
-**Plazenta**: Mutterkuchen – dient zur Versorgung von O2, Ernährung und Stoffwechselausscheidungen des Kindes und Hormonproduktion für Erhaltung der Schwangerschaft.
-**Eihäute**: setzen an der Plazenta an und bildenen einen mit Fruchtwasser gefüllten Fruchtsack in dem das Kind durch die Nabelschnur mit Plazenta verbunden, schwimmt. Fruchtwasser hat Stoßdämpferfunktion.
++ **Gebärmutter** ist 8cm großer Hohlmuskel, dehnt sich bei Schwangerschaft aus.
++ **Plazenta**: Mutterkuchen – dient zur Versorgung von O2, Ernährung und Stoffwechselausscheidungen des Kindes und Hormonproduktion für Erhaltung der Schwangerschaft.
++ **Eihäute**: setzen an der Plazenta an und bildenen einen mit Fruchtwasser gefüllten Fruchtsack in dem das Kind durch die Nabelschnur mit Plazenta verbunden, schwimmt. Fruchtwasser hat Stoßdämpferfunktion.
 
 | Bezeichnung | SSW | Gewicht | Lebenszeichen |
 | --- | --- | --- | --- |
@@ -1952,9 +1952,15 @@ Nach dem Blasensprung kann sich die Nabelschnur um das Kind wickeln. Während de
 Gruppe von Erkrankungen im Bauchraum, die vor allem durch heftige Bauchschmerzen gekennzeichnet ist.
 
 ### Ursachen
-+ Entzündungen (Bauchspeicheldrüse (Pankreatitis), Bauchfell, Blinddarm (Appendizitis), Magen, Gallenbalse (Cholezystitis))
++ Entzündungen
+  + Bauchspeicheldrüse (Pankreatitis)
+  + Bauchfell (Peritonitis)
+  + Blinddarm (Appendizitis)
+  + Magen (Ulkus)
+  + Gallenbalse (Cholezystitis)
+  + Speiseröhre (Ösophagitis)
 + Koliken (Galle, Niere, Darm)
-+ Gallensteine
++ Steine (Galle, Niere)
 + Darmverschlüsse (keine Darmgeräusche)
 + Blutungen im Magen-Darm-Trakt oder in Speiseröhre
 + Lebensmittelvergiftung (Gastroenteritis)
@@ -1971,7 +1977,6 @@ Gruppe von Erkrankungen im Bauchraum, die vor allem durch heftige Bauchschmerzen
 + Übelkeit, Erbrechen
 + Schock
 
-### Komplikationen
 ### Maßnahmen
 + Leicht erhöhter Oberkörper
 + Knierolle oder auf Seite liegend mit angezogenen Beinen
@@ -1986,8 +1991,6 @@ Gruppe von Erkrankungen im Bauchraum, die vor allem durch heftige Bauchschmerzen
 + Letzter Stuhl- und Harngang?
 + bekannte Steinleiden?
 
-### Differentialdiagnosen
-### Zu beachten
 
 ## Verbrennungen
 Kontakt mit Feuer oder heißen Gegenständen, Schädigungen des Gewebes durch elektrischen Strom oder Strahlung
