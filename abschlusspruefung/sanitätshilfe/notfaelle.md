@@ -320,7 +320,7 @@ Irreversible "Überblähung" der Lunge in den Endaufzweigungen des Bronchialsyst
 + maximal erhöhter Oberkörper, mit Armen abstützen
 + Kleidung öffnen
 + Patient zu ruhiger Atmung anleiten
-+ Vorsicht bei der Sauerstoffgabe, zu viel Sauerstoff macht atemdeppressiv
++ Vorsicht bei der Sauerstoffgabe, zu viel Sauerstoff macht atemdepressiv
 
 ### Anamnese
 Krankheitsgeschichte besonders wichtig um Asthma asuzuschließen
@@ -347,7 +347,7 @@ Asthma und COPD sind ähnliche Krankheits bilder, allerdings entwickelt sich COP
 #### Kardiales Lungenödem (am häufigsten)
 Linksherzinsuffizienz mit Druckanstieg im Lungenkreislauf. Durch die Lungenstauung kommt es zum Übertritt von Flüssigkeit in den Zwischenzellraum und den Alleveollarraum.
 #### Toxisch allergisches Lungenödem
-Durch toxische Stoffe (zb Reizgas, Rauchgas, auch bei Niereninsuffizienz) kommt es zu einer höheren Durchlässigkeit der Lungenkapillarmembranen und damit zum Übertritt von Flüssigkeit.
+Durch toxische Stoffe (zb Reizgas, Rauchgas) kommt es zu einer höheren Durchlässigkeit der Lungenkapillarmembranen und damit zum Übertritt von Flüssigkeit.
 
 Andere Ursachen können der Aufenthalt in großer Höhe oder akute Überwässerung zb  durch eine Dialyse sein.
 
@@ -1999,8 +1999,8 @@ Verbrühung: heiße Flüssigkeiten oder Dampf.
 | Grad | Symptome |
 | --- | --- |
 | 1 | Rötung, Schwellung, Schmerzen |
-| 2 | Grad: Blasenbildung, Schwellung, Schmerzen |
-| 3 | Grad: grauweiß, trocken, lederartige Hautgebiete, keine Schmerzen |
+| 2 | Blasenbildung, Schwellung, Schmerzen |
+| 3 | grauweiß, trocken, lederartige Hautgebiete, keine Schmerzen |
 
 **Lebensgefahr ab 20% Verbrennung** = großflächig (10%Kind, 5%Säugling)
 + Handfläche 1%
@@ -2023,7 +2023,7 @@ Verbrühung: heiße Flüssigkeiten oder Dampf.
 Freisetzung von gefäßaktiven Substanzen im Körper bewirkt Flüssigkeitsverlust und Entstehung von massiven Ödemen. Schockzustand wird durch Abgabe von Flüssigkeit über Wundflächen verstärkt. Kann zu Versagen lebenswichtiger Organe (besonders Nieren und Lunge) führen.
 
 #### Inhalationstrauma
-Schädigung der Atemweg sehr sicher wenn Pat. aus Bränden in geschlossenen Räumen gerettet werden.
+Schädigung der Atemweg sehr wahrscheinlich wenn Pat. aus Bränden in geschlossenen Räumen gerettet werden.
 
 ### Maßnahmen
 + evtl. Kühlen
@@ -2035,7 +2035,7 @@ Schädigung der Atemweg sehr sicher wenn Pat. aus Bränden in geschlossenen Räu
 
 
 ## Hitzschlag, Hitzeerschöpfung
-Durch körperliche Anstrenung und schwere arbeit in heißer Umgebung und erschwerte Schweißabgabe kommt es zu einem Wärmestau und zu einer Erhöhung der Körpertemperatur.
+Durch körperliche Anstrenung und schwere Arbeit in heißer Umgebung und erschwerte Schweißabgabe kommt es zu einem Wärmestau und zu einer Erhöhung der Körpertemperatur.
 
 ### Symptome
 + heiße, rote Haut oder Blässe
@@ -2076,20 +2076,15 @@ Durch körperliche Anstrenung und schwere arbeit in heißer Umgebung und erschwe
 
 
 ## Erfrierung
-Durch Kälte hervorgerufene Gewebsschäden. Die Beurteilung ist schwierig, im Zweifelsfall immer von einer Erfrieung ausgehen.
+Durch Kälte hervorgerufene Gewebsschäden. Die Beurteilung ist schwierig, im Zweifelsfall immer von einer Erfrierung ausgehen.
 
 ### Symptome:
-Bei oberflächlicher Schädigung:
-+ Gefühllosigkeit
-+ Blässe
-+ Prickelnde Schmerzen
-+ Baurote Verfärbung
-
-Bei tief gehender Erfrierung:
-+ Blasenbildung
-+ Weiße bis blaurote Verfärbung
-+ Bewegungseinschränkung
-+ Starke Schmerzen
+| Grad | Symptome |
+| ---: | --- |
+| 1 | blasse Hautfarbe, Schwellung der Hautpartie, prickelnde Schmerzen |
+| 2 | blau-rote Hautfarbe, Blasenbildung |
+| 3 | beinahe schmerzfreies Absterben des Gewebes |
+| 4 | Vereisung und völlige Gewebezerstörung |
 
 Komplikationen:
 + Infektionen
@@ -2103,7 +2098,7 @@ Maßnahmen:
 + Verabreichung warmer Getränke
 
 
-## Unterkühlung
+## Unterkühlung (Hypothermie)
 =Absinken der Kernkörpertemperatur unter Normtemperatur von 36 Grad Celsius.
 
 ### Symptome, Komplikationen:
@@ -2145,12 +2140,12 @@ Maßnahmen:
 + Nierentassen und Zellstoff reichen
 
 
-## Bluthusten
+## Bluthusten (Hämoptyse)
 
 ### Ursachen
 + TBC
 + Lungenkrebs
-+ Lungeninfarkt
++ Lungenembolie
 + Herzkrankheiten
 
 ### Symptome

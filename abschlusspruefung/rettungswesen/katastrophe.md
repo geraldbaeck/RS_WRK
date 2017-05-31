@@ -2,23 +2,34 @@
 
 ## Katastrophe - *Definition*
 
-+ Gefährdung/Beschädigung von
-  + Leben oder Gesundheit vieler Menschen
-  + der Umwelt oder
-  + Sachwerten
-+ Die Abwehr oder Bekämpfung der Gefahr erfordert einen behördlich koordininerten Einsatz.
-+ Die örtlichen Hilfsmittel und - kräfte reichen nicht aus
-+ Zuständigkeit auf Landesebene, rechtlich gesehen muss eine Katastrophe von der Behörde als solche erklärt werden.
++ Gefährdungs- und Gefahrenlage =
+  + Gefährdung von Leben und Gesundheit vieler Menschen
+  + der Umwelt
+  + von Sachwerten
+
++ Schadenslage = einegeretene Gefährdungs- und Gefahrenlage
+
+typisch ist dabei:
++ die Infrastruktur (Straßen, Brücken, Wasserversorgung, Energieversorgung) beeinträchtigt und teilweise zerstört ist und/oder
++ die örtlichen Hilfskräfte und Hilfsressourcen selbst geschädigt sind
++ die Abwehr erfodert einen koordinierten Einsatz
++ eine Behörde erklärt die Katastrophe als solche
+
+Dauert die Beseitigung weniger als einen Tag spricht man von:
++ Massenunfall
++ Großsschadensereignis
++ Massenanfall von Verletzten
+
 
 ### Kategorien
 + Naturkatastrophen
-+ Antropogene Katastrophen: Verkehr, Brand, Explosion, Nuklear, Chemie, Stromausfälle, Hungersnöte
-+ Konflikt-/Kriegsbedingte Katastrophen.
++ Antropogene (technische) Katastrophen: Verkehr, Brand, Explosion, Nuklear, Chemie, Stromausfälle, Hungersnöte
++ Konflikt-/Kriegsbedingte Katastrophen
 
 ### Rechtliche Grundlagen
 + ÖRK Satzungen §3 und RK Bundesgetz von 2008 beauftragen das RK mit dem Einsatz im Rahmen der Katastrophenhilfe
 + Katastrophenhilfegesetze der Länder
-+ SKKM Richtlinie
++ SKKM (Staatliches Krisen- und Katastrophenschutzmanagement) Richtlinie
 
 
 ## Großunfall - *Definition*
@@ -81,7 +92,7 @@ Betreuung Unverletzter, Zeugen, Ersthelfer und Angehöriger. Ein BE umfasst folg
 + ggf Übergabe an EInsatzleiterIn
 
 ## SanHist - *Bestandteile*
-Flexibles Organisationskonzept zur med. Versorgung einer großen Anzahl an Patienten. Kann in Zelter oder freiem erfolgen. Nicht die Errichtung/Zuweisung eines Raumes steht im Vordergrund, sondern die **Sicherstellung eines klar strukturierten Ablaufs**.
+Flexibles Organisationskonzept zur med. Versorgung einer großen Anzahl an Patienten. Kann in Zelten oder Freiem erfolgen. Nicht die Errichtung/Zuweisung eines Raumes steht im Vordergrund, sondern die **Sicherstellung eines klar strukturierten Ablaufs**.
 
 Umfasst die sanitätsdienstlich genutzen Bereiche. Besteht aus:
 
@@ -209,7 +220,7 @@ Unter Gefahrengut bzw gefährlichen Stoffen versteht man:
 
 = CBRN-Stoffe (chemisch, biologisch, radiologisch, nuklear)
 
-Wenn diese Stoffe unkontrolliert in die Umwelt abgegeben werden, spricht man von einem Gefahrehgutunfall. Unfälle können an verschieden Orten auftreten:
+Wenn diese Stoffe unkontrolliert in die Umwelt abgegeben werden, spricht man von einem Gefahrengutunfall. Unfälle können an verschieden Orten auftreten:
 + Transport
 + Schule
 + Betriebe
