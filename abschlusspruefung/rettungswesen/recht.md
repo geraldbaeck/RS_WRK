@@ -29,7 +29,7 @@ Versorgung und Betreuung von Patienten ist durchzuführen:
 ## Dokumentationspflicht
 + alle gesetzen Maßnahmen sind zu dokumentieren insbesondere Informationen zu:
   + Anamnese
-  + AUffindesituation & Rahmenbedingungen
+  + Auffindesituation & Rahmenbedingungen
   + anwesende Kräfte
   + Messwerte
   + Art des Transportes
