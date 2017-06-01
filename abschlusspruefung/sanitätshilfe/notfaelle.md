@@ -357,8 +357,6 @@ Andere Ursachen können der Aufenthalt in großer Höhe oder akute Überwässeru
 + Unruhe, Angst
 + evt. Zyanose
 + Reizhusten beim toxischen Ödem
-+ (Kaltschweißigkeit)
-+ (Puls erhöht evt arrhythmisch)
 
 ### Komplikationen
 + Atem-Kreislauf-Stillstand
@@ -907,39 +905,19 @@ Die Lagerung muss der Gesamtsituation angepasst sein vor allem wegen zusätzlich
 
 ### Definition
 Stürze (ab ca 1,5m) und Schleudervorgänge
-=> Verletzungen der Wirbelsäule
-=> zb Wirbelkörperbrüche, Verrenkungen od beides (Luxationsfraktur)
-=> dabei kann es zur Schädigung des Rückenmarks kommen
-=> Lähmung, Querschnittslähmung
++ Verletzungen der Wirbelsäule
++ zb Wirbelkörperbrüche, Verrenkungen od beides (Luxationsfraktur)
++ dabei kann es zur Schädigung des Rückenmarks kommen
++ Lähmung, Querschnittslähmung
 
-#### Beschleunigungstrauma der HWS (Schleudertrauma)
-zb bei PKW Heckaufprall
-
-##### Grad I (leicht):
-+ Dehnung des HWS-Band /Gelenkskapselapparats
-+ Nackenschmerz, "steifer Hals"
-+ Symptome erst 1 bis 48h nach Ereignis
-
-##### Grad II (mittel):
-+ Zusätzlich Kapsel-/Gefäßeinrisse (Hämatome), Muskelzerrungen
-+ Schmerzen im Hinterkopf oder Mundboden
-+ Gefühlsstörungen der Arme möglich
-+ selten symptomfreies Intervall
-
-##### Grad III (schwer):
-+ Schäden an Bandscheiben und Bändern
-+ Wirbelfrakturen od. -luxationen
-+ Nerven- od. Rückenmarksschäden
-+ Unfähigkeiten den Kopf in Position zu halten
-+ Sensibilitätsstörungen
-+ evt. Lähmungen
-+ evt. kurze initiale Bewusstlosigkeit
-
-##### Grad IV (tödlich):
-+ hoher Querschnitt (Tetraparese, Atemstörung) (C3 - C5)
-+ Schädigung der [Medulla oblongata](https://de.wikipedia.org/wiki/Medulla_oblongata) (Übergang zwischen Hirn und Rückenmark)
-+ [Bulbärhirnsyndrom](https://de.wikipedia.org/wiki/Bulb%C3%A4rhirnsyndrom) (Einklemmung des Kleinhirns)
-+ meistens tödlich
+Besonders gefährdet:
++ ZweiradfahrerInnen
++ aus dem Fahrzeug geschleudert
++ nach Auffahrunfällen
++ Sturz aus mind. 1,5m Höhe
++ Kopfsprung in seichtes Wasser
++ Kletterunfall
++ mit SHT, Polytrauma
 
 ### Ursachen
 + direktes Traum (Stich, Schuss)
@@ -1036,7 +1014,7 @@ Durch Schuss-, Stich- und Pfählungsverletzungen kann es zu Öffnung des Brustko
 ### Maßnahmen
 + keimfreie Wundversorung
   + nicht abkleben, eine Seite immer offen lassen
-  + Fremskörper belassen evt fixieren
+  + Fremdkörper belassen evt fixieren
 + Lagerung mit erh. Oberkörper, Stabilisierung durch Handauflegen
 + Pat. beruhigen zu ruhiger Atmung verhelfen
 + SPO2-Gabe 10-15l
@@ -1199,7 +1177,7 @@ Bei offenen Knochebrüchen besteht eine Verbindung zwichen der Wunde und der Bru
 | --- | --- |
 | 1 | Hautdurchtrennung, Durchspießung, geringe Quetschung, unbedeutende Verschmutzung (Kontamination), einfache Frakturform |
 | 2 | Hautdurchtrennung, Haut- und Weichteilquetschung, Verunreinigung, alle Frakturformen |
-| 3 | Hautdurchtrennung, ausgedehnte Weichteil-, Gefäß- und Nervenvereltzung, starke Wundkontamination, ausgedehnte Knochenzertrümmerung |
+| 3 | Hautdurchtrennung, ausgedehnte Weichteil-, Gefäß- und Nervenverletzung, starke Wundkontamination, ausgedehnte Knochenzertrümmerung |
 | 4 | Amputation oder Teilamputation |
 
 #### Geschlossene Knochenbrüche
@@ -1236,6 +1214,7 @@ Ein weiteres unsicheres Frakturzeichen ist der Bluterguss (Hämatom).
 ### Komplikationen
 + Überdehen und Zerreißen der Gelenkskapsel und der Bänder
 + Blutung ins Gelenk
++ Osteomyelitis (Knochenmarksentzündung)
 
 ### Maßnahmen
 + Blutstillung
@@ -1880,15 +1859,25 @@ Mutterkuchen liegt vor Muttermund – Geburtskanal verdeckt. Dadurch kann es zu 
 ## Schwangerschaftskomplikationen - Zweite Hälfte -  Vorzeitige Plazentalösung (G55)
 
 ### Definition
-Durch Gewalteinwirkung oder Erkrankungen (Eklampsie) kann es zu einer vorzeitigen Ablösung der Plazenta kommen. Dadurch wird die Versorgung des Kindes eingeschränkt bzw unterbunden.
+Durch die Bildung eines Hämatoms hinter der Plazenta kann es zu einer Lösung kommen. Ursachen:
++ Gewalteinwirkung / Trauma
++ Erkrankungen (Eklampsie)
++ Drogenmissbrauch
+
+Dadurch wird die Versorgung des Kindes eingeschränkt bzw unterbunden.
 
 ### Symptome
 + Plötzlich auftretende Schmerzen
 + Gespannte Bauchdecke
-+ Vaginale Blutung (unterschiedlich stark)
++ dunkelrote, vaginale Schmierblutung (Peripartale Blutung) unterschiedlich stark
 
 ### Komplikationen
-+ Lebensgefahr für Mutter und Kind
+Mutter:
++ starke Blutung => Schockzeichen bei der Mutter
++ Unruhe, Schwäche, Angst- und Durstgefühl und Übelkeit
+
+Kind:
++ akuter Sauerstoffmangel durch Mangelversorgung
 
 ### Maßnahmen
 + Lagerung nach Fritsch
@@ -2022,8 +2011,8 @@ Verbrühung: heiße Flüssigkeiten oder Dampf.
 #### Verbrennungskrankheit
 Freisetzung von gefäßaktiven Substanzen im Körper bewirkt Flüssigkeitsverlust und Entstehung von massiven Ödemen. Schockzustand wird durch Abgabe von Flüssigkeit über Wundflächen verstärkt. Kann zu Versagen lebenswichtiger Organe (besonders Nieren und Lunge) führen.
 
-#### Inhalationstrauma
-Schädigung der Atemweg sehr wahrscheinlich wenn Pat. aus Bränden in geschlossenen Räumen gerettet werden.
+#### Thermisches Inhalationstrauma
+Schädigung der Atemweg sehr wahrscheinlich wenn Pat. aus Bränden in geschlossenen Räumen gerettet werden. Kann zu toxischem Lungeödem führen.
 
 ### Maßnahmen
 + evtl. Kühlen
