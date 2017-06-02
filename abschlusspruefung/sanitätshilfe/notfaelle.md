@@ -627,7 +627,11 @@ Starker Anstieg des Blutdrucks (>200mm Hg systholisch)
 + Hypertonie kann zu bedrohlichem Anstieg des Blutdrucks (>200mm Hg) führen
 + => höherer Widerstand im Gefäßsystem
 + => Mehrarbeit des Herzens mit erhöhtem Sauerstoffverbrauch
-Wenn Herzkranzgefäße Bedarf nicht decken können, kann es zu Angina-Pectoris-Anfall kommen. Kann auch zu Schlaganfall aufgrund einer Gefäßzerreißung kommen. Durch Überbelastung kann akutes Linksherzversage mit Lungenödem ausgelöst werden. Erfolgt eine Organschädigung auf Grund einer Hypertensiven Krise spricht man vom **Hypertsensiven Notfall**.
++ Angina-Pectoris-Anfall möglich
++ auch Schlaganfall aufgrund einer Gefäßzerreißung
++ Überbelastung => akutes Linksherzversagen mit Lungenödem
+
+Erfolgt eine Organschädigung auf Grund einer Hypertensiven Krise spricht man vom **Hypertsensiven Notfall**.
 
 ### Symptome
 + Schwindel, Sehstörungen
@@ -636,7 +640,7 @@ Wenn Herzkranzgefäße Bedarf nicht decken können, kann es zu Angina-Pectoris-A
 + Angst
 + Verwirrtheit
 + Übelkeit, Erbrechen
-Alle Symptome von Schlaganfall, Angina Pectoris und Herzinfarkt können auftreten.
++ Alle Symptome von Schlaganfall und Akutem Koronarsyndrom
 
 ### Komplikationen
 + Schlaganfall
@@ -920,8 +924,8 @@ Besonders gefährdet:
 + mit SHT, Polytrauma
 
 ### Ursachen
-+ direktes Traum (Stich, Schuss)
-+ indirektes Traum durch Zug - und Scherkräfte => Schleudertrauma
++ direktes Trauma (Stich, Schuss)
++ indirektes Trauma durch Zug - und Scherkräfte => Schleudertrauma
 + pathologische Frakturen (zb bei Tumor, Metstasen)
 
 ### Symptome

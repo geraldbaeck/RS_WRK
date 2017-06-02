@@ -339,7 +339,7 @@ Ist die äußere Schutzschicht des Menschen.
 #### Lederhaut (Dermis)
 + Bindegewebe durchzogen von Kollagenfasern
 + Verlauf der Blut- und Lymphgefäße
-+ freie Nervenendungen und Nervenfasern deren Nervenendigungen (Schmerz-, Druck- und Temperaturkörperchen) reichen bis an die Oberhaut
++ freie Nervenendungen und Nervenfasern deren Nervenendungen (Schmerz-, Druck- und Temperaturkörperchen) reichen bis an die Oberhaut
 
 ### Unterhaut (Subcutis)
 + hauptsächlich aus lockerem Bindegewebe und aus Fettzellen aufgebaut. (Speicher, Wärme, Stoßpuffer)
@@ -367,15 +367,24 @@ Ist die äußere Schutzschicht des Menschen.
 ## Skelett
 
 ### Knochen
-+ bilden das Skelett und verleihen Körper Halt und Form.
-+ schützen die inneren Organe
-+ dienen den Muskeln als Ansatz => Bewegungen
-+ von Knochenhaut umhüllt, die von Blutgefäßen und Nerven durchzogen ist
-+ Knochenmark ist Bildungsstätte von roten und zum Teil weißen Blutkörperchen
+Funktion:  
++ **Schutzfunktion** für Organe (Lunge Herz, Gehirn)
++ **Speicherfunktion** für Calcium und Phosphat
++ **Blutproduktion**: Knochenmark ist Bildungsstätte von roten und zum Teil weißen Blutkörperchen
++ **passiver Bewegungesapparat**
+  + bilden das Skelett und verleihen Körper Halt und Form
+  + dienen den Muskeln als Ansatz => Bewegungen
 
+Arten:
++ **Röhrenknochen** (Ossa longa): an Extremitäten zu finden
++ **Platte Knochen** (Ossa plana): Schädel oder Becken
++ **kurze Knochen** (Ossa brevia): Handwurzelknochen
++ **luftgefüllte Knochen** (Ossa pneumatica): mit Schleimhaut gefüllte Hohlräume, zb Stirnbein
++ **unregelmäßige Knochen** (Ossa irregularia): Wirbel, Unterkieferknochen
++ **Sesambeine**: Knochen in Sehne eingelagert, zb Kniescheibe
 
-+ **Röhrenknochen**: an Extremitäten zu finden
-+ **Platte Knochen**: Schädel oder Becken
+Aufbau:
++ von Knochenhaut (Periost) umhüllt, die von Blutgefäßen und Nerven durchzogen ist
 
 ### Gelenke
 + **Knochen sind durch Gelenke miteinander verbunden** und dadurch beweglich.
@@ -457,11 +466,19 @@ Der Brustkorb wird von 12 Rippenpaare die hinten mit den Brustwirbeln verbunden 
 
 
 ## Muskulatur
-Alle Bewegungen des Körpers werden durch Zusammenwirken von Muskulatur und knöchernem Skelett ermöglicht. Bewegung entsteht durch Verkürzung der Muskeln.
 
-Reize, die über Nervenbahnen zu den Muskelzellen geleitet werden, ziehen sich Muskeln zusammen, nach Beendigung des Reizes erschlaffen sie wieder.
+### Arten
++ **Glatte Muskulatur**: unwillkürlich. Besonders reich an glatter Muskulatur sind: Blutgefäße, Darm, Lunge und Harntrakt. Tätigkeit wird vom vegetativen Nervensystem gesteuert.
++ **Quergestreifte Muskulatur**: willkürlich. z.B.: Bizeps und Trizeps. (Ursprung, Ansatz)
+Bewegung durch verkürzte Muskeln. Reize im Nervensystem lassen Muskeln zusammenziehen.
++ **Herzmuskulatur**: quergestreift aber unwillkürlich
 
-Da sich unsere Skelettmuskulatur nur zusammen ziehen aber nicht ausdehnen kann, hat der Muskel einen Gegenspieler (zb Bizeps, Trizeps). Unser Muskeln sind immer in einem leichten Spannungszustand (Ausnahme Bewusstlosigkeit), das bewirkt bei Knochenbrüchen oft eine leichte Verschiebung der Buchstücke.
+### Aufgaben
++ Bewegung
++ Haltung
++ Wärmeerzeugung
++ Energiehaushalt
++ Wichtig für venösen Rückstrom
 
 ### Aufbau
 + **Muskelfasern**
@@ -471,10 +488,13 @@ Da sich unsere Skelettmuskulatur nur zusammen ziehen aber nicht ausdehnen kann, 
 
 Zur Versorgung der Muskeln dienen Arterien und Venen sowie Nerven zur Verbindung mit dem Gehirn.
 
-**Glatte Muskulatur**: unwillkürlich. Besonders reich an glatter Muskulatur sind: Blutgefäße, Darm, Lunge und Harntrakt. Tätigkeit wird vom vegetativen Nervensystem gesteuert.
+### Funktionsweise
+Alle Bewegungen des Körpers werden durch Zusammenwirken von Muskulatur und knöchernem Skelett ermöglicht. Bewegung entsteht durch Verkürzung der Muskeln.
 
-**Quergestreifte Muskulatur**: willkürlich. z.B.: Bizeps und Trizeps. (Ursprung, Ansatz)
-Bewegung durch verkürzte Muskeln. Reize im Nervensystem lassen Muskeln zusammenziehen.
+Reize, die über Nervenbahnen zu den Muskelzellen geleitet werden, ziehen sich Muskeln zusammen, nach Beendigung des Reizes erschlaffen sie wieder.
+
+Da sich unsere Skelettmuskulatur nur zusammen ziehen aber nicht ausdehnen kann, hat der Muskel einen Gegenspieler - Agonist und Antagonist - (zb Bizeps, Trizeps). Unser Muskeln sind immer in einem leichten Spannungszustand (Ausnahme Bewusstlosigkeit), das bewirkt bei Knochenbrüchen oft eine leichte Verschiebung der Buchstücke.
+
 
 ## Nervensystem
 :arrow_forward: [Die Muskulatur](https://www.youtube.com/watch?v=3H1NbBOHXnU)
