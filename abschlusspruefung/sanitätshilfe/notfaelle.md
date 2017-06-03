@@ -1937,6 +1937,7 @@ Nach dem Blasensprung kann sich die Nabelschnur um das Kind wickeln. Während de
 ### Maßnahmen
 + Flache Rückenlage
 + Becken Hochlagern
++ Vierfüßlerstand mit gesenktem Oberkörper
 
 
 ## Akutes Abdomen
@@ -2000,7 +2001,6 @@ Verbrühung: heiße Flüssigkeiten oder Dampf.
 + 9er Regel
   + Kopf, Arm, Bein 9%
   + Brustkorb v/h, Bauch v/h 18%
-
 
 ### Symptome
 + Schmerzen

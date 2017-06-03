@@ -290,13 +290,14 @@ Wird durch Bakterien (Meningokokken) verursacht und bezeichnet Entzündung der H
 ### Maßnahmen
 Expositionsprophylaxe Typ 2
 
+
 ## Hepatitis
 
 | Hepatitis | A | B | C |
 | --- | --- | --- | --- |
-| Definition | Übertragung fäkaloral, Virus verursacht Entzündung der Leber | Übertragung Blut\Sekrete, Virus verursacht chronische Entzündung der Leber à Leberkarzinom | Übertragung Blut\Sekrete, Virus verursacht chronische Entzündung der Leber |
+| Definition | Übertragung fäkaloral, Virus verursacht Entzündung der Leber | Übertragung Blut\Sekrete, Virus verursacht chronische Entzündung der Leber => Leberkarzinom | Übertragung Blut\Sekrete, Virus verursacht chronische Entzündung der Leber |
 | Vorbeugung | Aktive Immunisierung | Aktive Immunisierung | Keine |
-| Symptome | Schwäche, Erbrechen, Gelbsucht, Fieber | Schwäche, Erbrechen, Gelbsucht, Fieber | Schwäche, Erbrechen, Gelbsucht, Fieber |
+| Symptome | Durchfall, Schwäche, Erbrechen, __Gelbsucht__, Fieber | Schwäche, Erbrechen, Gelbsucht, Fieber | Schwäche, Erbrechen, Gelbsucht, Fieber |
 | Komplikationen | Selten akutes Leberversagen | akutes LBV, selten chr. Hepatitis | chr. Hepatitis, Leberzirrhose, -karzinom |
 | Exp.prophylaxe | Typ 1 | Typ 1 | Typ 1 |
 
@@ -340,8 +341,9 @@ Vorbeugung: aktive Immunisierung
 + Exp.prophylaxe Typ 2
 + bei offener TBC MUndschutz für Patienten
 
+
 ## MRE
-MUltiresistente Erreger zb ESBL, VRE, MRSA. Bei Transport ist abzuklären, ob sich der Erreger im Nasen-Rachen-Raum befindet oder nur Wunden befallen sind.
+Multiresistente Erreger zb ESBL, VRE, MRSA. Bei Transport ist abzuklären, ob sich der Erreger im Nasen-Rachen-Raum befindet oder nur Wunden befallen sind.
 
 ### Symptome
 + häufig chronische Wunden
@@ -371,7 +373,7 @@ MUltiresistente Erreger zb ESBL, VRE, MRSA. Bei Transport ist abzuklären, ob si
 + Unerklärbare Blutungen
 
 ### Kompliaktionen
-+ Multiorgansversagen
++ Multiorganversagen
 + Tod
 
 ### Maßnahmen

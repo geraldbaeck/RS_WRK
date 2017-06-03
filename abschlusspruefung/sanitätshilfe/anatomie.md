@@ -665,7 +665,7 @@ Aufgaben:
 + Nieren
 + Harnleiter
 + Harnblase
-+ Hernröhre
++ Harnröhre
 
 ### Aufgaben
 + Endprodukte wie Harnstoff, Harnsäure auszuscheiden
@@ -706,14 +706,15 @@ Während Menstruationszyklus reift Follikel heran, drängt zur Oberfläche, plat
   + Samenleiter
   + Samenbläschen (prod. flüssigen Anteil des Spermas)
   + Vorsteherdrüse (Prostata)
+  + Bulbourethraldrüse (Präejakulat)
 + Äußere Geschlechtsorgane
   + Hodensack
   + Glied (Penis) mit Harnröhre = Harn- und Geschlechtsorgan
 
 ![Männliche Geschlechtsorgane](https://upload.wikimedia.org/wikipedia/commons/a/af/Male_anatomy_de.png)
 
-## Regelkreise
 
+## Regelkreise
 ### Wärmehaushalt
 + sehr stabil
 + dient dem geordneten Ablauf aller Lebensvorgänge
