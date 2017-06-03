@@ -10,7 +10,7 @@ Hämoptyse
 ## Verstauchung
 Distorsion
 
-## Prellung eines Organs
+## Prellung
 Kontusion
 
 ## Hypoperfusion

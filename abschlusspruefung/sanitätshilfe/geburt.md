@@ -1,7 +1,14 @@
 ## Geburt - *Dauer, Geburtstermin*
 
 **Dauer**: 40 Wochen ab Befruchtung der Eizelle
-**Errechneter Geburtstermin**: 1 Jahr nach dem ersten Tag der letzten Regelblutung plus sieben Tage minus 3 Monate; Abweichungen bis zu 2 Wochen sind normal; Mit Hilfe Ultraschall kann der Termin genauer bestimmt werden.
+**Errechneter Geburtstermin** (EGT):
++ post conceptionem vs post menstruationem
++ Abweichungen bis zu 2 Wochen sind normal
++ mit Hilfe Ultraschall kann der Termin genauer bestimmt werden
+Naegele Regel:
+  + 1 Jahr nach dem ersten Tag der letzten Regelblutung plus sieben Tage minus 3 Monate
+  + = letzte Regelblutung + 372d - 3M = 280d = 40 Wochen
+
 
 ## Lage des Kindes
 | % | Lage |
@@ -43,7 +50,7 @@
 + ca. 15-20 min.,
 + durch Nachgeburtswehen wird die Plazenta von der Gebärmutter gelöst und nach außen gepresst.
 + Blutungen in Nachgeburtsperiode können aufgrund einer unvollständigen Plazentalösung, Muskelschwäche der Gebärmutter oder Gerinnungsstörung auftreten => Maßnahme: Wehe anreiben
-+ Achtung! Plazenta augbewahren.
++ Achtung! Plazenta aufbewahren.
 
 ## Anamnese/Fragen
 + Wie viele Geburten?
@@ -81,7 +88,7 @@ Unmittelbar nach der Geburt wird im ersten Eindruck beurteilt:
 
 **Hautfarbe**
 + rosig, zyanotisch oder blass
-+ Ein gesindes Baby wird bei effektiver Spontanatmung in 30s rosig
++ Ein gesundes Baby wird bei effektiver Spontanatmung in 30s rosig
 
 **Muskeltonus**
 + Guter Tonus: kärftige Bewegungen

@@ -1,7 +1,7 @@
 # Kinder
 
 ## Tipps für den Umgang mit Kindern
-+ Blickkontakt aufbauen, sihc langsam annähern
++ Blickkontakt aufbauen, sich langsam annähern
 + Ruhe ausstrahlen, Kind beruhigen
 + Mit dem Vornamen ansprechen
 + Alle Maßnahmen erklären
@@ -18,11 +18,11 @@
 
 ## Normwerte
 
-| Alter | Gewicht | AF | HF | RR Systole |
-| --- | --: | --- | --- | --- |
-| Säugling | 3-8 | 120 | 60 |
-| Kind | 8-35 | 20 | 100 | 90 |
-| Erwachsener | 35+ | 12-15 | 80 | 120 |
+| Alter | AF | HF | RR Systole |
+| --- | ---: | ---: | ---: |
+| Säugling | 30 | 120 | 60 |
+| Kind | 20 | 100 | 90 |
+| Erwachsener | 12-15 | 80 | 120 |
 
 ## Akute Verlegung der Atemwege
 
@@ -78,7 +78,7 @@ ist eine meist durch Viren verursachte entzündliche Erkrankung des Kehlkopfes. 
 + Oberkörper hochlagern
 + kühle, feuchte Umgebungsluft (Dusche aufdrehen, fenster öffnen)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Qbn1Zw5CTbA?list=PLhC2h1cbsdE1TUa2uDimZ--EWI9g-eeOm" frameborder="0" allowfullscreen></iframe>
+:arrow_forward: [Krupp Hörbeispiel](https://www.youtube.com/embed/Qbn1Zw5CTbA?list=PLhC2h1cbsdE1TUa2uDimZ--EWI9g-eeOm)
 
 
 ### Atemnot

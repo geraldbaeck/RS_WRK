@@ -13,6 +13,7 @@
 **Warnzeichen: Systole <90 >220**
 
 ## EKG
+Asystolie, pulslose elektrische Aktivität vs. Kammerflimmern, Kammertachykardie (>180)
 
 ## Blutzucker
 **Warnzeichen: <40 oder >300 mg/dl**
