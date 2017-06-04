@@ -156,17 +156,83 @@ Bei der Übergabe muss auf das mögliche Vorliegen einer Verfügung aufmerksam g
 # TODO???
 ## Sondersignal - *Definition*
 
+**§26 StVo** besagt:
+
+*(1) Die Lenker von Fahrzeugen, die nach den kraftfahrrechtlichen Vorschriften mit Leuchten mit blauem Licht oder blauem Drehlicht und mit Vorrichtungen zum Abgeben von Warnzeichen mit aufeinanderfolgenden verschieden hohen Tönen ausgestattet sind, dürfen diese Signale nur bei Gefahr im Verzuge, zum Beispiel bei Fahrten zum und vom Ort der dringenden Hilfeleistung oder zum Ort des sonstigen dringenden Einsatzes verwenden. Außerdem dürfen die angeführten Signale soweit als notwendig nur noch zur Abwicklung eines protokollarisch festgelegten Programms für Staatsbesuche oder sonstige Staatsakte sowie in Erfüllung völkerrechtlicher Verpflichtungen verwendet werden. Die Leuchten mit blauem Licht oder blauem Drehlicht dürfen aus Gründen der Verkehrssicherheit auch am Ort der Hilfeleistung oder des sonstigen Einsatzes oder bei einer behördlich vorgeschriebenen Transportbegleitung verwendet werden.  
+
+(2) Außer in den in Abs. 3 angeführten Fällen ist der Lenker eines Einsatzfahrzeuges bei seiner Fahrt an Verkehrsverbote oder an Verkehrsbeschränkungen nicht gebunden. Er darf jedoch hierbei nicht Personen gefährden oder Sachen beschädigen.  
+
+(3) …Die Lenker von Einsatzfahrzeugen dürfen auch bei rotem Licht in eine Kreuzung einfahren, wenn sie vorher angehalten und sich überzeugt haben, daß sie hierbei nicht Menschen gefährden oder Sachen beschädigen. Einbahnstraßen und Richtungsfahrbahnen dürfen sie in der Gegenrichtung nur befahren, wenn der Einsatzort anders nicht oder nicht in der gebotenen Zeit erreichbar ist…*
+
+Demnach kennt die StVo den Begriff Sindersignal nicht analog kann aber
++ blaues Licht oder blaues Drehlicht und
++ Warnzeichen mit aufeinanderfolgenden verschieden hohen Tönen
+als Sondersignal bezeichnet werden.
+
+Demnach gilt:
++ Sondersignal nur bei Gefahr im Verzug oder zur Absicherung
++ Orientierung am §10 SanG Notfallpatienten sinnvoll
+  + = Patient bei dem eine lebensbedrohliche Störung einer Vitalfunktion eingetreten ist, einzutreten droht oder nicht auszuschließen ist
+
 ## Sondersignal - *Wann dürfen Sondersignale verwendet werden?*
++ Sondersignal nur bei Gefahr im Verzug zb bei Fahrten zum und vom Ort der dringenden Hilfeleistun
++ aus Gründen der Verkehrssicherheit auch am Ort der Hilfeleistung
++ Orientierung am §10 SanG Notfallpatienten sinnvoll
+  + = Patient bei dem eine lebensbedrohliche Störung einer Vitalfunktion eingetreten ist, einzutreten droht oder nicht auszuschließen ist
 
 ## Sondersignal - *Was bewirkt das Einschalten von Sondersignalen?*
+der Lenker eines Einsatzfahrzeuges bei seiner Fahrt an Verkehrsverbote oder an Verkehrsbeschränkungen nicht gebunden. Er darf jedoch hierbei nicht Personen gefährden oder Sachen beschädigen. 
 
 ## Einfahren in den Kreuzungsbereich - *Darf ein Fahrzeug mit aufgedrehten Sondersignalen sofort in den Kreuzungsbereich
 einfahren, wenn die Ampel rot zeigt?*
 
+Nein, es muss anhalten.
+
 ## Revers - *Zweck*
+Ein Revers ist allgemein ein „Verpflichtungsschein“. In der Medizin wird dieser Begriff im Rahmen der dauerhaften oder zeitweiligen Verweigerung einer medizinischen Behandlung verwendet. Grundlage jeder medizinischen Hilfe ist das Einverständnis des Patienten. Der Patient muss allen Maßnahmen zustimmen, wobei die Zustimmung nicht ausdrücklich sein muss (informiertes Einverständnis).
+
+Als Revers wird das Dokument bezeichnet, das der Patient vor der von ihm gewünschten Entlassung unterschreiben muss/sollte. Vor allem im Rettungsdienst kommt es vor, dass der Patient die Unterschrift verweigert. Das Personal zieht dann meist Zeugen hinzu.
+
+In diesem Dokument werden die möglichen Nachteile, die dem Patienten durch die Verweigerung der medizinischen Behandlung zuteilwerden können, aufgelistet und er wird darauf hingewiesen, dass nur er selbst die Verantwortung dafür trägt. Zweck ist zum einen eine rechtliche Rückversicherung des aufklärenden Arztes bzw. des Rettungsfachpersonals, zum anderen wird dem Patienten hiermit nochmal die Möglichkeit gegeben, sich erneut Gedanken über das Verweigern medizinischer Hilfe zu machen.
 
 ## Revers - *Welche Voraussetzungen gelten für die Gültigkeit eines Reverses?*
++ Einsichts- und Urteilsfähigkeit
++ Patient über mögliche Folgen aufgeklärt
++ Sichergestellt, dass der Revers verstanden wurde
 
 ## Vorsorgevollmacht - *Was versteht man darunter? Für wen gilt sie? Was ist der Inhalt?*
+Mit einer Vorsorgevollmacht kann eine Person schon vor dem Verlust
++ der Geschäftsfähigkeit
++ der Einsichts- und Urteilsfähigkeit oder
++ der Äußerungsfähigkeit selbst bestimmen,
+wer als **Bevollmächtigte/Bevollmächtigter für sie entscheiden und sie vertreten kann**.
+
+Sinnvoll für:
++ bei Krankheiten, die mit fortschreitender Entwicklung das Entscheidungsvermögen beeinträchtigen kann. Dies betrifft etwa
++ zb Alzheimer oder Altersdemenz leiden.
++ aber auch für mögliche Einschränkungen nach einem Unfall
+
+Die betroffene Person kann festlegen,
++ für welche Angelegenheiten die Bevollmächtigte/der Bevollmächtigte zuständig werden soll
++ auch möglich, mehrere Personen zu bevollmächtigen, die unterschiedliche Aufgaben übernehmen.
+So kann sich beispielsweise eine Vertrauensperson um die Bankgeschäfte kümmern, eine andere aber die Bezahlung der Miete übernehmen.
+
+Voraussetzungen:
++ Geschäfts-, Einsichts- und Urteilsfähigkeit
++ Bevollmächtigte darf in keinem Abhängigkeitsverhältnis stehen
++ Widerrruf jederzeit möglich, kann befristet werden
++ kann im Österreichischen Zentralen Vertretungsverzeichnis (ÖZVV) registriert werden
 
 ## Vertretungsbefugnis nächster Angehöriger - *Wer entscheidet, wenn PatientenInnen selbst nicht entscheiden können und weder Sachwalter noch PatientInnenverfügung oder Vorsorgevollmacht bekannt sind?*
+
+Wenn eine volljährige Person aufgrund einer psychischen Krankheit oder geistigen Behinderung Rechtsgeschäfte des täglichen Lebens (z.B. Alltagsgeschäfte des täglichen Bedarfs und zur ordentlichen Führung des Haushalts) nicht mehr besorgen kann und keine Sachwalterin/kein Sachwalter bestellt wurde, kann eine nächste Angehörige/ein nächster Angehöriger die Vertretung der Person für das jeweilige Rechtsgeschäft übernehmen.
+
+Die nächste Angehörige/der nächste Angehörige kann auch medizinischen Behandlungen oder Untersuchungen zustimmen, sofern diese nicht gewöhnlich mit einer schweren oder nachhaltigen Beeinträchtigung der körperlichen Gesundheit oder der Persönlichkeit verbunden sind. Voraussetzung dafür ist, dass der vertretenen Person die erforderliche Einsichts- und Urteilsfähigkeit fehlt.
+
+Als nächste Angehörige gelten:
+
++ Ehegattin/Ehegatte (im gemeinsamen Haushalt lebend)
++ Eingetragene Partnerin/eingetragener Partner (im gemeinsamen Haushalt lebend)
++ Lebensgefährtin/Lebensgefährte (mindestens drei Jahre mit der Betroffenen/dem Betroffenen im gemeinsamen Haushalt lebend)
++ Volljährige Kinder
++ Eltern
