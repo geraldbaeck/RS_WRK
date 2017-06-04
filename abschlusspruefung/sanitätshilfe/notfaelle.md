@@ -1383,7 +1383,7 @@ Reine Alkoholvergiftungen mit schwerwiegenden Folgen sind relativ selten und am 
 
 ### Komplikationen
 + Verletzungsgefahr
-+ Übelkeit, Erbreche
++ Übelkeit, Erbrechen
 + Atem-Kreislauf-Stillstand
 
 
