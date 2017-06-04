@@ -312,7 +312,7 @@ Infektion ist gekennzeichnet durch plötzlichen Brechdurchfall von 12-24 Std. Da
 
 ### Maßnahmen
 + Exp.prophylaxe Typ 2.
-+ Munduschutz ist für Patienten nicht möglich. Selbst Mundschutz tragen.
++ Mundschutz ist für Patienten nicht möglich. Selbst Mundschutz tragen.
 + Noroviren sind sehr umweltstabil. Strengste Handhygiene und gründliche Wischdesinfektion erforderlich
 
 
