@@ -95,7 +95,7 @@ Unmittelbar nach der Geburt wird im ersten Eindruck beurteilt:
 + reduziert: langsam, träge, evt nach Reiz
 + schlaff
 
-## Sicherstellen der Lebensfunktionen
+### Sicherstellen der Lebensfunktionen
 
 + Sorgfältig abtrocknen (Stimulation regt zur Spontanatmung an)
 + Sofort abnablen
