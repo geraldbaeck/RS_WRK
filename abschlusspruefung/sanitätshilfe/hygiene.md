@@ -215,7 +215,7 @@ PSA enthält:
 + PSA ist bereits vor dem ersten Patientenkontakt voll angelegt
 
 + FahrerIn schützt sich am BO durch Einmalhandschuhe, FFP3 Maske und ABstand zum Patienten
-+ FahrerIn ist für das Öffnen und Schlißen von Türen, Kommunikation und Dokumentation zuständig
++ FahrerIn ist für das Öffnen und Schließen von Türen, Kommunikation und Dokumentation zuständig
 + Vor Öffnen des Fahrerraum, PSA ablegen und hyg Händedesinfektion
 
 + Patient erhält FFP2 Maske ohne Ausatemventil oder eine OP Maske
@@ -389,7 +389,7 @@ Multiresistente Erreger zb ESBL, VRE, MRSA. Bei Transport ist abzuklären, ob si
 Übertragung durch Kontakt- und Tröpfcheninfektion.
 
 ### Symptome
-+ Plötzlich aiftretendes schnell steigendes Fieber
++ Plötzlich auftretendes schnell steigendes Fieber
 + Halsentzündung mit Husten & Heiserkeit
 + Atemnot
 + Muskelschmerzen
