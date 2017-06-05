@@ -729,21 +729,40 @@ Extreme Wärme oder Kälte können Wärmehaushalt sehr beeinträchtigen und zu S
 :arrow_forward: [Dr. Max erklärt die Welt: Das Klimasystem des menschlichen Körpers](https://www.youtube.com/watch?v=jTRP4ZTtRrg&t=94)
 
 ## Wasser- und Elektrolythaushalt
-+ Steuerung wichtiger physikalisch-chemischer Reaktionen im Körper
-+ Körper besteht zu 60% aus Wasser, das sich zum Teil in Zellen, zwischen Zellen und Blutgefäßen befindet
-+ In Körperflüssigkeiten sind versch. Salze (Elektrolyte) in unterschiedlicher Konzentration gelöst. Es kommt somit zu ständigem Austauschvorgang und Konzentrationsverschiebungen was für Steuerung aller Lebensvorgänge wichtig ist.
+### Aufgaben
++ Steuerung wichtiger **physikalisch-chemischer Reaktionen**
++ Körper = 60% aus Wasser
+  + in Zellen (intrazellulär) 40%
+  + zwischen Zellen (im Interstitium) 14%
+  + in Blut- und Lymphgefäßen (extrazellulär im Kreislauf) 5%
+  + transzellulär (Liquor, Gelenksflüssigkeit) 1-2%
++ In Körperflüssigkeiten sind versch. Salze (Elektrolyte) gelöst.
+  + ständigem Austauschvorgang und
+  + Konzentrationsverschiebungen was für Steuerung aller Lebensvorgänge wichtig ist.
+
+### Keyplayer
++ Verdauung (Aufnahme)
++ Nieren (Entgiftung)
++ Lymphkreislauf (Wasserentsorgung der Zellen)
++ Haut (Schwitzen)
++ (Lunge)
 
 Wird das Zusammenwirken durch Störung des Wasserhaushaltes (exzessive Flüssigkeitszufuhr oder Nierenversagen) und Elektrolytverluste (zB durch Erbrechen, Durchfall) gestört, kommt es zu bedrohlichen Störungen des Bewusstseins, Atmung, Kreislauf und aller wichtigen Organfunktionen.
 
 ## Säure- Basenhaushalt
 + Regelt das Gleichgewicht aller Lebensvorgänge.
-+ Die ständig ablaufenden chemischen Prozesse im Körper sind nur in annährend neutralem Bereich möglich.
-+ Jede Änderung des Gleichgewichtes muss durch Lungen- und Nierenfunktion ausgeglichen werden.
++ chemischen Prozesse im Körper sind nur in annährend neutralem Bereich möglich = pH 7,4 (+-0.05)
++ Jede Änderung des Gleichgewichtes muss durch Lungen- und Nierenfunktion ausgeglichen werden
 
 Vermehrter Anfall von sauren Substanzen (bei O2-Mangel oder verminderter Abgabe von CO2 bei gestörter Atmung) führt zu Störung des Gleichgewichtes und damit zu Übersäuerung = **Acidose**.
++ O2 Mangel = respiratorische Azidose
++ Schockfolge = metabloische Azidose
 
 Verstärkter Anfall basischer Substanzen (bei erhöhter Abatmung von CO2) bei Hyperventilation bzw Säureverluste durch Erbrechen und Durchfall sowie Störungen der Nierenfunktion führen zu Veränderung des Gleichgewichtes im basischen Bereich = **Alkalose**.
++ Hyperventilationssyndrom = respiratorische Alkalose
 
 ## Stoffwechsel
 Dient der Verwertung von Nahrungsbausteinen (Eiweiße, Fette, Kohlehydrate) die durch Enzyme ab- und umgebaut werden, um Körperzellen notwendige Energie zur Verfügung zu stellen. Energie wird freigesetzt = Verbrennung
-Häufigste Stoffwechselerkrankung = Diabetes mellitus
++ Häufigste Stoffwechselerkrankung = Diabetes mellitus
++ Gicht
++ Hashimoto
