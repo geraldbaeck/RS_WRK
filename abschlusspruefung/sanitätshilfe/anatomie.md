@@ -714,8 +714,7 @@ Während Menstruationszyklus reift Follikel heran, drängt zur Oberfläche, plat
 ![Männliche Geschlechtsorgane](https://upload.wikimedia.org/wikipedia/commons/a/af/Male_anatomy_de.png)
 
 
-## Regelkreise
-### Wärmehaushalt
+## Wärmehaushalt
 + sehr stabil
 + dient dem geordneten Ablauf aller Lebensvorgänge
 + Damit chemische Prozesse im Körper reibungslos funktionieren können, ist konstante Körpertemperatur von 36-37°C erforderlich
@@ -729,14 +728,14 @@ Extreme Wärme oder Kälte können Wärmehaushalt sehr beeinträchtigen und zu S
 
 :arrow_forward: [Dr. Max erklärt die Welt: Das Klimasystem des menschlichen Körpers](https://www.youtube.com/watch?v=jTRP4ZTtRrg&t=94)
 
-### Wasser- und Elektrolythaushalt
+## Wasser- und Elektrolythaushalt
 + Steuerung wichtiger physikalisch-chemischer Reaktionen im Körper
 + Körper besteht zu 60% aus Wasser, das sich zum Teil in Zellen, zwischen Zellen und Blutgefäßen befindet
 + In Körperflüssigkeiten sind versch. Salze (Elektrolyte) in unterschiedlicher Konzentration gelöst. Es kommt somit zu ständigem Austauschvorgang und Konzentrationsverschiebungen was für Steuerung aller Lebensvorgänge wichtig ist.
 
 Wird das Zusammenwirken durch Störung des Wasserhaushaltes (exzessive Flüssigkeitszufuhr oder Nierenversagen) und Elektrolytverluste (zB durch Erbrechen, Durchfall) gestört, kommt es zu bedrohlichen Störungen des Bewusstseins, Atmung, Kreislauf und aller wichtigen Organfunktionen.
 
-### Säure- Basenhaushalt
+## Säure- Basenhaushalt
 + Regelt das Gleichgewicht aller Lebensvorgänge.
 + Die ständig ablaufenden chemischen Prozesse im Körper sind nur in annährend neutralem Bereich möglich.
 + Jede Änderung des Gleichgewichtes muss durch Lungen- und Nierenfunktion ausgeglichen werden.
@@ -745,6 +744,6 @@ Vermehrter Anfall von sauren Substanzen (bei O2-Mangel oder verminderter Abgabe 
 
 Verstärkter Anfall basischer Substanzen (bei erhöhter Abatmung von CO2) bei Hyperventilation bzw Säureverluste durch Erbrechen und Durchfall sowie Störungen der Nierenfunktion führen zu Veränderung des Gleichgewichtes im basischen Bereich = **Alkalose**.
 
-### Stoffwechsel
+## Stoffwechsel
 Dient der Verwertung von Nahrungsbausteinen (Eiweiße, Fette, Kohlehydrate) die durch Enzyme ab- und umgebaut werden, um Körperzellen notwendige Energie zur Verfügung zu stellen. Energie wird freigesetzt = Verbrennung
 Häufigste Stoffwechselerkrankung = Diabetes mellitus
