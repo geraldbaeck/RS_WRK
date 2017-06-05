@@ -13,7 +13,17 @@
 **Warnzeichen: Systole <90 >220**
 
 ## EKG
-Asystolie, pulslose elektrische Aktivität vs. Kammerflimmern, Kammertachykardie (>180)
++ Asystolie = Nulllinie, nicht schockbar
++ pulslose elektrische Aktivität, nicht schockbar
++ Kammerflimmern, oder Kammerflattern
++ Kammertachykardie (>180)
+
++ P-Welle: Vorhoferregung
++ PQ-Intervall: Errgungszeit Sinusknoten bis AV-Knoten
++ Q-Welle
++ QRS-Komplex: Kontraktion der Kammern
++ ST-Intervall
++ T-Welle: elektrische Erholung
 
 ## Blutzucker
 **Warnzeichen: <40 oder >300 mg/dl**
