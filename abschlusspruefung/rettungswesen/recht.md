@@ -148,13 +148,27 @@ Bei der Übergabe muss auf das mögliche Vorliegen einer Verfügung aufmerksam g
 + Strafrecht zb bei grob fahrlässiger Körperverletzung
 
 ## Medizinproduktgesetz - *Was versteht man darunter? Für wen gilt sie? Was ist der Inhalt?*
+Das Medizinproduktegesetz (MPG) regelt die technischen, medizinischen und Informations-Anforderungen für das Inverkehrbringen von Medizinprodukten.
 + Nur eingeschultes Personal darf MP verwenden
 + Vor Anwendung muss Funktionstauglichkeit, Betriebssicherheit und ordnungsgemäßer Zustand geprüft werden
 + Herstellerangaben sind bindend außer Chefarzt entscheidet anders
 + Eigenmächtiges Reaparieren nicht ok
 
-# TODO???
+
 ## Sondersignal - *Definition*
+
+§26 StVo kennt den Begriff Sindersignal nicht. Analog kann aber
++ blaues Licht oder blaues Drehlicht und
++ Warnzeichen mit aufeinanderfolgenden verschieden hohen Tönen  
+als Sondersignal bezeichnet werden.
+
+Demnach gilt:
++ Sondersignal nur bei Gefahr im Verzug oder zur Absicherung
++ Orientierung am §10 SanG Notfallpatienten sinnvoll
++ = Patient bei dem eine lebensbedrohliche Störung einer Vitalfunktion
+  + eingetreten ist,
+  + einzutreten droht oder
+  + nicht auszuschließen ist
 
 **§26 StVo** besagt:
 
@@ -164,16 +178,6 @@ Bei der Übergabe muss auf das mögliche Vorliegen einer Verfügung aufmerksam g
 
 (3) …Die Lenker von Einsatzfahrzeugen dürfen auch bei rotem Licht in eine Kreuzung einfahren, wenn sie vorher angehalten und sich überzeugt haben, daß sie hierbei nicht Menschen gefährden oder Sachen beschädigen. Einbahnstraßen und Richtungsfahrbahnen dürfen sie in der Gegenrichtung nur befahren, wenn der Einsatzort anders nicht oder nicht in der gebotenen Zeit erreichbar ist…*
 
-Demnach kennt die StVo den Begriff Sindersignal nicht analog kann aber
-+ blaues Licht oder blaues Drehlicht und
-+ Warnzeichen mit aufeinanderfolgenden verschieden hohen Tönen
-als Sondersignal bezeichnet werden.
-
-Demnach gilt:
-+ Sondersignal nur bei Gefahr im Verzug oder zur Absicherung
-+ Orientierung am §10 SanG Notfallpatienten sinnvoll
-  + = Patient bei dem eine lebensbedrohliche Störung einer Vitalfunktion eingetreten ist, einzutreten droht oder nicht auszuschließen ist
-
 ## Sondersignal - *Wann dürfen Sondersignale verwendet werden?*
 + Sondersignal nur bei Gefahr im Verzug zb bei Fahrten zum und vom Ort der dringenden Hilfeleistun
 + aus Gründen der Verkehrssicherheit auch am Ort der Hilfeleistung
@@ -181,7 +185,7 @@ Demnach gilt:
   + = Patient bei dem eine lebensbedrohliche Störung einer Vitalfunktion eingetreten ist, einzutreten droht oder nicht auszuschließen ist
 
 ## Sondersignal - *Was bewirkt das Einschalten von Sondersignalen?*
-der Lenker eines Einsatzfahrzeuges bei seiner Fahrt an Verkehrsverbote oder an Verkehrsbeschränkungen nicht gebunden. Er darf jedoch hierbei nicht Personen gefährden oder Sachen beschädigen. 
+der Lenker eines Einsatzfahrzeuges bei seiner Fahrt an Verkehrsverbote oder an Verkehrsbeschränkungen nicht gebunden. Er darf jedoch hierbei nicht Personen gefährden oder Sachen beschädigen.
 
 ## Einfahren in den Kreuzungsbereich - *Darf ein Fahrzeug mit aufgedrehten Sondersignalen sofort in den Kreuzungsbereich
 einfahren, wenn die Ampel rot zeigt?*
