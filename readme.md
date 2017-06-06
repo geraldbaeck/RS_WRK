@@ -1,6 +1,6 @@
 # Ausblidung zum Rettungssanitäter beim Wiener Roten Kreuz
 
-Hier findest Du Unterlagen und Notizen zur Ausbildung zum Rettungssanitäter beim WRK. Die Daten hier sind nicht vollständig und können Fehler enthalten. Inforamtion über Ablauf und Pürfung findest Du auch im [Intranet](https://intranet.wrk.at/confluence/display/FWuV/Informationen+RS-Ausbildung).
+Hier findest Du Unterlagen und Notizen zur Ausbildung zum Rettungssanitäter beim WRK. Die Daten hier sind nicht vollständig und können Fehler enthalten. Information über Ausbildung und Prüfung findest Du auch im [Intranet](https://intranet.wrk.at/confluence/display/FWuV/Informationen+RS-Ausbildung).
 
 ## Startmodul
 + [Zwischenprüfung MPG](zwischenpruefung/zwischenpruefung_mpg.md)
@@ -28,7 +28,7 @@ Hier findest Du Unterlagen und Notizen zur Ausbildung zum Rettungssanitäter bei
   + [Strukturierte Apparative Untersuchung](abschlusspruefung/praxis/strukturierte_untersuchung.md)
   + [AVPU](https://de.wikipedia.org/wiki/AVPU)
   + [Pupillenkontrolle](abschlusspruefung/praxis/pupillenkontrolle.md)
-  + [PLUMPES]()
+  + [PLUMPES]
 + Trauma (Lucas Gabriel)
   + [Checkliste Trauma](abschlusspruefung/praxis/Checkliste_Trauma_liegend_012017.pdf)
   + [Traumacheck](abschlusspruefung/traumacheck.md)
@@ -37,7 +37,7 @@ Hier findest Du Unterlagen und Notizen zur Ausbildung zum Rettungssanitäter bei
 
 ## Nice to know
 + [MPG](querschnitt/mpg.md) - keine Prüfungsfragen, aber Querschnittsmaterie
-+ Glasgow Coma Scale - Nicht mehr prüfungs- aber praxisrelevant
++ [Glasgow Coma Scale](https://de.wikipedia.org/wiki/Glasgow_Coma_Scale#Glasgow_Coma_Scale_f.C3.BCr_Erwachsene) - Nicht mehr prüfungs- aber praxisrelevant
 
 ## Fragenkataloge
 + [Fragenkatalog 11/2016](abschlusspruefung/fragenkatalog_abschlusspruefung_rs_2016.pdf)
