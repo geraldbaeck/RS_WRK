@@ -10,30 +10,33 @@ Hier findest Du Unterlagen und Notizen zur Ausbildung zum Rettungssanitäter bei
 + Sanitätshilfe Theorie (Lisbeth Notter)
   + [Anatomie](abschlusspruefung/sanitätshilfe/anatomie.md)
   + [Hygiene](abschlusspruefung/sanitätshilfe/hygiene.md)
-  + [Notfälle bei verschiedenen Krankheitsbildern, spezielle Notfälle](abschlusspruefung/sanitätshilfe/notfaelle.md)
-  + [Geburt](abschlusspruefung/sanitätshilfe/geburt.md)
-  + [Kindernotfälle](abschlusspruefung/sanitätshilfe/kinder.md)
+  + Notfälle
+    + [Notfälle bei verschiedenen Krankheitsbildern, spezielle Notfälle](abschlusspruefung/sanitätshilfe/notfaelle.md)
+    + [Geburt](abschlusspruefung/sanitätshilfe/geburt.md)
+    + [Kindernotfälle](abschlusspruefung/sanitätshilfe/kinder.md)
+    + [Der geriatrische Patient](abschlusspruefung/sanitätshilfe/geriatrie.md)
 + G&K / Rettungswesen (tba)
   + [Rechtliche Grundlagen](abschlusspruefung/rettungswesen/recht.md)
   + [Rettungswesen](abschlusspruefung/rettungswesen/rettungswesen.md)
   + [Katastrophe und Großunfall](abschlusspruefung/rettungswesen/katastrophe.md)
 + Patientenbeurteilung / ABCDE (Matthias Müller)
-  + [Checkliste ABCDE](abschlusspruefung/Checkliste_ABCDE_012017.pdf)
-  + [ABCDE](abschlusspruefung/abcde.md)
-  + [FAST](abschlusspruefung/fast.md)
-  + [SAMPLE](abschlusspruefung/SAMPLE.md)
+  + [Checkliste ABCDE](abschlusspruefung/praxis/Checkliste_ABCDE_012017.pdf)
+  + [ABCDE](abschlusspruefung/praxis/abcde.md)
+  + [FAST](abschlusspruefung/praxis/fast.md)
+  + [SAMPLE](abschlusspruefung/praxis/SAMPLE.md)
   + [OPQRST](https://de.wikipedia.org/wiki/OPQRST)
-  + [Strukturierte Apparative Untersuchung](abschlusspruefung/strukturierte_untersuchung.md)
+  + [Strukturierte Apparative Untersuchung](abschlusspruefung/praxis/strukturierte_untersuchung.md)
   + [AVPU](https://de.wikipedia.org/wiki/AVPU)
-  + [Pupillenkontrolle](abschlusspruefung/pupillenkontrolle.md)
+  + [Pupillenkontrolle](abschlusspruefung/praxis/pupillenkontrolle.md)
+  + [PLUMPES]()
 + Trauma (Lucas Gabriel)
-  + [Checkliste Trauma](abschlusspruefung/Checkliste_Trauma_liegend_012017.pdf)
+  + [Checkliste Trauma](abschlusspruefung/praxis/Checkliste_Trauma_liegend_012017.pdf)
   + [Traumacheck](abschlusspruefung/traumacheck.md)
 + BLS (Andrea Baci)
-  + [Checkliste BLS](abschlusspruefung/Checkliste_ALS_BLS_Rezertifizierung_012017.pdf)
+  + [Checkliste BLS](abschlusspruefung/praxis/Checkliste_ALS_BLS_Rezertifizierung_012017.pdf)
 
 ## Nice to know
-+ [MPG](abschlusspruefung/mpg.md) - keine Prüfungsfragen, aber Querschnittsmaterie
++ [MPG](querschnitt/mpg.md) - keine Prüfungsfragen, aber Querschnittsmaterie
 + Glasgow Coma Scale - Nicht mehr prüfungs- aber praxisrelevant
 
 ## Fragenkataloge
