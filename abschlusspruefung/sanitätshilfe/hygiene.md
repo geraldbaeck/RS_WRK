@@ -188,7 +188,7 @@ z.B.: Schnittverletzungen, Hautexposition, Schleimhautexposition, Krankenanstalt
 + **Hautexposition**: sofortiges Entfernen des potenziell infektiösen Materials mit alkoholgetränkten Tupfer. Danach Abreiben der Hautoberfläche mit großzügiger Einbeziehung des Umfelds um sichtbar kontaminiertes Areal.
 + **Schleimhautexposition**: sofort und ausgiebig spülen
 + **Weitergehende Maßnahmen**: im Anschluss an Sofortmaßnahmen ist KH aufzusuchen. Verletzung dokumentieren und entsprechend den lokalen Regelungen melden.
-+ **Postexpositionelle HIV-Prophylaxe (PEP)**: innerhalb von 1-2 Std. aber innerhab vonm 48-72 Std jedenfalls beinnen.
++ **Postexpositionelle HIV-Prophylaxe (PEP)**: innerhalb von 1-2 Std, aber innerhab von 48-72 Std jedenfalls beginnen
 + **Postexpositionelle Meningitis-Prophylaxe**: Antibiotika
 
 
@@ -386,7 +386,7 @@ Multiresistente Erreger zb ESBL, VRE, MRSA. Bei Transport ist abzuklären, ob si
 
 
 ## SARS (Schweres Akutes Respiratorisches Syndrom)
-Übertragung durch Kontakt- und Tröpfcheninfektion.
+Übertragung durch Kontakt- und Tröpfcheninfektion. Ähnlich einer atypischen Pneumonie.
 
 ### Symptome
 + Plötzlich auftretendes schnell steigendes Fieber
