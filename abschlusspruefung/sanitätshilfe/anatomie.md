@@ -730,7 +730,7 @@ Während Menstruationszyklus reift Follikel heran, drängt zur Oberfläche, plat
 + Sonnenstich
 + Hitzekollaps
 + Fieber(-krampf)
-+ Hypothermie 
++ Hypothermie
 
 Störungen durch Giftstoffe von Krankheitserregern oder  körpereigene Giftstoffe können Fehlregulation und dadurch zu Fieber führen. Beeinträchtig Stoffwechsel, Wasser- und Elektrolythauhalt und somit auch Atmung, Kreislauf und unter Umständen das Bewusstsein.
 
@@ -768,8 +768,12 @@ Vermehrter Anfall von sauren Substanzen (bei O2-Mangel oder verminderter Abgabe 
 + O2 Mangel = respiratorische Azidose
 + Schockfolge = metabloische Azidose
 
+:arrow_forward: [Die respiratorische Azidose](https://www.youtube.com/watch?v=-fWcqGobYeo)
+
 Verstärkter Anfall basischer Substanzen (bei erhöhter Abatmung von CO2) bei Hyperventilation bzw Säureverluste durch Erbrechen und Durchfall sowie Störungen der Nierenfunktion führen zu Veränderung des Gleichgewichtes im basischen Bereich = **Alkalose**.
 + Hyperventilationssyndrom = respiratorische Alkalose
+
+
 
 ## Stoffwechsel
 Dient der Verwertung von Nahrungsbausteinen (Eiweiße, Fette, Kohlehydrate) die durch Enzyme ab- und umgebaut werden, um Körperzellen notwendige Energie zur Verfügung zu stellen. Energie wird freigesetzt = Verbrennung
