@@ -3,7 +3,7 @@
 ## Rettungswesen Definition
 + die Leistung von Erster Hilfe und Sanitätshilfe
 + die notfallmedizinische Versorgung
-+ der Transport von Personen, die wegen ihre Gesundheitszustands eines transportes bedürfen
++ der Transport von Personen, die wegen ihre Gesundheitszustands eines Transportes bedürfen
 + die Durchführung von Ambulanzdiensten
 
 ## Struktur des Rettungsdienstes
@@ -58,7 +58,7 @@ Notrufeingang - Disposition - Ausrückzeit - Anfahrtzeit - Eintreffen am BO
 ## Herstellen der Transportfähigkeit Was versteht man darunter?
 Der Patient ist erst dann transportfähig, wenn
 + die **Lebensfunktionen vorhanden** sind,
-+ er **keine starken Blutungen** und 
++ er **keine starken Blutungen** und
 + **keine starken Schmerzen** hat.
 Dazu zählt der Transport (liegend, gehend, sitzend), die Durchführung, die Betreuung währenddessen und die Übergabe.
 
