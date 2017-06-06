@@ -527,7 +527,7 @@ Können mit Tachykardie oder Bradykardie des Herzschlags oder unregelmäßiger H
 ### Definition
 Leistungseinschränkung des Herzens mit Verminderung der Pumpleistung bei ausreichendem Blutangebot. Ausgelöst durch Herzmuskelschwäche.
 
-#### Linksherzschwäche (Linksherzinssufizienz)
+#### Linksherzschwäche (Linksherzinsuffizienz)
 Blut kann nicht mehr ausreichend in den Körper gepumpt werden. Blut wird in Lungenstrombahn zurückgestaut, was zum (kardialen) Lungenödem führt.
 
 ##### Symptome
@@ -542,7 +542,7 @@ Blut kann nicht mehr ausreichend in den Körper gepumpt werden. Blut wird in Lun
 + Kleidung öffnen, ruhiges Atmen
 
 #### Rechtsherzschwäche (Rechtsherzinsuffizienz)
-Oft eine Folge der Linksherzinssufizienz. Chronische Lungenstauung. Wirkt sich auf rechte Herzkammer aus. Kommt zu einer Leistungsminderung mit Ausweitung des rechten Herzens. Blut staut sich in Venen zurück, wird an Halsvenen sichtbar. Dadurch sammelt sich Wasser im Gewebe (Ödeme). Da dadurch gesamte Herzleistung eingeschränkt ist = **Globalinsuffizienz**.
+Oft eine Folge der Linksherzinsuffizienz. Chronische Lungenstauung. Wirkt sich auf rechte Herzkammer aus. Kommt zu einer Leistungsminderung mit Ausweitung des rechten Herzens. Blut staut sich in Venen zurück, wird an Halsvenen sichtbar. Dadurch sammelt sich Wasser im Gewebe (Ödeme). Da dadurch gesamte Herzleistung eingeschränkt ist = **Globalinsuffizienz**.
 
 ##### Akutes Rechtsherzversagen
 Lebensbedrohlicher Zustand. Recht Herz wird akut überlastet. Ursachen können Lungenembolie oder schwere Asthmaanfälle sein.
@@ -932,7 +932,7 @@ Besonders gefährdet:
 + Schmerzen im Bereich der Wirbelsäule
 + Kraftlosigkeit bis zur Bewegungsunfähigkeit
 + Taubheitsgefühl bis zur Empfindungslosigkeit
-+ unwillkürlicher Harn- und Stuhabgang
++ unwillkürlicher Harn- und Stuhlabgang
 + Atemstörungen bei hohem Querschnitt (C3 - C5)
 
 ### Komplikationen
@@ -2162,7 +2162,7 @@ Maßnahmen:
 ### Ursachen
 + Erkrankungen des oberen Verdauungstraktes
 + Magen- oder Zwölffingerdarmgeschwür
-+ Krampfadern der Speiseröhre (Ösophagusverzien)
++ Krampfadern der Speiseröhre (Ösophagusvarizen)
 
 ### Symptome
 + Kaffesatzartiges Erbrechen
@@ -2238,9 +2238,12 @@ Blutvolumenmangel
 
 ### Verlauf  
 + Minderdurchblutung löst **Zentralisierung des Kreislaufs** aus
-  + = Haut, Muskulatur, Darm und Niere werden von Durchblutung ausgeschlossen
-  + dadurch entsteht ein Sauerstoffmangel in diesen Organen
-    + führt zur Entgleisung des Stiffwechsels => **Azidose** => Gefäßlähmung => Multiorganversagen
++ = Haut, Muskulatur, Darm und Niere werden von Durchblutung ausgeschlossen
++ dadurch entsteht ein Sauerstoffmangel in diesen Organen
++ führt zur Entgleisung des Stoffwechsels
+  + => **Azidose**
+  + => Gefäßlähmung 
+  + => Multiorganversagen
 
 ### Schockzeichen  
 | Stadium | Haut | Puls | RR | Atmung | Pupillen | Bewusssein |
