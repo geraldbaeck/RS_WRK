@@ -1238,7 +1238,19 @@ Ein weiteres unsicheres Frakturzeichen ist der Bluterguss (Hämatom).
 
 ## Extremitätentrauma - Allgemein
 
-### TODO einarbeiten
+### Arten
++ Quetschungen, Prellungen
++ Meniskusverletzungen
++ Muskelzerrungen, Muskelrisse
++ Sehnenzerrungen, Sehnenrisse
++ Bänderzerrungen, Bänderrisse
++ Gelenksverletzungen:
+  + Verstauchung (Distorsion)
+  + Verrenkung (Kontusion)
+  + Bandverletzungen
+  + Kapselverletzungen
++ Knochenbrüche
++ Gefäßrupturen
 
 ### Algorithmus
 + Vorher Lebensfunktionen sicherstellen
@@ -2242,7 +2254,7 @@ Blutvolumenmangel
 + dadurch entsteht ein Sauerstoffmangel in diesen Organen
 + führt zur Entgleisung des Stoffwechsels
   + => **Azidose**
-  + => Gefäßlähmung 
+  + => Gefäßlähmung
   + => Multiorganversagen
 
 ### Schockzeichen  
