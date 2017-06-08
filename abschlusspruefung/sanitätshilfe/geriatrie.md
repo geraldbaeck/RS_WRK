@@ -68,7 +68,7 @@ Verlust der Fähigkeit, mit der üblichen Klarheit und Struktur zu denken (=Verw
 
 ### Mangelernährung
 
-### Sarkphenie
+### Sarkophenie
 Abbau von Muskelmasse und Kraftverlust
 
 ### Sturzneigung
@@ -85,21 +85,28 @@ Warnsignale:
 Erscheinungsbild = Gebrechlichkeit
 
 
-## Einschränkung der Sinne
-### Glaukom (Grüner Star)
+## Einschränkung der Sinne  
+
+### Glaukom (Grüner Star)  
 + Verlust von Nervenfasern durch Augendruck
-### Katarakt (Grauer Star)
+
+### Katarakt (Grauer Star)  
 + Trübung der Augenlinse
+
 ### Alterssichtigkeit (Presbyopie)
 + Elastizitätsverlust der Linse
+
 ### Schwerhörigkeit (Presbyakusis)
+
 ### Tinnitus
+
 ### Schwindel
+
 ### Inkontinenz
 
 ## Der Geriatrische Notfall
 ### Symptome
-+ Symptome des akuten notfalls
++ Symptome des akuten Notfalls
 + Symptome der chronischen Erkrankung
 + CAVE: Vermischung möglich
 

@@ -70,3 +70,10 @@ Vorübergehende Bewusstlosigkeit durch einer Sauerstoffunterversorgung des Gehir
 ### Phase 3: Abgleiten oder Abwurf vom KFZ
 + häufig eher Armbrüche & Kopfverletzungen
 + auffallend gering
+
+
+## Nasennebenhöhlen
++ Stirnbeinhöhlen
++ Keilbeinhöhlen
++ Siebbeinhöhlen
++ Kieferhöhlen

@@ -54,3 +54,6 @@ severe acute respiratory syndrome
 
 ## Zwischenhirn
 Diencephalon
+
+## Osteomyelitis
+Knochenmarksentzündung
