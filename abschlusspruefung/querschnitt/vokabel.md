@@ -57,3 +57,15 @@ Diencephalon
 
 ## Osteomyelitis
 Knochenmarksentzündung
+
+## Glaukom
+Grüner Star
+
+## Katarakt
+Grauer Star
+
+## Alterssichtigkeit
+Presbyopie
+
+## Schwerhörigkeit
+Presbyakusis
