@@ -4,7 +4,7 @@
 + Aufnahme von Sinneseindrücken
 + Gedächtnis und Merkfähigkeit
 + Ausführung gezielter Bewegungen
-+ intakte Schutzreflexe
++ intakte Schutzreflexe  
 Ungestörtes Bewusstsein ermöglicht also Sehen, Hören, Fühlen, Schmecken, Riechen, Denken, Merken, geordnetes Bewegen, Orientieren und Reagieren.
 
 ### Bewusstseinsveränderung
