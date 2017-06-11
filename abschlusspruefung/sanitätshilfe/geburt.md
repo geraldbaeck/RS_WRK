@@ -1,3 +1,162 @@
+# Schwangerschaft und Geburt
+
+## Schwangerschaft und Geburt (G53)
+
++ **Gebärmutter** ist 8cm großer Hohlmuskel, dehnt sich bei Schwangerschaft aus.
++ **Plazenta**: Mutterkuchen – dient zur Versorgung von O2, Ernährung und Stoffwechselausscheidungen des Kindes und Hormonproduktion für Erhaltung der Schwangerschaft.
++ **Eihäute**: setzen an der Plazenta an und bildenen einen mit Fruchtwasser gefüllten Fruchtsack in dem das Kind durch die Nabelschnur mit Plazenta verbunden, schwimmt. Fruchtwasser hat Stoßdämpferfunktion.
+
+| Bezeichnung | SSW | Gewicht | Lebenszeichen |
+| --- | --- | --- | --- |
+| Fehlgeburt | - | < 500g | tot geboren |
+| Totgeburt | - | > 500g | tot geboren |
+| frühgeborene Lebendgeburt (Frühgeburt) | < 37 SSW | > 500g | Nach Scheidung vom Mutterleib:<ul><li>Herzschlag oder</li><li>Nableschnurpulsation oder</li><li>Lungenatmung oder</li><li>willkürliche Muskelbewegung (nur Ö)</li></ul> |
+
+
+## Schwangerschaftskomplikationen - Erste Hälfte -  Eileiterschwangerschaft (G54)
+
+### Definition
+Befruchtete Eizelle nistet sich im Eileiter oder in der Bauchöhle ein. Durch das Wachstum des Follikels kommt es zu einer Zerreißung des Eileiters und damit zu lebensbedrohlichen Blutungen.
+
+### Symptome
++ Starke Schmerzen im Unterbauch
++ evt geringe vaginale Blutungen
+
+### Komplikationen
++ starke Blutung
+
+### Maßnahmen
++ Lagerung nach Fritsch
++ Voranmeldung im KH
+
+
+## Schwangerschaftskomplikationen - Erste Hälfte -  Fehlgeburt (Abortus) (G54)
+
+### Definition
+Auf Grund verschiedener Ursacher kann es zu einer Ausstoßung des Fötus (unter 500g) kommen.
+
+### Symptome
++ vaginale Blutung
++ Wehenartige, ziehende Schmerzen
++ evt Abgang von Gewebeteilen
+
+### Komplikationen
++ starke Blutung
+
+
+## Schwangerschaftskomplikationen - Zweite Hälfte -  Frühgeburt (G55)
+
+### Definition
+Vor der 37. SSW. Überlebenschance besteht ab der 24. SSW
+
+### Symptome
++ Geburtsbeginn
+
+### Komplikationen für das Kind
++ Atemstörung
++ Atem-Kreislaufstillstand
++ Unterkühlung
+
+### Maßnahmen
++ wie normale Geburt
++ Wärmeerhalt
++ Kontrolle der Lebensfunktionen
+
+
+## Schwangerschaftskomplikationen - Zweite Hälfte -  Placenta praevia (G55)
+
+### Definition
+Mutterkuchen liegt vor Muttermund – Geburtskanal verdeckt. Dadurch kann es zu Blutungen kommen. Fehllage wird überlicherweise bei routinemäßigen Ultraschalluntersuchungen entdeckt.
+
+### Symptome
++ Schmerzfreie vaginale Blutung
+
+### Komplikationen
++ Lebensgefahr für Mutter und Kind
+
+### Maßnahmen
++ Lagerung nach Fritsch
+
+
+## Schwangerschaftskomplikationen - Zweite Hälfte -  Vorzeitige Plazentalösung (G55)
+
+### Definition
+Durch die Bildung eines Hämatoms hinter der Plazenta kann es zu einer Lösung kommen. Ursachen:
++ Gewalteinwirkung / Trauma
++ Erkrankungen (Eklampsie)
++ Drogenmissbrauch
+
+Dadurch wird die Versorgung des Kindes eingeschränkt bzw unterbunden.
+
+### Symptome
++ Plötzlich auftretende Schmerzen
++ Gespannte Bauchdecke
++ dunkelrote, vaginale Schmierblutung (Peripartale Blutung) unterschiedlich stark
+
+### Komplikationen
+Mutter:
++ starke Blutung => Schockzeichen bei der Mutter
++ Unruhe, Schwäche, Angst- und Durstgefühl und Übelkeit
+
+Kind:
++ akuter Sauerstoffmangel durch Mangelversorgung
+
+### Maßnahmen
++ Lagerung nach Fritsch
+
+
+## Schwangerschaftskomplikationen - Zweite Hälfte -  Vena-Cava-Kompressionssyndrom (G56)
+
+### Definition
+Das gewicht der Gebärmutter drückt in Rückenlage auf die untere Hohlvene. Dadurch wird der Rückfluss des Blutes verhindert und es kann zum Kollaps kommen.
+
+### Symptome
++ Kollaps
++ Schwindel
++ Übelkeit
+
+### Komplikationen
++ Bewusstlosigkeit
+
+### Maßnahmen
++ Linksseitenlage
+
+
+## Schwangerschaftskomplikationen - Zweite Hälfte -  Schwangerschaftsinduzierte Hypertonie und Eklampsie (G56)
+
+### Definition
+In de letzten Monaten der SW oder während der Geburt kann es zu Krampfanfällen kommen, die das Leben von Mutter und Kind gefährden können.
+
+### Symptome
++ Hypertonie
++ Ödeme
++ Krämpfe
+
+### Komplikationen
++ Lebensgefahr für Mutter und Kind
+
+### Maßnahmen
++ Leicht erhöhter Oberkörper in linker Seitenlage
+
+
+## Schwangerschaftskomplikationen - Zweite Hälfte -  Nabelschnurvorfall (G56)
+
+### Definition
+Nach dem Blasensprung kann sich die Nabelschnur um das Kind wickeln. Während der Geburt wird die Nabelschnur im Geburtskanal abgeklemmt => Kind unterversorgt.
+
+### Symptome
++ Blasensprung
++ Abgang von Blut, Schleim, Fruchtwasser
++ Aus der Scheide hängende Nabelschnur
+
+### Komplikationen
++ Lebensgefahr für das Kind
+
+### Maßnahmen
++ Flache Rückenlage
++ Becken Hochlagern
++ Vierfüßlerstand mit gesenktem Oberkörper
+
 ## Geburt - *Dauer, Geburtstermin*
 
 **Dauer**: 40 Wochen ab Befruchtung der Eizelle

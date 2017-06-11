@@ -67,5 +67,8 @@ Grauer Star
 ## Alterssichtigkeit
 Presbyopie
 
-## Schwerhörigkeit
+## Schwerhörigkeit im Alter
 Presbyakusis
+
+## Lebensmittelvergiftung
+Gastroenteritis

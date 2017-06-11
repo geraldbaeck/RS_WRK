@@ -7,19 +7,23 @@ Hier findest Du Unterlagen und Notizen zur Ausbildung zum Rettungssanitäter bei
 + [Zwischenprüfung Erste Hilfe Fragen](zwischenpruefung/zwischenpruefung_erstehilfe.md)
 
 ## Abschlussprüfung
-+ Sanitätshilfe Theorie (Lisbeth Notter)
++ Sanitätshilfe Theorie
   + [Anatomie](abschlusspruefung/sanitätshilfe/anatomie.md)
   + [Hygiene](abschlusspruefung/sanitätshilfe/hygiene.md)
-  + Notfälle
-    + [Notfälle bei verschiedenen Krankheitsbildern, spezielle Notfälle](abschlusspruefung/sanitätshilfe/notfaelle.md)
-    + [Geburt](abschlusspruefung/sanitätshilfe/geburt.md)
+  + Notfälle und Krankheitsbilder
+    + [Cerebrale Krankheitsbilder](abschlusspruefung/sanitätshilfe/notfaelle_cerebral.md)
+    + [Kardiale Krankheitsbilder](abschlusspruefung/sanitätshilfe/notfaelle_kardial.md)
+    + [Pulmonale Krankheitsbilder](abschlusspruefung/sanitätshilfe/notfaelle_pulmonal.md)
+    + [Spezielle Notfälle](abschlusspruefung/sanitätshilfe/notfaelle.md)
+    + [Traumatische Notfälle](abschlusspruefung/sanitätshilfe/notfaelle_trauma.md)
+    + [Schwangerschaft und Geburt](abschlusspruefung/sanitätshilfe/geburt.md)
     + [Kindernotfälle](abschlusspruefung/sanitätshilfe/kinder.md)
     + [Der geriatrische Patient](abschlusspruefung/sanitätshilfe/geriatrie.md)
-+ G&K / Rettungswesen (tba)
++ G&K / Rettungswesen
   + [Rechtliche Grundlagen](abschlusspruefung/rettungswesen/recht.md)
   + [Rettungswesen](abschlusspruefung/rettungswesen/rettungswesen.md)
   + [Katastrophe und Großunfall](abschlusspruefung/rettungswesen/katastrophe.md)
-+ Patientenbeurteilung / ABCDE (Matthias Müller)
++ Patientenbeurteilung / ABCDE
   + [Checkliste ABCDE](abschlusspruefung/praxis/Checkliste_ABCDE_012017.pdf)
   + [ABCDE](abschlusspruefung/praxis/abcde.md)
   + [FAST](abschlusspruefung/praxis/fast.md)
@@ -29,10 +33,10 @@ Hier findest Du Unterlagen und Notizen zur Ausbildung zum Rettungssanitäter bei
   + [AVPU](https://de.wikipedia.org/wiki/AVPU)
   + [Pupillenkontrolle](abschlusspruefung/praxis/pupillenkontrolle.md)
   + [PLUMPES]
-+ Trauma (Lucas Gabriel)
++ Trauma
   + [Checkliste Trauma](abschlusspruefung/praxis/Checkliste_Trauma_liegend_012017.pdf)
   + [Traumacheck](abschlusspruefung/traumacheck.md)
-+ BLS (Andrea Baci)
++ BLS
   + [Checkliste BLS](abschlusspruefung/praxis/Checkliste_ALS_BLS_Rezertifizierung_012017.pdf)
 
 ## Nice to know
