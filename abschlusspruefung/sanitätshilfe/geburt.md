@@ -225,10 +225,10 @@ Naegele Regel:
 ## Maßnahmen
 + Lagerung der Mutter liegend und linksseitig
 + Wenn das Hinterhaupt in der Wehenpause sichtbar bleibt == Mutter in Geburtsposition (Sitzend Beine angezogen oder knieend)
-+ Farhzeug abstellen und gut heizen
++ Fahrzeug abstellen und gut heizen
 + Geburtspaket vorbereiten inkl Sauerstoff
 + Geburt des Kopfes möglichst langsam, um Dammriss zu vermeiden, durchatmen und hecheln, nicht mehr pressen
-+ ist der Kpf geboren, mit steriler Wundkompresse abwischen
++ ist der Kopf geboren, mit steriler Wundkompresse abwischen
 + Der vollständige Austritt des Körpers gilt als Geburtstermin
 + Achtung kind ist rutschig => abwischen
 + Atmung und Puls kontrollieren
