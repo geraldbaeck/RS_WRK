@@ -1,6 +1,9 @@
-# Ausblidung zum Rettungssanitäter beim Wiener Roten Kreuz
+# Ausbildung zum Rettungssanitäter beim Wiener Roten Kreuz
 
 Hier findest Du Unterlagen und Notizen zur Ausbildung zum Rettungssanitäter beim WRK. Die Daten hier sind nicht vollständig und können Fehler enthalten. Information über Ausbildung und Prüfung findest Du auch im [Intranet](https://intranet.wrk.at/confluence/display/FWuV/Informationen+RS-Ausbildung).
+
+## Ausbildungsweg
+![Ausbildungsweg](https://rawgit.com/geraldbaeck/RS_WRK/master/charts/ausbildungsweg.svg)
 
 ## Startmodul
 + [Zwischenprüfung MPG](zwischenpruefung/zwischenpruefung_mpg.md)
