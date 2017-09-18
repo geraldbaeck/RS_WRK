@@ -71,16 +71,6 @@ Eine Unterscheidung zwischen Ischämischen und Häorragischen Insult kann nur du
 + Vorerkrankungen: Zucker, Bluthochdruck, Vorhofflimmern, Herzklappenerkrankungen
 + Medikament, va Blutverdünner zb Marcumar
 
-### Stroke-Units in Wien
-+ KH der Barmherzigen Brüder Wien
-+ Kaiser-Franz-Josef-Spital der Stadt Wien
-+ KH Hietzing (eine Stroke Unit) mit neurologischem Zentrum Rosenhügel (zwei Stroke Units)
-+ Rudolfsstiftung
-+ Wilhelminenspital
-+ Göttlicher Heiland
-+ AKH
-+ SMZ Ost - Donauspital Wien
-
 ### Media
 + [Kurzwiederholung Apoplex/Schlaganfall/Hirninfarkt/Ischämischer Insult](https://www.youtube.com/watch?v=_GP93m6QJw4)
 + [Ischämischer Schlaganfall I](https://www.youtube.com/watch?v=QniNVDOPdPo)
@@ -105,9 +95,9 @@ Eine Unterscheidung zwischen Ischämischen und Häorragischen Insult kann nur du
 + Übel, Erbrechen
 + Bewusstseinsstörungen
 + Krampfanfälle
-+ (Lichtscheu und Geräuschempfindlichkeit)
-+ (Die klassische Symptom-Trias einer Meningitis besteht aus Nackensteifigkeit, hohem Fieber und Bewusstseinsminderung)
-+ („jolt accentuation maneuver“: Wenn die Patienten den Kopf horizontal schnell hin- und herschütteln (wie beim „Neinsagen“) und dies den Kopfschmerz nicht verschlimmert, ist eine Meningitis unwahrscheinlich)
++ Lichtscheu und Geräuschempfindlichkeit
++ Die klassische Symptom-Trias einer Meningitis besteht aus Nackensteifigkeit, hohem Fieber und Bewusstseinsminderung
++ *„jolt accentuation maneuver“*: Wenn die Patienten den Kopf horizontal schnell hin- und herschütteln (wie beim „Neinsagen“) und dies den Kopfschmerz nicht verschlimmert, ist eine Meningitis unwahrscheinlich
 
 **Komplikationen**
 + Ansteigen des Hirndrucks
@@ -126,7 +116,7 @@ Eine Unterscheidung zwischen Ischämischen und Häorragischen Insult kann nur du
 **Differentialdiagnosen**
 + Subarachnoidalblutung (plötzlicher Vernichtungskopfschmerz, Meningismus, aber kein Fieber)
 + Sonnenstich (erfragen, roter Kopf)
-+ lokale Muskelverspannung (kein Fieber, verwechslung Möglich)
++ lokale Muskelverspannung (kein Fieber, verwechslung möglich)
 
 
 ## Krampfanfälle
