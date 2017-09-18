@@ -72,3 +72,6 @@ Presbyakusis
 
 ## Lebensmittelvergiftung
 Gastroenteritis
+
+## Frailty
+Multifaktorielles geriatrisches Syndrom
