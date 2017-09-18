@@ -142,7 +142,7 @@ Gewalteinwirkung kann zu
 + führt zum Kollabieren eines Lungenflügels
 
 #### Spannungspneumothorax
-+ Pneumothorax, bei dem die Luft nicht mehr entwichen kann (Ventilmechanismus)
++ Pneumothorax, bei dem die Luft nicht mehr entweichen kann (Ventilmechanismus)
 => beu Inspiration strömt Luft nach
 => Kompression der Restlunge
 => Abknicken/-drücken der Hohlvenen (Cava-Kompressionssyndrom) mit Füllungsbehinderung des Herzens

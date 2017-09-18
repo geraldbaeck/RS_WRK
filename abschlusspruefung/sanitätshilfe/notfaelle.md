@@ -1,12 +1,5 @@
 # Notfälle
 
-
-
-
-
-
-
-
 ## Diabetes Mellitus
 
 ### Definition
@@ -288,7 +281,7 @@ CO blockiert das Hämoglobin für den Sauerstofftransport und ist ca 300 mal fes
 ## CO2 Vergiftung
 
 ### Definition
-Entsteht wie bei menschlicher Atmung als Stoffwechselendprodukt be organischen Gärvorgängen. (sinkt zu Boden = Kohlendioxidsee) Einatmen einer zu hohen Konzentration die am Boden absinkt. zb Weinkeller, Höhlen, Brunnenschächte, Silos. Geruchlos, farblos, nicht explosiv.
+Entsteht wie bei menschlicher Atmung als Stoffwechselendprodukt bei organischen Gärvorgängen. (sinkt zu Boden = Kohlendioxidsee) Einatmen einer zu hohen Konzentration die am Boden absinkt. zb Weinkeller, Höhlen, Brunnenschächte, Silos. Geruchlos, farblos, nicht explosiv.
 
 ### Symptome
 + Steigerung der Atemfrequenz
@@ -606,7 +599,7 @@ Gruppe von Erkrankungen im Bauchraum, die vor allem durch heftige Bauchschmerzen
 + Blutungen im Magen-Darm-Trakt oder in Speiseröhre
 + Lebensmittelvergiftung (Gastroenteritis)
 + Meteorismus (verzwickter Schaß)
-+ Gynekologische Erkrankungen
++ Gynäkologische Erkrankungen
 + Abdominaltrauma (Bauchschlag)
 + Mesenterialinfarkt (Verschluss im Gekröse)
 
