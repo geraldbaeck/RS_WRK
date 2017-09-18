@@ -77,7 +77,7 @@ Ablauf:
 + Reinigungsplan beachten
 
 ## Desinfektion
-+ Abtötung bzw irreversible Inaktivierung von krankheiterregende Keimen an und in konterminierten Objekten.
++ Abtötung bzw irreversible Inaktivierung von krankheitserregenden Keimen an und in konterminierten Objekten.
 + dient der Unterbechung der Infektionskette
 
 ### Desinfektionskreislauf
