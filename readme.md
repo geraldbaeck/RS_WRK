@@ -1,9 +1,6 @@
 # Ausbildung zum Rettungssanitäter beim Wiener Roten Kreuz
 
-Hier findest Du Unterlagen und Notizen zur Ausbildung zum Rettungssanitäter beim WRK. Die Daten hier sind nicht vollständig und können Fehler enthalten. Information über Ausbildung und Prüfung findest Du auch im [Intranet](https://intranet.wrk.at/confluence/display/FWuV/Informationen+RS-Ausbildung).
-
-## Ausbildungsweg
-![Ausbildungsweg](https://rawgit.com/geraldbaeck/RS_WRK/master/charts/ausbildungsweg.svg)
+Hier findest Du Unterlagen und Notizen zur Ausbildung zum Rettungssanitäter beim Wiener Roten Kreuz. Die Daten sind nicht vollständig und können Fehler enthalten. Information über Ausbildung und Prüfung findest Du auch im [Intranet](https://intranet.wrk.at/confluence/display/FWuV/Informationen+RS-Ausbildung).
 
 ## Startmodul
 + [Zwischenprüfung MPG](zwischenpruefung/zwischenpruefung_mpg.md)
@@ -42,9 +39,10 @@ Hier findest Du Unterlagen und Notizen zur Ausbildung zum Rettungssanitäter bei
 + BLS
   + [Checkliste BLS](abschlusspruefung/praxis/Checkliste_ALS_BLS_Rezertifizierung_012017.pdf)
 
-## Nice to know
+## Nice/Need to know
 + [MPG](querschnitt/mpg.md) - keine Prüfungsfragen, aber Querschnittsmaterie
 + [Glasgow Coma Scale](https://de.wikipedia.org/wiki/Glasgow_Coma_Scale#Glasgow_Coma_Scale_f.C3.BCr_Erwachsene) - Nicht mehr prüfungs- aber praxisrelevant
++ EKG Basiswissen
 
 ## Fragenkataloge
 + [Fragenkatalog 11/2016](abschlusspruefung/fragenkatalog_abschlusspruefung_rs_2016.pdf)
