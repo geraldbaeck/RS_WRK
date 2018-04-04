@@ -1,0 +1,2 @@
+# Eisenbahnbereich - *Besonderheiten bei Einsätzen im Gleisbereich*
+Betreiber wird über Leitstelle verständigt, zuerst muss Kontakt, mit den Einsatzleiter der von der ÖBB-Notfallleitstelle bekannt gegeben wird, aufgenommen werden, bevor Rettungsmaßnahmen gesetzt werden. Erst wenn dieser Einsatzleiter den Bereich freigibt, dürfen die Einsatzkräfte im Bereich der Gleisanlagen. Nur bei Gefahr im Verzug dürfen alle erforderlichen Maßnahmen zur Rettung unter Berücksichtigung der Eigensicherung gesetzt werden.
