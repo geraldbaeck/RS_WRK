@@ -52,6 +52,3 @@ Hier findest Du Unterlagen und Notizen zur Ausbildung zum Rettungssanitäter bei
 + [Bedienungsanleitungen](https://intranet.wrk.at/confluence/display/RD/RD+Bedienungsanleitungen)
 + [Sanitätshilfe Videos](https://www.youtube.com/user/Sanitaetshilfe/videos)
 + [Réanimation LIVE Bondi Rescue](https://www.youtube.com/watch?v=YOkCEuK5lK0)
-
-## Links
-+ [Dropbox](https://www.dropbox.com/l/scl/AAANRwGYrxrbJaYWTZiSU-5h3YlcixrPorg)
