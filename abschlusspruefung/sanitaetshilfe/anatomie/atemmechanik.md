@@ -1,7 +1,7 @@
 # Atemmechanik - *Funktionsweise*
 
 ## Bauchatmung / Zwerchfellatmung
-+ Zwerchfell kontrahiert beim Einatmen
++ Zwerchfell kontrahiert => Einatmen
 + Zwerchfell entspannt => Ausatmen
 
 ## Brustatmung
@@ -41,4 +41,6 @@
 
 ![Lungenvolumen](https://rawgit.com/geraldbaeck/RS_WRK/master/charts/Lungenvolumen.svg)
 
+Media
+------
 :arrow_forward: [Atemsystem erklärt 2](https://www.youtube.com/watch?v=CorOqCOkTu8)
