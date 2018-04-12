@@ -8,7 +8,7 @@
 + Brustkorb wird durch Zwischenrippenmuskeln nach oben gezogen
 
 ## Atmungsantrieb
-+ Zentraler Antrieb im Gerhirn in der Medula (unterester Teil des Gehirns) = zentraler Rhythmus Generator
++ Zentraler Antrieb im Gehirn in der Medulla oblongata (unterester Teil des Gehirns) = zentraler Rhythmus Generator
   + inspiratorische Neuronen
   + expiratorische Neuronen (nur beim willentlichen Ausatmen)
 + Reflektorische Kontrollen:
@@ -35,9 +35,9 @@
 | Atemzugsvolumen | AZV | KG x10 aber eigentlich x7 | ml |
 | Atemminutenvolumen | AMV | AF x AZV | ml |
 | Totraum | - | KG x2 | ml |
-| Vitalkapzität | - | Voll ausatmen und voll einatmen (ca. 4L) | - |
+| Vitalkapazität | - | Voll ausatmen und voll einatmen (ca. 4L) | - |
 | Residialvolumen | - | Luftmenge, die nach max. Expiration in der Lunge verbleibt (1-1,5L) | - |
-| Totalkapazität | - | Vitalkapzität + Residialvolumen | - |
+| Totalkapazität | - | Vitalkapazität + Residialvolumen | - |
 
 ![Lungenvolumen](https://rawgit.com/geraldbaeck/RS_WRK/master/charts/Lungenvolumen.svg)
 
