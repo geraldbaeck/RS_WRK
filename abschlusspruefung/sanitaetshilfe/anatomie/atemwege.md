@@ -1,5 +1,3 @@
-# Anatomie
-
 # Atemwege
 
 Nase  
