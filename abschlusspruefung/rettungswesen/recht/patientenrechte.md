@@ -13,5 +13,6 @@
   + psychisch Erkrankte
   + geistig Behinderte
   + Besachwalterte
+
 + Keine Behandlung/Transport => Revers
   + Voraussetzung: **Einsichts- und Urteilsfähigkeit**
