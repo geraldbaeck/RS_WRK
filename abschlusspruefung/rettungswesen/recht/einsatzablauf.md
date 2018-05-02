@@ -4,8 +4,8 @@
 + Meldepflicht bei DF wenn nicht, auch für KollegInnen
 
 ## Arbeitszeiten
-+ 12h täglich, maxmimal 60h die Woche
-+ Freiwillige müssen lediglich diesnttauglich sein
++ 12h täglich, maximal 60h die Woche
++ Freiwillige müssen lediglich diensttauglich sein
 
 ## Einsatzbereitschaft
 + technisches & medizinisches Equipment
