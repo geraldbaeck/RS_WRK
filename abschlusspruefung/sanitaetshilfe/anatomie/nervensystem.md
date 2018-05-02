@@ -24,7 +24,7 @@ Besteht aus Gehirn und Rückenmark und ist von Gehirn- bzw. Rückenhäuten umgeb
     + Aufnahme und Verarbeitung von Sinneseindrücken
     + steuert Bewegung
     + Aufbau:
-      + Großhrinrinde (Cortex)
+      + Großhirnrinde (Cortex)
       + Lappen:
         + Frontallappen
         + Temporallappen

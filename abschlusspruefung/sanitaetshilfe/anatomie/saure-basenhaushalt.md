@@ -1,6 +1,6 @@
 # Säure- Basenhaushalt
 + Regelt das Gleichgewicht aller Lebensvorgänge.
-+ chemischen Prozesse im Körper sind nur in annährend neutralem Bereich möglich = pH 7,4 (+-0.05)
++ chemischen Prozesse im Körper sind nur in annähernd neutralem Bereich möglich = pH 7,4 (+-0.05)
 + Jede Änderung des Gleichgewichtes muss durch Lungen- und Nierenfunktion ausgeglichen werden
 
 Vermehrter Anfall von sauren Substanzen (bei O2-Mangel oder verminderter Abgabe von CO2 bei gestörter Atmung) führt zu Störung des Gleichgewichtes und damit zu Übersäuerung = **Acidose**.

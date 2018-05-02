@@ -6,7 +6,7 @@ Aufgaben:
   + Blutzellen
   + Nährstoffe
 + Immunabwehr
-+ Regualtation des Wasserhaushalts im Gewebe
++ Regulation des Wasserhaushalts im Gewebe
 
 besteht aus:
 + Lymphgefäßen und
@@ -28,6 +28,6 @@ besteht aus:
 
 + insgesamt ca 2L täglich
 + transport eher passiv
-+ ist eigentltich kein Kreislauf sondern ein Entwässerungssystem fürs Gewebe
++ ist eigentlich kein Kreislauf sondern ein Entwässerungssystem fürs Gewebe
 
 :arrow_forward: [Das Lymphsystem - Organe des Menschen](https://www.youtube.com/watch?v=ClUOcvgAOnY)

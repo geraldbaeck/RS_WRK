@@ -3,7 +3,7 @@
 ## Aufgaben
 + Leiten/führen des Blutes
 + Zuführen von Nährstoffen und Sauerstoff
-+ ABführen von Abfallstoffen und CO2
++ Abführen von Abfallstoffen und CO2
 + Regulierung des Blutdrucks
 + Regelung der Körpertemperatur
 
@@ -22,7 +22,7 @@
 + sind die feinsten Aufzweigungen der Blutgefäße
 + Gasaustausch
 + ein Blutkörperchen passt durch
-+ Besteh aus einer einzigen durchlässigen Zellschicht (Endothelschicht)
++ Besteht aus einer einzigen durchlässigen Zellschicht (Endothelschicht)
 
 ## Venen
 + dünnwandig

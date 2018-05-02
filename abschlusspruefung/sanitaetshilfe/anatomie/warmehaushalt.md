@@ -16,7 +16,7 @@
 + Fieber(-krampf)
 + Hypothermie
 
-Störungen durch Giftstoffe von Krankheitserregern oder  körpereigene Giftstoffe können Fehlregulation und dadurch zu Fieber führen. Beeinträchtig Stoffwechsel, Wasser- und Elektrolythauhalt und somit auch Atmung, Kreislauf und unter Umständen das Bewusstsein.
+Störungen durch Giftstoffe von Krankheitserregern oder  körpereigene Giftstoffe können Fehlregulation und dadurch zu Fieber führen. Beeinträchtigt Stoffwechsel, Wasser- und Elektrolythauhalt und somit auch Atmung, Kreislauf und unter Umständen das Bewusstsein.
 
 Extreme Wärme oder Kälte können Wärmehaushalt sehr beeinträchtigen und zu Störungen des Stoffwechsels, des Wasser- und Elektrolythaushaltes, des Säure-Basen-Haushaltes, des Bewusstseins, der Atmung und des Kreislaufs führen.
 
