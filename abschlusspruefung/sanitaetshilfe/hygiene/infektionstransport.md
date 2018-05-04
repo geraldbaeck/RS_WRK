@@ -27,7 +27,7 @@ PSA enthält:
 + Patient erhält FFP2 Maske ohne Ausatemventil oder eine OP Maske
 + auf wertschätzenden Umgang achten
 
-+ Bei offensichtlicher Kontermination (Anhusten, Bluspritzer) Stelle sofort desinfizieren und konterminiertes Material am ZO übergeben
++ Bei offensichtlicher Kontamination (Anhusten, Blutspritzer) Stelle sofort desinfizieren und kontaminiertes Material am ZO übergeben
 
 + Am ZO durch Fahrer anmelden und Details der Übergabe klären
 

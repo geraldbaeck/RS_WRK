@@ -5,7 +5,7 @@
 
 Ablauf:
 + mechanische Reinigung
-+ konterminierte Flächen sofort desinfizieren
++ kontaminierte Flächen sofort desinfizieren
 + Wischdesinfektion täglich
 + Gesamtreinigung 14-tägig
 + Mehrwegartikel nach jeder Benutzung

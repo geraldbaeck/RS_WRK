@@ -1,11 +1,11 @@
-# Eitrige Meningits
+# Eitrige Meningitis
 Wird durch Bakterien (Meningokokken) verursacht und bezeichnet Entzündung der Hirnhaut. Übertragbar durch Tröpfcheninfektion.
 
 ## Vorbeugung
 + Impfen
-+ Antobiotika bei Exposition
++ Antibiotika bei Exposition
 
-## Kompliaktionen
+## Komplikationen
 + Hirnabzess
 + Sepsis
 + manchmal tödlich

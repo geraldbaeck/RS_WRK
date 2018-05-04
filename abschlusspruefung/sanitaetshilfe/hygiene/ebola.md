@@ -6,9 +6,9 @@
 + Starke Kopfschmerzen
 + Erbrechen, Durchfall
 + Bauchschmerzen
-+ Unerklärbare Blutungen
++ Unerklärliche Blutungen
 
-## Kompliaktionen
+## Komplikationen
 + Multiorganversagen
 + Tod
 

@@ -1,6 +1,6 @@
 # Desinfektion
-+ Abtötung bzw irreversible Inaktivierung von krankheitserregenden Keimen an und in konterminierten Objekten.
-+ dient der Unterbechung der Infektionskette
++ Abtötung bzw irreversible Inaktivierung von krankheitserregenden Keimen an und in kontaminierten Objekten.
++ dient der Unterbrechung der Infektionskette
 
 ## Desinfektionskreislauf
 Patient -> Kontamination -> mechanische Reinigung (falls erforderlich) -> Desinfektion (mit Reinigung) -> Abspülen -> Abtropfen

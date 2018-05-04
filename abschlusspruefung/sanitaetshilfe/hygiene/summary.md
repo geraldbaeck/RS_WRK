@@ -19,7 +19,7 @@
 + [Begriffsdefinitionen](begriffsdefinitionen.md)
 + [Epidemie, Pandemie, Endemie](epidemie-pandemie-endemie.md)
 + [HIV, AIDS](hiv-aids.md)
-+ [Eitrige Meningits](eitrige-meningits.md)
++ [Eitrige Meningitis](eitrige-meningits.md)
 + [Hepatitis](hepatitis.md)
 + [Noroviren](noroviren.md)
 + [Tuberkulose](tuberkulose.md)
