@@ -20,7 +20,7 @@ PSA enthält:
 + Kontakt mit dem BO-Krankenhaus aufnehmen und Details der Übergabe besprechen
 + PSA ist bereits vor dem ersten Patientenkontakt voll angelegt
 
-+ FahrerIn schützt sich am BO durch Einmalhandschuhe, FFP3 Maske und ABstand zum Patienten
++ FahrerIn schützt sich am BO durch Einmalhandschuhe, FFP3 Maske und Abstand zum Patienten
 + FahrerIn ist für das Öffnen und Schließen von Türen, Kommunikation und Dokumentation zuständig
 + Vor Öffnen des Fahrerraum, PSA ablegen und hyg Händedesinfektion
 
