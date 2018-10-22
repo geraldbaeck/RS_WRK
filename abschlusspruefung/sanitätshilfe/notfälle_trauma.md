@@ -13,12 +13,12 @@ Geschlossener Schädeldachbruch sowie Knochenrisse im Schädeldach sind kaum zu 
 Austritt von Blut und/oder Liquor aus Mund, Nase, Ohr. evt. Bluterguss in Augenhöhle.
 
 ### Gesichtsschädelverletzungen
-Durch Blut, Fremdkörper, Zähne oder Frakturen kann Atmung beeinträchtigt sein. Vordergründig also Freimachung der Atemwege wichtig. Aisgeschlagene Zähne in die Zahnrettungsbox, jedenfall vor dem Austrocknen schützen.
+Durch Blut, Fremdkörper, Zähne oder Frakturen kann Atmung beeinträchtigt sein. Vordergründig also Freimachung der Atemwege wichtig. Ausgeschlagene Zähne in die Zahnrettungsbox, jedenfalls vor dem Austrocknen schützen.
 
 ### Verletzungen des Gehirns
 
 #### Primäre Verletzungen:
-=mechanische Verletzungen des Gehirns als direkte Folge eines Traumas. Werden in fokale und difuse Verletzungen eingeteilt
+=mechanische Verletzungen des Gehirns als direkte Folge eines Traumas. Werden in fokale und diffuse Verletzungen eingeteilt
 
 #### Fokale Verletzungen:
 Rindenprellungen sind umschrieben Verletzungen der Gehirnoberfläche, durch stumpfe Gewalteinwirkung, vor allem infolge einer breitflächigen Krafteinwirkung auf Schädel. Bei abruptem Abbremsen nach Sturz oder massiver Beschleunigung des ruhenden Schädels
@@ -94,7 +94,7 @@ Besonders gefährdet:
 ### Ursachen
 + direktes Trauma (Stich, Schuss)
 + indirektes Trauma durch Zug - und Scherkräfte => Schleudertrauma
-+ pathologische Frakturen (zb bei Tumor, Metstasen)
++ pathologische Frakturen (zb bei Tumor, Metastasen)
 
 ### Symptome
 + Schmerzen im Bereich der Wirbelsäule
@@ -326,7 +326,7 @@ Wenn die gelenkbildenden Knochen durch Krafteinwirkung ihren Zusammenhalt verlie
 + Störung der Motorik, Durchblutung, Sensibilität
 
 ### Komplikationen
-+ Überdehen und Zerreißen der Gelenkskapsel und der Bänder
++ Überdehnen und Zerreißen der Gelenkskapsel und der Bänder
 + Blutung ins Gelenk
 
 ### Maßnahmen
@@ -381,7 +381,8 @@ Alle klinischen Zeichen, die auch ohne Knochenbruch auftreten können, sind also
 + Röte (Rubor)
 + Wärme (Calor)
 + eingeschränkte Beweglichkeit (Functio laesa)
-Ein weiteres unsicheres Frakturzeichen ist der Bluterguss (Hämatom).
+
++ Ein weiteres unsicheres Frakturzeichen ist der Bluterguss (Hämatom eg. Dolor & Rubor).
 
 ### Komplikationen
 + Überdehen und Zerreißen der Gelenkskapsel und der Bänder

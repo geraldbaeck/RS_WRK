@@ -92,7 +92,7 @@ Eine Unterscheidung zwischen Ischämischen und Häorragischen Insult kann nur du
 
 **Symptome**
 + Fieber, Kopfweh, Nackensteife (sog. Meningismus)
-+ Übel, Erbrechen
++ Übelkeit, Erbrechen
 + Bewusstseinsstörungen
 + Krampfanfälle
 + Lichtscheu und Geräuschempfindlichkeit

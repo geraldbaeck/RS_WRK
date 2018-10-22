@@ -81,7 +81,7 @@ Werte unter 40mg/dl. Erste Symptome oft schon bei <70mg/dl.
 
 ### Zu beachten
 + Messtoleranzen von bis 20% können vorkommen. Daher muss bei Messwerten <60mg/dl  mit entspr. Symptomatik gehandelt werden (Glykosezufuhr oral).
-+ längere hyoglykömische Bewusstlosigkeit kann zu Hirnschäden führen. Bei Auufälligkeiten Klinik mit Schädel-CT anfahren.
++ längere hyoglykömische Bewusstlosigkeit kann zu Hirnschäden führen. Bei Auffälligkeiten Klinik mit Schädel-CT anfahren.
 + Patienten können verwirrt und aggressiv sein und enorme Kärfte entwickeln => Eingenschutz
 + Ersthelfer könnten schon eine Zuckergabe durchgeführt haben.
 
@@ -171,7 +171,7 @@ Reine Alkoholvergiftungen mit schwerwiegenden Folgen sind relativ selten und am 
 | Grad | Vergiftungsstadium | &permil; | Symptomatik |
 | --- | --- | --- | --- |
 |  | Euphorie | ab 0,3&permil; | Heiterkeit, gelöste Stimmung, Augen-/Gesichtsrötung |
-| I | Exzitation | ca. 0,5-1,5&permil; | fortschreitende Abnahme der Reaktionsgeschwindigkeit, Konzentrationsfähigkeit, Muskelkoordination und Schmerzempfinden; gestörter Gleichgewichtssinn, undeutliche Sprache (DD: Hypoglykämie), allgemeine Enthemmung bzw. Verlust der Selbstkontrolle |
+| I | Exzitation (Erregung) | ca. 0,5-1,5&permil; | fortschreitende Abnahme der Reaktionsgeschwindigkeit, Konzentrationsfähigkeit, Muskelkoordination und Schmerzempfinden; gestörter Gleichgewichtssinn, undeutliche Sprache (DD: Hypoglykämie), allgemeine Enthemmung bzw. Verlust der Selbstkontrolle |
 | II | Rausch/Hypnose | 1,5-2,5&permil; | schwere Koordinationsstörungen, Sehstörungen, Somnolenz, Tachykardie, geringes Schmerzempfinden, Erbrechen, Pupillen eher eng |
 | III | Narkose | ca. 2,5-3,5&permil; | sicheres Gehen unmöglich, Amnesie, Verwirtheit, Sopor/Koma, fehlende Schutzreflexe (Aspirationsgefahr), Unterzuckerung, weite Pupillen |
 | IV | Asphyxie | > 3,5&permil; | Koma, Atemlähmung, Schock, schwere Unterkühlung, Pupillen weit und reaktionslos => akute Lebensgefahr |
@@ -276,6 +276,9 @@ CO blockiert das Hämoglobin für den Sauerstofftransport und ist ca 300 mal fes
 + Vergiftung schon bei geringer Konzentration
 + SpO2 nicht aussagekräftig
 + in geschlossenen Räumen Explosionsgefahr
+
+### Media
++ (Draeger PAC 3500 Gebrauchsanweisung)[https://intranet.wrk.at/confluence/display/RD/Spezielle+Situationen?preview=%2F90050651%2F93951728%2FGebrauchsanweisung+CO-Warner+Dr%C3%A4ger+PAC+3500.pdf]
 
 
 ## CO2 Vergiftung
@@ -449,7 +452,7 @@ Dabei enstehen Gasbläschen im Gefäßsystem (DCS) oder gelangen über die Lunge
 ### Definition
 Akute schwerwiegende Störung des Denkens, der Stimmung, des Verhaltens oder sozialer Beziehung, wodurch es zur Selbst- oder Fremdgefährdung kommen kann.
 
-Bei Psychisch auffälligen Patienten ist trotdem immer zuerst von einer behandlungsbedürftigen Notfallerkrankung auszugehen.
+Bei Psychisch auffälligen Patienten ist trotzdem immer zuerst von einer behandlungsbedürftigen Notfallerkrankung auszugehen.
 
 | Psychiatrische Notfallbilder | Pharmakologisch-toxische Einwirkungen | Andere Notfälle |
 | --- | --- | --- |
@@ -845,11 +848,11 @@ Maßnahmen:
 ## Verletzungen durch Kathedersysteme
 
 ### Ursachen
-+ uabsichtliches Herausreißen eines Harnkatheders
++ unabsichtliches Herausreißen eines Harnkatheders
 
 ### Symptome
 + große Schmerzen
-+ Blutiger Harnkatheders
++ blutiger Harnkatheder
 + Wunden im Bereich des Harnleiters
 
 ### Maßnahmen

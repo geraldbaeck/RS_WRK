@@ -218,8 +218,8 @@ Verschleppung von Thromben (gebildet Infolge von Entzündungen oder Herzrhythmus
 + paleness: Blässe, kühle Haut
 + paranthesia: Gefühls- und Bewegungsstörungen
 + paralysia: Lähmungserscheinungen
-+ pulselessness
-+ prostration: evt. Schocksymptomatik
++ pulselessness: Pulslosigkeit
++ prostration: (evt. Schocksymptomatik) extreme Erschöpfung
 
 + evt Schmerzlinderung bei Tieflagerung
 
@@ -245,4 +245,4 @@ Patient muss für wahrscheinliche OP nüchtern bleiben.
 | `peripherer Puls` | nicht tastbar | tastbar |
 | `Venenfüllung` | schlecht | gut |
 | `Ödeme` | keine | meistens |
-| `Schmerzen` | plötzlich, oft Peitschenschlagartig | Druckschmerz |
+| `Schmerzen` | plötzlich, oft peitschenschlagartig | Druckschmerz |
