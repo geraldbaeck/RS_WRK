@@ -32,7 +32,7 @@ ist die genaue körperliche Untersuchung durch Sehen, Tasten, Fühlen - durch de
 ## Becken
 + Vorsichtiges Abtasten des Beckens
 + Vorsichtig nach innen kippen
-+ Auf Instbilität achten
++ Auf Instabilität achten
 
 ## Obere Extremitäten
 + Vorsichtiges Abtasten der Arme
@@ -44,7 +44,7 @@ ist die genaue körperliche Untersuchung durch Sehen, Tasten, Fühlen - durch de
     + Temperaturveränderungen
     + Schwellungen
     + Rekapillarisierung
-  + Sensibiltät:
+  + Sensibilität:
     + taubes Gefühl/Kribbeln vorhanden
     + spürt der Patient die Berührung
 
@@ -58,13 +58,13 @@ ist die genaue körperliche Untersuchung durch Sehen, Tasten, Fühlen - durch de
     + Temperaturveränderungen
     + Schwellungen
     + Rekapillarisierung
-  + Sensibiltät:
+  + Sensibilität:
     + taubes Gefühl/Kribbeln vorhanden
     + spürt der Patient die Berührung
 
 
 # Media
 
-[ASB Dortmund HWS Immobilisiation](https://www.youtube.com/watch?v=H4qRrbceFPQ&t=7)
+[ASB Dortmund HWS Immobilisation](https://www.youtube.com/watch?v=H4qRrbceFPQ&t=7)
 [ASB Dortmund Stiffneck](https://www.youtube.com/watch?v=H4qRrbceFPQ&t=166)
 [ASB Dortmund Tourniquet](https://www.youtube.com/watch?v=H4qRrbceFPQ&t=251)

@@ -1,0 +1,2 @@
+# Sondersignal - *Was bewirkt das Einschalten von Sondersignalen?*
+der Lenker eines Einsatzfahrzeuges bei seiner Fahrt an Verkehrsverbote oder an Verkehrsbeschränkungen nicht gebunden. Er darf jedoch hierbei nicht Personen gefährden oder Sachen beschädigen.

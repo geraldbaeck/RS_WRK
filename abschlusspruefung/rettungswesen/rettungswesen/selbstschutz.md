@@ -1,0 +1,2 @@
+# Selbstschutz - *Was bedeutet das? Beispiele*
+Es gilt immer Selbstschutz vor Fremdschutz, bei jedem Einsatz muss erst auf den eigenen Schutz geachtet werden bevor ein Patient gerettet werden kann. z.B.: Bei einem Unfall muss erst alles abgesichert werden bevor Sanitäter den Bereich betreten dürfen.
