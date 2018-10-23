@@ -19,7 +19,7 @@ Verbrühung: heiße Flüssigkeiten oder Dampf.
   + Kopf, Arm l/r 9%
   + Bein l/r, Rumpf v/h 18%
 
-![Lungenvolumen](https://rawgit.com/geraldbaeck/RS_WRK/master/charts/verbrennung_9erregel.svg.svg)
+![9er Regel bei Verbrennungen](https://rawgit.com/geraldbaeck/RS_WRK/master/charts/verbrennung_9erregel.svg)
 
 ## Symptome
 + Schmerzen
