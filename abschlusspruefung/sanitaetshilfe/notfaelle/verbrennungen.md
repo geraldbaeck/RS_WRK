@@ -14,10 +14,12 @@ Verbrühung: heiße Flüssigkeiten oder Dampf.
 | 3 | grauweiß, trocken, lederartige Hautgebiete, keine Schmerzen |
 
 **Lebensgefahr ab 20% Verbrennung** = großflächig (10%Kind, 5%Säugling)
-+ Handfläche 1%
++ Handflächenregel: Handfläche des Patienten = 1%
 + 9er Regel
   + Kopf, Arm l/r 9%
   + Bein l/r, Rumpf v/h 18%
+
+![Lungenvolumen](https://rawgit.com/geraldbaeck/RS_WRK/master/charts/verbrennung_9erregel.svg.svg)
 
 ## Symptome
 + Schmerzen
