@@ -1,5 +1,10 @@
 # Verbrennungen
-Kontakt mit Feuer oder heißen Gegenständen, Schädigungen des Gewebes durch elektrischen Strom oder Strahlung
+Kontakt mit 
++ Feuer oder heißen Gegenständen
++ elektrischem Strom oder 
++ Strahlung
+kann zu thermischen Schädigungen des Gewebes führen.
+
 Verbrühung: heiße Flüssigkeiten oder Dampf.
 
 | Grad | Symptome |
@@ -11,8 +16,8 @@ Verbrühung: heiße Flüssigkeiten oder Dampf.
 **Lebensgefahr ab 20% Verbrennung** = großflächig (10%Kind, 5%Säugling)
 + Handfläche 1%
 + 9er Regel
-  + Kopf, Arm, Bein 9%
-  + Brustkorb v/h, Bauch v/h 18%
+  + Kopf, Arm l/r 9%
+  + Bein l/r, Rumpf v/h 18%
 
 ## Symptome
 + Schmerzen
