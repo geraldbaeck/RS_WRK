@@ -1,7 +1,7 @@
 # Asthma vs COPD
-| &nbsp; | Astma | COPD |
+| &nbsp; | Asthma | COPD |
 | --- | --- | --- |
 | Beginn | meist Kindheit/Jugend | >40 |
 | Auslöser | Allergie, Stress, Infekt | Noxen |
-| Dsypnoe | anfallsartig | bestaltungsabhängig |
+| Dyspnoe | anfallsartig | gestaltungsabhängig |
 | Verlauf | gleichbleibend | progredient |

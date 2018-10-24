@@ -1,7 +1,7 @@
 # Polytrauma
 
 ## Definition
-Gleichzeitige Verletzung mehrerer Körperregionen oder Organe, wobei midestens eine oder die Kombinatin lebensbedrohlich ist.
+Gleichzeitige Verletzung mehrerer Körperregionen oder Organe, wobei midestens eine oder die Kombination lebensbedrohlich ist.
 
 ## Komplikationen
 + Atem-Kreislaufstillstand

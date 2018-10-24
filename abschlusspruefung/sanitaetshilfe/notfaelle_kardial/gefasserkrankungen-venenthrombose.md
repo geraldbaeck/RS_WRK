@@ -1,7 +1,7 @@
 # Gefäßerkrankungen - Venenthrombose
 
 ## Definition
-Folge von Gefäßwandschäden (Krampfadern), verlangsamter Blutströmung und verstärkter Blutgerinnung kann es bei Bettlägerigen in tiefen Bein- und Beckenvenen zu Gerinnselbildung kommen.
+Als Folge von Gefäßwandschäden (Krampfadern), verlangsamter Blutströmung und verstärkter Blutgerinnung kann es in den tiefen Bein- und Beckenvenen zu Gerinnselbildung kommen
 
 ## Ursachen
 + Lange Flugreisen

@@ -1,7 +1,7 @@
 # Hyperglykämie (Überzuckerung / Diabetisches Koma)
 
 ## Definition
-Durch einen stark erhöhten Blutzuckerspiegel entsteht eine langsame Bewussseineintrübung.
+Durch einen stark erhöhten Blutzuckerspiegel entsteht eine langsame Bewusstseinseintrübung.
 Am häufigsten bei bekannter Zuckerkrankheit (Werte bis 250mg/dl bei Diabetikern oft ohne Symptome.) durch Infektionen oder Insulinunterdosierung aber auch Erstmanifestation. Der Insulinmangel bewirkt eine hormonelle Gegenreaktion durch Stresshormone.
 
 Kann dauerhaft zur Schädigung von Gefäßen und Nerven führen. Führt zu Durchblutungsstörungen in Augen, Nieren und Extremitäten und Blutgerinnung.

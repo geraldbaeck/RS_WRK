@@ -6,7 +6,7 @@
 
 ## Maßnahmen
 + Flache Lagerung auf weichen Untergund, Druckstellen vermeiden
-+ Maximale Suaerstoffgabe
++ Maximale Sauerstoffgabe
 + Anleitung zur Atmung
 + Wärmeerhalt
 + Flüssigkeit zum Trinken anbieten

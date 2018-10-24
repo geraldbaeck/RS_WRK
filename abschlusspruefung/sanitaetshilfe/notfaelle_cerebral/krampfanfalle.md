@@ -70,7 +70,7 @@ Nach dem Anfall:
 + allgemeine Maßnahmen
 
 ## Status epilepticus
-+ Grand mal Anfall länger als 5 Minuten
++ Generalisierter Anfall länger als 5 Minuten
 + oder Serie von Anfällen oder ein Anfall in Form von Absencen oder ein fokaler Anfall länger als 20 Minuten
 + potenziell lebensbedrohlich => NOTARZT
 

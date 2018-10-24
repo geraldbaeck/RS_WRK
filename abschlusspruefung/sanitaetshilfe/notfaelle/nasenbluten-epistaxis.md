@@ -9,7 +9,7 @@
 + vermehrte Durchblutung durch Erkältung, Heuschnupfen
 
 ## Komplikationen
-+ Apiration von Blut
++ Aspiration von Blut
 + Übelkeit, Erbrechen
 
 ## Maßnahmen
