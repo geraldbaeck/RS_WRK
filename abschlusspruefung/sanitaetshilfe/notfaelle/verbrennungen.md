@@ -7,11 +7,13 @@ kann zu thermischen Schädigungen des Gewebes führen.
 
 Verbrühung: heiße Flüssigkeiten oder Dampf.
 
-| Grad | Symptome |
-| --- | --- |
-| 1 | Rötung, Schwellung, Schmerzen |
-| 2 | Blasenbildung, Schwellung, Schmerzen |
-| 3 | grauweiß, trocken, lederartige Hautgebiete, keine Schmerzen |
+| Grad | Symptome | Schädigung | Beispiel | 
+| --- | --- | --- | --- |
+| 1 | Rötung, Schwellung, Schmerzen | Epidermis | Sonnenbrand |
+| 2a | Blasen, Schwellung, Schmerzen | Epidermis und oberer Anteil der Dermis | typ. Brandblase |
+| 2b | Blasen, Rötung, kaum Schmerzen | Tiefe Schichten der Dermis mitbetroffen | |
+| 3 | grauweiß, trocken, lederartige Hautgebiete, keine Schmerzen | Epidermis + Dermis (= Cutis) und Subcutis verbrannt | |
+| 4 | Verkohlung | Tiefer liegende Schichten mitbetroffen (z.B. Muskeln, Fett, Faszien, Knochen) | |
 
 **Lebensgefahr ab 20% Verbrennung** = großflächig (10%Kind, 5%Säugling)
 + Handflächenregel: Handfläche des Patienten = 1%
