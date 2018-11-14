@@ -1,49 +1,34 @@
 # Lungenentzündung (Pneumonie)
 
 ## Definition
-Entzündung des Lungengewebes
+Entzündung des Alveolarraums und/oder des interstitiellen Lungengewebes. Sie stellt die häufigste zum Tode führende Infektionserkrankung in Industrienationen dar und wird präklinisch oft übersehen.
 
 ## Ursachen
-Man unterscheidet primäre und sekundäre Pneumonie: Erkrankt ein gesunder Mensch an einer Lungenentzündung, ohne dass er besondere Risikofaktoren aufweist, spricht man von einer primären Pneumonie. Im Gegensatz dazu findet sich bei der sekundären Pneumonie ein prädisponierender Faktor oder ein auslösendes Ereignis für die Krankheit.
+Das Erregerspektrum unterscheidet sich je nach Altersgruppe und Infektionsursache (ambulant oder im Krankenhaus erworben). Am häufigsten sind Pneumokokken.
 
-## Primäre Pneumonie
-Erreger:
-+ Bakterien:
-  + Pneumokokken
-  + Staphylokokken
-  + Haemophilus influenzae
-  + Mykoplasmen
-  + Chlamydien
-  + Legionellen (Legionella pneumophila)
-+ Viren:
-  + Grippevirus
-  + Adenovirus
-  + Parainfluenzaviren.
-
-## Sekundäre Pneumonie
-Das Erregerspektrum verschiebt sich bei sekundären Pneumonien zu
-+ Herpesviren (CMV, HSV)
-+ Pilzen
-+ Pneumocystis jirovecii
-+ Protozoen (Toxoplasmose)
-+ anaeroben Bakterien
-
-Risikofaktoren:
+## Risikofaktoren:
 + Grunderkrankungen der Lunge, z. B. COPD, Mukoviszidose, Bronchiektasen, oder Lungenemphysem
 + allgemeine Abwehrschwäche, z. B. bei HIV-Infektion, Chemotherapie, Immunsuppression, Krebs, Diabetes mellitus oder Alkoholismus
 + Allergien
-+ alte Menschen
++ hohes Alter
 + kleine Kinder
++ vorbestehende Influenza
 
 ## Symptome
 + Hohes Fieber, Schüttelfrost
-+ Husten
-+ Atemnot
++ Husten mit eitrigem Auswurf
++ Tachypnoe und Dyspnoe
 + Brustschmerz
 + Schweißausbruch
 + Bewusstseinstrübung
 + Schwere Störung des Allgemeinbefindens
-+ eitriger Auswurf
+
+**CAVE: Atypische Pneumonie**
+Schleichender Start mit
++ Kopf- und Gliederschmerzen
++ Leichtem Fieber
++ Atemnot
++ Trockenem Husten
 
 ## Komplikationen
 + eingeschränkte Atmung (respiratorische Insuffizienz)
