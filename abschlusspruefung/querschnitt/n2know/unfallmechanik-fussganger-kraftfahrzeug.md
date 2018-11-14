@@ -1,7 +1,9 @@
-# Unfallmechanik Fußgänger-Kraftfahrzeug
-+ <50km/h: Kopf auf Kühlerhaube
-+ 50-70: Kopf vs Windschutzscheibe
-+ >70: Fußgänger fliegt über das Dach
+# Unfallmechanik FußgängerIn-Kraftfahrzeug
+| Geschwindigkeit | Verletzungsmuster |
+| --- | --- |
+| bis 50km/h | Kopf auf Kühlerhaube |
+| 50-70km/h | Kopf vs Windschutzscheibe |
+| ab 70km/h | FußgängerIn fliegt über das Dach |
 
 ## Phase 1: primärer Aufprall
 + **Unterschenkelverletzungen** (Stoßstangenverletzungen)
