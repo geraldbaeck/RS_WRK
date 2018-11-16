@@ -55,12 +55,12 @@ Situation vor Ort (Stimmt die Alarmierung? Was ist wirklich los?)
 
 ## A - Airway - Atemwege
 
-+ Patient antwortet => B
++ Patient spricht => B
 + Atemwege auf Verlegung checken
 + Auf Atemgeräusche checken (Schnarchen)
 
 ### Mögliche Maßnahmen
-+ 5 x klopfen, 5 x Heimlich
++ 5 x klopfen, 5 x Heimlich Manöver
 + Mundhöhle mit der Hand ausräumen
 + Absaugen
 + Larynxtubus, Güdeltubus
@@ -106,9 +106,10 @@ Warnzeichen:
 + Verwirrtheit
 
 Orientierung prüfen:
++ persönlich
 + zeitlich
-+ situativ
 + örtlich
++ situativ
 
 Bewusstseinszustand prüfen:
 + GCS Status
