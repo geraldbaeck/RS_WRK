@@ -19,7 +19,7 @@ Ungestörtes Bewusstsein ermöglicht also Sehen, Hören, Fühlen, Schmecken, Rie
   + schläfriger Zustand
   + durch äußere Reize weckbar
   + Schutzreflexe vorhanden
-+ Sopor = gestigerte Somnolenz
++ Sopor = gesteigerte Somnolenz
 
 ## Ohnmacht, Kollaps, Synkope
 Vorübergehende Bewusstlosigkeit durch einer Sauerstoffunterversorgung des Gehirns.

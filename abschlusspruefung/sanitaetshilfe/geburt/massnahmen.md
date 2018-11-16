@@ -6,7 +6,7 @@
 + Geburt des Kopfes möglichst langsam, um Dammriss zu vermeiden, durchatmen und hecheln, nicht mehr pressen
 + ist der Kopf geboren, mit steriler Wundkompresse abwischen
 + Der vollständige Austritt des Körpers gilt als Geburtstermin
-+ Achtung kind ist rutschig => abwischen
++ **ACHTUNG: Kind ist rutschig** => abwischen
 + Atmung und Puls kontrollieren
 + Abnabelung: mindestens 1 Minute warten, reglose sofort abnabeln
 + Nachbetreuung:
