@@ -127,5 +127,5 @@ Neurologischen Status prüfen:
 ## E - Exposure - Erweiterte Untersuchung
 Untergliedert sich in drei Bereiche:
 + [SAMPLE-Anamnese](SAMPLE.md)
-+ [Strukturierte (apparative) Untersuchung](strukturierte_Untersuchung.md)
++ [Strukturierte (apparative) Untersuchung](strukturierte_untersuchung.html)
 + [Traumatologischer Notfallcheck eg. Traumcheck](traumacheck.md)
