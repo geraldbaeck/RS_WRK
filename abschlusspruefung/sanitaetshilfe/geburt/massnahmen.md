@@ -10,5 +10,5 @@
 + Atmung und Puls kontrollieren
 + Abnabelung: mindestens 1 Minute warten, reglose sofort abnabeln
 + Nachbetreuung:
-  + Kind: Wärmerhalt, Versorgung der Nabenlschnur
+  + Kind: Wärmerhalt, Versorgung der Nabelschnur
   + Mutter: Nabeschnur am Oberschenkel kleben, Unterlage tauschen, Lagerung nach Fritsch
