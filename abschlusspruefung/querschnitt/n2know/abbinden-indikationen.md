@@ -3,4 +3,4 @@
 + Oberschenkelarterie verletzt
 + Einklemmung mit starker Blutung
 + ausgedehnte, stark zerfetzte Wunden an den Extremitäten
-+ Massenanfall an Verletzten
++ Massenanfall an Verletzten (MANV)
