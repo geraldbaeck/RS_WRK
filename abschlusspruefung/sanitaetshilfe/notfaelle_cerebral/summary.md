@@ -1,5 +1,5 @@
 # Sanitaetshilfe - Notfaelle_cerebral
 
-+ [Schlaganfall - *Ursachen, Symptome, Komplikationen, Maßnahmen*](notfaelle_cerebral/schlaganfall.md)
-+ [Meningitis und Enzephalitis - *Ursachen, Symptome, Komplikationen, Maßnahmen*](notfaelle_cerebral/meningitis-und-enzephalitis.md)
-+ [Krampfanfälle](notfaelle_cerebral/krampfanfalle.md)
++ [Schlaganfall - *Ursachen, Symptome, Komplikationen, Maßnahmen*](schlaganfall.md)
++ [Meningitis und Enzephalitis - *Ursachen, Symptome, Komplikationen, Maßnahmen*](meningitis-und-enzephalitis.md)
++ [Krampfanfälle](krampfanfalle.md)
