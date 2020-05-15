@@ -43,7 +43,7 @@
   * Jeder, dem das zumutbar it.
 
 
-### 8. Wie ist der Notfallchek durchzuführen? Achten Sie auf die richtige Reihenfolge.
+### 8. Wie ist der Notfallcheck durchzuführen? Achten Sie auf die richtige Reihenfolge.
   * *Bewusstseinskontrolle:* Person ansprechen und sanft an den Schultern rütteln.
   * *Hilferuf:* Notruf, Defi, Verbandskasten anfordern
   * *Freimachen der Atemwege:* Kopf überstrecken
