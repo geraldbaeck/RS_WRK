@@ -68,7 +68,7 @@
 ### 19. Welchen Grundsatz soll jeder Ersthelfer in einer Gefahrenzone beachten?
   Selbstschutz vor Fremdschutz
 
-### 20. Wie lautet die Telefonnmmer der Vergiftungsinformationszentrale (VIZ)?
+### 20. Wie lautet die Telefonnummer der Vergiftungsinformationszentrale (VIZ)?
   +43 1 406 43 43
 
 ### 21. Wie viel Prozent Sauerstoff bekommt der Patient bei einer Mund-zu-Mund-Beatmung?
