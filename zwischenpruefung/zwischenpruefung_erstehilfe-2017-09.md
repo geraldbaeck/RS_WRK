@@ -59,7 +59,7 @@
 ### 17. Welche Lagerung wird bei einem bewusstlosen Menschen durchgeführt?
   stabile Seitenlage
 
-### 18.Welche Maßnahmen gehöhren zu den Basismaßnahmen?
+### 18.Welche Maßnahmen gehören zu den Basismaßnahmen?
   * Frischluft zuführen
   * Wärmehaushalt regulieren
   * Lagerung
@@ -164,7 +164,7 @@
 ### 47. Warum werden bei schwerer Schädigung eines Auges beide Augen keimfrei bedeckt?
   wegen der Ruhigstellung
 
-### 48. Was bewirkt die Anwendung von Wasser bei Verbrennungen und wie leitet man am besten Erste Hilfe?
+### 48. Was bewirkt die Anwendung von Wasser bei Verbrennungen und wie leistet man am besten Erste Hilfe?
   Kühlung, Säuberung, Schmerzen lindern, locker + keimfrei verbinden, Basismaßnahmen
 
 ### 49. Was ist das Prinzip bei der Versorgung von chemischen Wunden?
