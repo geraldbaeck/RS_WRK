@@ -38,7 +38,7 @@
 
   - ##### *Welche Überprüfungen müssen nach der Reinigung durchgeführt werden?*
 
-    Maschette Dichtheitsprüfung
+    Manschette Dichtheitsprüfung
 
 
 
