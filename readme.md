@@ -3,8 +3,8 @@
 Hier findest Du Unterlagen und Notizen zur Ausbildung zum Rettungssanitäter beim Wiener Roten Kreuz. Die Daten sind nicht vollständig und können Fehler enthalten. Information über Ausbildung und Prüfung findest Du auch im [Intranet](https://intranet.wrk.at/confluence/display/FWuV/Informationen+RS-Ausbildung).
 
 ## Startmodul
-+ [Zwischenprüfung MPG](zwischenpruefung/zwischenpruefung_mpg.md)
-+ [Zwischenprüfung Erste Hilfe Fragen](zwischenpruefung/zwischenpruefung_erstehilfe.md)
++ [Zwischenprüfung MPG](zwischenpruefung/zwischenpruefung_mpg-2017-09.md)
++ [Zwischenprüfung Erste Hilfe Fragen](zwischenpruefung/zwischenpruefung_erstehilfe-2017-09.md)
 
 ## Abschlussprüfung
 + Sanitätshilfe Theorie
